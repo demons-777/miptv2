@@ -17,13 +17,13 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 https://cl-a2-i-e-cl1.cdn.mdstrm.com/live-stream/5aaabe9e2c56420918184c6d/publish/media_4500.m3u8?aid=51c2f628b440bd797900051f&uid=GaAZOXqaCC0UeYsGXZ0UTD2wn27lKGTy&sid=19lGiZaHVdXtwof8OVc78aDJ4QGwplmU&pid=gXorcDwStsba5f9RdWUyB6qS9aTjr0OS&ref=&without_cookies=false&listenerid=&dnt=true&es=cl-a2-i-e-cl1.cdn.mdstrm.com&ote=1745547392001&ot=tZAfxPxgamVtiGtEXNv2yQ&proto=https&pz=cl
 #EXTINF:-1 tvg-id="TEVEX" tvg-name="TEVEX HD" tvg-logo="https://i.imgur.com/pjs5csg.png"" group-title="NACIONAL", TEVEX HD
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="UCV" tvg-name="UCV HD" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="NACIONALES", UCV HD
+#EXTINF:-1 tvg-id="UCV" tvg-name="UCV HD" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="NACIONAL", UCV HD
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="TV+ HD" tvg-name="TV+ HD" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONAL", TV+ HD
 https://jireh-4-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="ZONA LATINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Zona_Latina_2021.svg/revision/latest/scale-to-width-down/150?cb=20210805180712&path-prefix=es" group-title="NACIONAL",ZONA LATINA
 http://200.60.124.19:29000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="VIAX" tvg-name="VIA X" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/V%C3%ADa_X_2005.jpg/revision/latest?cb=20190809004317&path-prefix=es" group-title="NACIONALES", VIA X
+#EXTINF:-1 tvg-id="VIAX" tvg-name="VIA X" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/V%C3%ADa_X_2005.jpg/revision/latest?cb=20190809004317&path-prefix=es" group-title="NACIONAL", VIA X
 http://181.78.208.25:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="TVMAS2" tvg-name="TVMAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/TV_MAS_2.png " group-title="NACIONAL", TVMAS 2
 https://marine2.miplay.cl/tateti/tracks-v1a1/mono.m3u8
@@ -268,7 +268,7 @@ http://181.78.27.128:8000/play/a02m/index.m3u8
 http://181.78.208.25:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="" group-title="VARIEDADES", ID
 http://181.78.208.25:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="H&H" tvg-name="H&H" tvg-logo="" group-title="VARIEDDADES", H&H
+#EXTINF:-1 tvg-id="H&H" tvg-name="H&H" tvg-logo="" group-title="VARIEDADES", H&H
 http://181.78.208.25:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="H&HHD" tvg-name="H&H HD" tvg-logo="" group-title="VARIEDADES", H&H HD
 http://181.78.27.128:8000/play/a02j/index.m3u8 
