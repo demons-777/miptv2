@@ -6,10 +6,12 @@
 http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L41aSE6BXCcrkZVeEEEAIGhU/m3u8
 #EXTINF:-1 tvg-id="MEGAHD" tvg-name="MEGA HD" tvg-logo="i.ibb.co/KVwyHBQ/mega.png" group-title="NACIONAL", MEGA HD
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MEGA2" tvg-name="MEGA 2" tvg-logo="https://boriflix.tv:443/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWiOtHsMHjhMHfZklyiC5qcW3frWfruM8duhJSkfMpUDtmDPhE_CGvDSw2E2N_86QreDeTAiz6HzaggA2b6m2taEFgbA7sxgrdDI9wOD-J6Htkrq_TPsaIFR_VESPXtG-9LrtZYIABrsiwkXDn6Y53kw.png" group-title="NACIONAL", MEGA 2
+http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L44G8fmzT1eiO8PXyi_1CayE/m3u8
 #EXTINF:-1 tvg-id="CHVHD" tvg-name="CHV HD" tvg-logo="https://i.ibb.co/60YtW1H/chv.png" group-title="NACIONAL", CHV HD
-https://cl-a2-i-e-cl1.cdn.mdstrm.com/live-stream/6491ced935a5833c47dd7f41/publish/media_1500.m3u8?aid=598861d8cc3c169b2236f987&pid=PTnuIzNfwmMwkPJ9sYFj8eQtFLha13Qu&sid=hPe2Cufvnh0iYLODmED1HpFBbtQQBxap&uid=zgBJfQBTvE8Rr52jNdexOk1bxbnbKFLk&es=cl-a2-i-e-cl1.cdn.mdstrm.com&ote=1745629860550&ot=6M0_2tEQUXPK4TNVRfBYZQ&proto=https&pz=cl
+http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L45BKZG9ukTbi9U_t0mK8_6U/m3u8
 #EXTINF:-1 tvg-id="CANAL13HD" tvg-name="CANAL 13 HD" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONAL", CANAL13 HD
-https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/ef29e093-abb5-4c9a-9e4d-836f6c7547d0:SCL/variant/ed68044fabc13545b407e1c2beeee886/bandwidth/1623600.m3u8
+http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L4yu2AY4FQH_jH6EWvk7XzTM/m3u8
 #EXTINF:-1 tvg-id="RED TELEVISION HD" tvg-name="RED TELEVISION HD" tvg-logo="https://i.ibb.co/VNdDky3/la-red.png" group-title="NACIONAL",LA RED HD
 https://dwnc7jeicceqy.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-id="TVN3HD" tvg-name="TVN3 HD" tvg-logo="tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="NACIONAL", TVN3 HD
@@ -33,13 +35,13 @@ https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id=MOLINATV" tvg-name="Molina TV" tvg-logo="https://cdn.m3u.cl/logo/1249_Molina_TV.png", grout-title="NACIONAL", Molina TV | CL
 https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="13CULTURA" tcg-name="CANAL 13 CULTURA" tvg-logo="https://i.imgur.com/F3sDlSe.png" group-title="NACIONAL", CANAL 13 CULTURA
+#EXTINF:-1 tvg-id="13CULTURA" tVg-name="CANAL 13 CULTURA" tvg-logo="https://i.imgur.com/F3sDlSe.png" group-title="NACIONAL", CANAL 13 CULTURA
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id"13FESTIVALES" tvg-name"CANAL 13 FESTIVALES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowo87mrhzwoe77DwRiHJud3e_OEVw19MUCQ&s" group-title="NACIONAL", CANAL 13 FESTIVALES
+#EXTINF:-1 tvg-id"13FESTIVALES" tvg-name="CANAL 13 FESTIVALES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowo87mrhzwoe77DwRiHJud3e_OEVw19MUCQ&s" group-title="NACIONAL", CANAL 13 FESTIVALES
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-id"13REALITIES" tvg-name"CANAL 13 REALITIES" tvg-logo="https://i.imgur.com/wybeCxw.png" group-title="NACIONAL", CANAL 13 REALITIES
+#EXTINF:-1 tvg-id"13REALITIES" tvg-name="CANAL 13 REALITIES" tvg-logo="https://i.imgur.com/wybeCxw.png" group-title="NACIONAL", CANAL 13 REALITIES
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-id"13TELESERIES" tvg-name"CANAL 13 TELESERIES" tvg-logo="https://i.imgur.com/3dSTXEv.png" group-title="NACIONAL", CANAL 13 TELESERIES
+#EXTINF:-1 tvg-id"13TELESERIES" tvg-name="CANAL 13 TELESERIES" tvg-logo="https://i.imgur.com/3dSTXEv.png" group-title="NACIONAL", CANAL 13 TELESERIES
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="CANAL13C tvg-name="CANAL 13 C" tvg-logo="https://e7.pngegg.com/pngimages/264/658/png-clipart-canal-13-logo-13c-television-chilevision-others-television-text.png" group-title="NACIONAL", CANAL 13 C
 https://marine2.miplay.cl/canal13cable/tracks-v1a1/mono.m3u8
@@ -63,6 +65,8 @@ http://181.78.208.25:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="BABYFIRST" tvg-name="BABYFIRST" tvg-logo="" group-title="INFANTIL", BABY FIRST
 http://181.78.208.25:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="ETC" tvg-name="ETC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijFPeyi4mgHDbkTz_c48bVgGnrBuDsAb0_Q&s" group-title="INFANTIL", ETC
+http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L4-LtWxtDgHzqobZGgvI_zFs/m3u8
 #EXTINF:-1 tvg-id="CARTOONNETWORKSD" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTIL", CARTOON NETWORK SD
 http://181.78.208.25:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="CARTOONNETWORKHD" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTIL", CARTOON NETWORK HD
@@ -97,7 +101,20 @@ http://181.78.208.25:8000/play/a01g/index.m3u8
 http://181.78.208.25:8000/play/a02f/index.m3u8
 
 -------------DEPORTES-----------
-
+#EXTINF:-1 tvg-id="TNT SPORTS FH" tvg-name="TNT SPORTS FHD" tvg-logo="http://digitaltvsv.com:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj7V8gouTVGnqniazDwKoUta_m5dxwik7LTcxwbCHfjEozcJFdMfugWDi-OD2K8eYkvmz_wZ7uUsqnzR6cxWYwi1qwBgGnCBpMJcgN4Hmx2ao.png" group-title="DEPORTES", TNT SPORTS FHD
+http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L401JLrmuNzJNnKvkkqxnMZA/m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM 2 HD" tvg-name="TNT SPORTS PREMIUM 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQwVnPyY2n5zg9-urirfC0xWQKvTvaxg_-_S51G7B&s" group-title="DEPORTES", TNT SPORTS PREMIUM 2 HD
+http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L4xNj7G2IUbdv-14PBJUY7NM/m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM HD" tvg-name="TNT SPORTS PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQwVnPyY2n5zg9-urirfC0xWQKvTvaxg_-_S51G7B&s" group-title="DEPORTES", TNT SPORTS PREMIUM HD
+http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L49EFrMU_9Ydza19EQeD2e6I/m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM 3" tvg-name="TNT SPORTS PREMIUM 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQwVnPyY2n5zg9-urirfC0xWQKvTvaxg_-_S51G7B&s" group-title="DEPORTES", TNT SPORTS PREMIUM 3
+http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L4_D3_dbjDczbcgO6OzHHqgs/m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM HD" tvg-name="TNT SPORTS PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQwVnPyY2n5zg9-urirfC0xWQKvTvaxg_-_S51G7B&s" group-title="DEPORTES", TNT SPORTS PREMIUM HD
+http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L4yrXJx5B_szzSsEnYL9TEcc/m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS ESTADIO 2 HD" tvg-name="TNT SPORTS ESTADIO 2 HD(SOLO EVENTOS)" tvg-logo="https://i0.wp.com/www.zangeshop.cl/wp-content/uploads/2023/03/unnamed-2-1.png?fit=800,800&ssl=1" group-title="DEPORTES", TNT SPORTS ESTADIO 2 HD(SOLO EVENTOS)
+http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L4wesgZf2ADaPs7FmkS7yDdE/m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS ESTADIO HD" tvg-name="TNT SPORTS ESTADIO HD" tvg-logo="https://i0.wp.com/www.zangeshop.cl/wp-content/uploads/2023/03/unnamed-2-1.png?fit=800,800&ssl=1" group-title="DEPORTES", TNT SPORTS ESTADIO HD
+http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L472ULBn36e_Iqiv8IHYKh6M/m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES", ESPN
 http://181.78.208.25:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES", ESPN (2)
