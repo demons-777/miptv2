@@ -3,22 +3,20 @@
 -------------NACIONAL-----------
 
 #EXTINF:-1 tvg-id="TVNHD" tvg-name="TVN HD" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL", TVN HD
-http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L41aSE6BXCcrkZVeEEEAIGhU/m3u8
+https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/87a14cc5-5616-4061-ac8f-1dabdfa415b2:SCL/variant/ed68044fabc13545b407e1c2beeee886/bandwidth/1623600.m3u8
 #EXTINF:-1 tvg-id="MEGAHD" tvg-name="MEGA HD" tvg-logo="i.ibb.co/KVwyHBQ/mega.png" group-title="NACIONAL", MEGA HD
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MEGA2" tvg-name="MEGA 2" tvg-logo="https://boriflix.tv:443/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZWiOtHsMHjhMHfZklyiC5qcW3frWfruM8duhJSkfMpUDtmDPhE_CGvDSw2E2N_86QreDeTAiz6HzaggA2b6m2taEFgbA7sxgrdDI9wOD-J6Htkrq_TPsaIFR_VESPXtG-9LrtZYIABrsiwkXDn6Y53kw.png" group-title="NACIONAL", MEGA 2
 http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L44G8fmzT1eiO8PXyi_1CayE/m3u8
 #EXTINF:-1 tvg-id="CHVHD" tvg-name="CHV HD" tvg-logo="https://i.ibb.co/60YtW1H/chv.png" group-title="NACIONAL", CHV HD
-http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L45BKZG9ukTbi9U_t0mK8_6U/m3u8
+https://cl-a2-i-e-cl1.cdn.mdstrm.com/live-stream/6491ced935a5833c47dd7f41/publish/media_2500.m3u8?aid=598861d8cc3c169b2236f987&uid=2UmsC2k1KiQVfaFiDErAqsEIbQL3w77G&sid=pHbz48mmZOg3rKtgu2BwcWBAWrG8MxFL&pid=xIUBt7m0bGTTA08oTEmMklBugAHhxIL3&ref=https%3A%2F%2Fwww.chilevision.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=QcyeQNDVJHCYKckUVP5HDhRf16iu7809QiTTnRx9sJztKISBu374zx5OvN7D7JJ6iBuYu7olEaH&es=cl-a2-i-e-cl1.cdn.mdstrm.com&ote=1745801348303&ot=J2JoH3DwmbayBzSWULZelQ&proto=https&pz=cl
 #EXTINF:-1 tvg-id="CANAL13HD" tvg-name="CANAL 13 HD" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONAL", CANAL13 HD
-http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L4yu2AY4FQH_jH6EWvk7XzTM/m3u8
+https://m3u.cl/channel/c13.php
 #EXTINF:-1 tvg-id="RED TELEVISION HD" tvg-name="RED TELEVISION HD" tvg-logo="https://i.ibb.co/VNdDky3/la-red.png" group-title="NACIONAL",LA RED HD
 https://dwnc7jeicceqy.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-id="TVN3HD" tvg-name="TVN3 HD" tvg-logo="tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="NACIONAL", TVN3 HD
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 https://cl-a2-i-e-cl1.cdn.mdstrm.com/live-stream/5aaabe9e2c56420918184c6d/publish/media_4500.m3u8?aid=51c2f628b440bd797900051f&uid=GaAZOXqaCC0UeYsGXZ0UTD2wn27lKGTy&sid=19lGiZaHVdXtwof8OVc78aDJ4QGwplmU&pid=gXorcDwStsba5f9RdWUyB6qS9aTjr0OS&ref=&without_cookies=false&listenerid=&dnt=true&es=cl-a2-i-e-cl1.cdn.mdstrm.com&ote=1745547392001&ot=tZAfxPxgamVtiGtEXNv2yQ&proto=https&pz=cl
-#EXTINF:-1 tvg-id="TEVEX" tvg-name="TEVEX HD" tvg-logo="https://i.imgur.com/pjs5csg.png"" group-title="NACIONAL", TEVEX HD
-https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UCV" tvg-name="UCV HD" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="NACIONAL", UCV HD
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="TV+ HD" tvg-name="TV+ HD" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONAL", TV+ HD
@@ -37,11 +35,11 @@ https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
 https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="13CULTURA" tVg-name="CANAL 13 CULTURA" tvg-logo="https://i.imgur.com/F3sDlSe.png" group-title="NACIONAL", CANAL 13 CULTURA
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id"13FESTIVALES" tvg-name="CANAL 13 FESTIVALES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowo87mrhzwoe77DwRiHJud3e_OEVw19MUCQ&s" group-title="NACIONAL", CANAL 13 FESTIVALES
+#EXTINF:-1 tvg-id="13FESTIVALES" tvg-name="CANAL 13 FESTIVALES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowo87mrhzwoe77DwRiHJud3e_OEVw19MUCQ&s" group-title="NACIONAL", CANAL 13 FESTIVALES
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-id"13REALITIES" tvg-name="CANAL 13 REALITIES" tvg-logo="https://i.imgur.com/wybeCxw.png" group-title="NACIONAL", CANAL 13 REALITIES
+#EXTINF:-1 tvg-id="13REALITIES" tvg-name="CANAL 13 REALITIES" tvg-logo="https://i.imgur.com/wybeCxw.png" group-title="NACIONAL", CANAL 13 REALITIES
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-id"13TELESERIES" tvg-name="CANAL 13 TELESERIES" tvg-logo="https://i.imgur.com/3dSTXEv.png" group-title="NACIONAL", CANAL 13 TELESERIES
+#EXTINF:-1 tvg-id="13TELESERIES" tvg-name="CANAL 13 TELESERIES" tvg-logo="https://i.imgur.com/3dSTXEv.png" group-title="NACIONAL", CANAL 13 TELESERIES
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="CANAL13C tvg-name="CANAL 13 C" tvg-logo="https://e7.pngegg.com/pngimages/264/658/png-clipart-canal-13-logo-13c-television-chilevision-others-television-text.png" group-title="NACIONAL", CANAL 13 C
 https://marine2.miplay.cl/canal13cable/tracks-v1a1/mono.m3u8
@@ -65,8 +63,6 @@ http://181.78.208.25:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="BABYFIRST" tvg-name="BABYFIRST" tvg-logo="" group-title="INFANTIL", BABY FIRST
 http://181.78.208.25:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="ETC" tvg-name="ETC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijFPeyi4mgHDbkTz_c48bVgGnrBuDsAb0_Q&s" group-title="INFANTIL", ETC
-http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L4-LtWxtDgHzqobZGgvI_zFs/m3u8
 #EXTINF:-1 tvg-id="CARTOONNETWORKSD" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTIL", CARTOON NETWORK SD
 http://181.78.208.25:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="CARTOONNETWORKHD" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTIL", CARTOON NETWORK HD
@@ -91,7 +87,7 @@ http://181.78.27.128:8000/play/a003/index.m3u8
 http://181.78.27.128:8000/play/a003/index.m3u8
 #EXTINF: -1 tvg-id="FMHKIDS" tvg-name="FMH KIDS" tvg-logo="https://i.imgur.com/eQEQiSe.png" group-title="INFANTIL", FMH KIDS
 https://live-zlr1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
-#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",group-title="INFANTIL", ZTV ANIME
+#EXTINF:-1 tvg-id="ZTVANIME" tvg-name="ZTV ANIME" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",group-title="INFANTIL", ZTV ANIME
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="XTREMACARTOONS" tvg-name="XTREMA CARTOONS" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="INFANTIL", XTREMA CARTOONS
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w1000945773.m3u8
@@ -101,36 +97,35 @@ http://181.78.208.25:8000/play/a01g/index.m3u8
 http://181.78.208.25:8000/play/a02f/index.m3u8
 
 -------------DEPORTES-----------
-#EXTINF:-1 tvg-id="TNT SPORTS FH" tvg-name="TNT SPORTS FHD" tvg-logo="http://digitaltvsv.com:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj7V8gouTVGnqniazDwKoUta_m5dxwik7LTcxwbCHfjEozcJFdMfugWDi-OD2K8eYkvmz_wZ7uUsqnzR6cxWYwi1qwBgGnCBpMJcgN4Hmx2ao.png" group-title="DEPORTES", TNT SPORTS FHD
-http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L401JLrmuNzJNnKvkkqxnMZA/m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM 2 HD" tvg-name="TNT SPORTS PREMIUM 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQwVnPyY2n5zg9-urirfC0xWQKvTvaxg_-_S51G7B&s" group-title="DEPORTES", TNT SPORTS PREMIUM 2 HD
-http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L4xNj7G2IUbdv-14PBJUY7NM/m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM HD" tvg-name="TNT SPORTS PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQwVnPyY2n5zg9-urirfC0xWQKvTvaxg_-_S51G7B&s" group-title="DEPORTES", TNT SPORTS PREMIUM HD
-http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L49EFrMU_9Ydza19EQeD2e6I/m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM 3" tvg-name="TNT SPORTS PREMIUM 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQwVnPyY2n5zg9-urirfC0xWQKvTvaxg_-_S51G7B&s" group-title="DEPORTES", TNT SPORTS PREMIUM 3
-http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L4_D3_dbjDczbcgO6OzHHqgs/m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM HD" tvg-name="TNT SPORTS PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQwVnPyY2n5zg9-urirfC0xWQKvTvaxg_-_S51G7B&s" group-title="DEPORTES", TNT SPORTS PREMIUM HD
-http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L4yrXJx5B_szzSsEnYL9TEcc/m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS ESTADIO 2 HD" tvg-name="TNT SPORTS ESTADIO 2 HD(SOLO EVENTOS)" tvg-logo="https://i0.wp.com/www.zangeshop.cl/wp-content/uploads/2023/03/unnamed-2-1.png?fit=800,800&ssl=1" group-title="DEPORTES", TNT SPORTS ESTADIO 2 HD(SOLO EVENTOS)
-http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L4wesgZf2ADaPs7FmkS7yDdE/m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS ESTADIO HD" tvg-name="TNT SPORTS ESTADIO HD" tvg-logo="https://i0.wp.com/www.zangeshop.cl/wp-content/uploads/2023/03/unnamed-2-1.png?fit=800,800&ssl=1" group-title="DEPORTES", TNT SPORTS ESTADIO HD
-http://digitaltvsv.com:80/play/3JAeS4F7KIoviteUt__L472ULBn36e_Iqiv8IHYKh6M/m3u8
+
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES", ESPN
 http://181.78.208.25:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES", ESPN (2)
 http://190.60.38.114:1010/play/a096/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 2
 http://181.78.208.25:8000/play/a00m/index.m3u
-#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-title="VARIEDADES", ESPN 3
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 3
 http://181.78.208.25:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="ESPN5" tvg-name="ESPN 5" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG" group-title="VARIEDADES", ESPN 5
+#EXTINF:-1 tvg-id="ESPN5" tvg-name="ESPN 5" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES, ESPN 5
 http://181.78.208.25:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="ESPN6" tvg-name="ESPN 6" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 6
+http://181.78.208.25:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="ESPNHD" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES", ESPN HD
 http://181.78.208.25:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4HD" tvg-name="ESPN 4 HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 4HD
+#EXTINF:-1 tvg-id="ESPN2HD" tvg-name="ESPN 2 HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 2 HD
+http://181.78.208.25:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3HD" tvg-name="ESPN 3 HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 3 HD
+http://181.78.208.25:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4HD" tvg-name="ESPN 4 HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 4HD
 http://181.78.208.25:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="ESPN5HD" tvg-name="ESPN 5 HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 5 HD
+http://181.78.208.25:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="ESPN6HD" tvg-name="ESPN 6 HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 6 HD
+http://181.78.208.25:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="ESPN7HD" tvg-name="ESPN 7 HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 7HD
-http://190.60.38.114:1010/play/a02o/index.m3u8 
+http://190.60.38.114:1010/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="ESPNDEPORTES" tvg-name="ESPN DEPORTES" tvg-logo="https://e7.pngegg.com/pngimages/109/656/png-clipart-caribbean-series-bristol-liga-mx-espn-deportes-espn-television-text.png" group-title="DEPORTES", ESPN DEPORTES
+https://v1.thetvapp.to/hls/espn-deportes/index.m3u8
 #EXTINF:-1 tvg-id="FOXSPORTSHD" tvg-name="FOX SPORTS HD" group-title="DEPORTES", FOX SPORT HD
 http://181.78.27.128:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="FOXSPORTS2HD" tvg-name="FOX SPORTS 2 HD" group-title="DEPORTES", FOX SPORTS 2 HD
@@ -188,6 +183,9 @@ http://181.78.208.25:8000/play/a01e/index.m3u8
 http://181.78.27.128:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="FXHD" tvg-name="FX HD" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES", FX HD
 http://181.78.27.128:8000/play/a02q/index.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo=""group-title="CINE Y SERIES", HBO
+http://181.188.234.21:8000/play/a04e/index.m3u8
+
 #EXTINF:-1 tvg-id="HBOHD" tvg-name="HBO HD" tvg-logo=""group-title="CINE Y SERIES", HBO HD
 http://clubtv.link/abr22/phpcode/lista0.php?c=24&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="HBO2HD" tvg-name="HBO 2 HD" tvg-logo=""group-title="CINE Y SERIES", HBO 2 HD
