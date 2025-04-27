@@ -279,10 +279,10 @@ http://181.78.208.25:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/BfmgWb6/tooncast.png" group-title="INFANTILES",TOONCAST
 http://181.78.208.25:8000/play/a02f/index.m3u8
 
-#EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="" group-title="INFANTILES", DREAMWORKS
+#EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/DreamWorks_Animation_2016_%28with_Comcast_Byline%29.svg" group-title="INFANTILES", DREAMWORKS
 http://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="ZTVANIME" tvg-name="ZTV ANIME" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",group-title="INFANTILES", ZTV ANIME
+#EXTINF:-1 tvg-id="ZTVANIME" tvg-name="ZTV ANIME" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="INFANTILES", ZTV ANIME
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 
 
@@ -326,8 +326,9 @@ http://181.78.208.25:8000/play/a01k/index.m3u8
 http://181.78.208.25:8000/play/a02q/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="CULTURA Y ENTRETENIMIENTO", HISTORY 2
+http://190.60.38.114:1010/play/a04j/index.m3u8
 
-#EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-name="LAS ESTRELLAS " tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Las-Estrellas-Logo.png?raw=true" group-title="VARIEDADES", LAS ESTRELLAS
+#EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-name="LAS ESTRELLAS " tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Las-Estrellas-Logo.png?raw=true" group-title="CULTURA Y ENTRETENIMIENTO", LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-id="LOVENATURE" tvg-name="LOVE NATURE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F10%2F72%2F10720073_2BE1E7E58BC07C71.png&height=60&resize=RATIO&format=PNG" group-title="CULTURA Y ENTRETENIMIENTO", LOVE NATURE
