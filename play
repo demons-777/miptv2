@@ -69,9 +69,6 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="13TELESERIES" tvg-name="CANAL 13 TELESERIES" tvg-logo="https://i.imgur.com/3dSTXEv.png" group-title="NACIONAL", CANAL 13 TELESERIES
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1 tvg-id="CANAL13C tvg-name="CANAL 13 C" tvg-logo="https://e7.pngegg.com/pngimages/264/658/png-clipart-canal-13-logo-13c-television-chilevision-others-television-text.png" group-title="NACIONAL", CANAL 13 C
-https://marine2.miplay.cl/canal13cable/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="TVCHILE" tvg-name="TV CHILE" tvg-logo="https://i.imgur.com/Sgawacf.png" group-title="NACIONAL", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
@@ -89,10 +86,10 @@ http://live1.cl.cdn.lla.vtrplay.com/cdfhdchi/vxfmt=dp/playlist.m3u8?device_profi
 http://live1.cl.cdn.lla.vtrplay.com/foxsports1hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="ESPNCHILE" tvg-name="ESPN CHILE" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES", ESPN
-http://live1.cl.cdn.lla.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+http://live1.cl.cdn.lla.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="ESPN2CHILE" tvg-name="ESPN 2 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",ESPN 2
-http://live1.cl.cdn.lla.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+http://live1.cl.cdn.lla.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="ESPN3CHILE" tvg-name="ESPN 3 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 3
 http://live1.cl.cdn.lla.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -156,7 +153,7 @@ http://181.78.27.128:8000/play/a01w/index.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="507dtv.co" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES", CINECANAL
-http://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE
+http://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES", CINEMAX
 http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
