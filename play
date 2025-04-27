@@ -6,7 +6,7 @@
 ----------NACIONAL----------
 
 
-#EXTINF:-1 tvg-id="Canal 13 HD" tvg-name="Canal 13 HD" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONAL", CANAL 13
+#EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONAL", CANAL 13
 http://live1.cl.cdn.lla.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="CHV" tvg-name="CHV" tvg-logo="https://i.ibb.co/60YtW1H/chv.png" group-title="NACIONAL", CHILEVISION
@@ -194,7 +194,7 @@ http://181.78.208.25:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES",FX HD
 http://live1.cl.cdn.lla.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id"MULTIPREMIER" tvg-name="MULTIPREMIER" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/multiprmr.png?raw=true" group-title="CINE Y SERIES", MULTIPREMIER
+#EXTINF:-1 tvg-id="MULTIPREMIER" tvg-name="MULTIPREMIER" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/multiprmr.png?raw=true" group-title="CINE Y SERIES", MULTIPREMIER
 http://179.49.163.34:45000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNTCHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e597d941bc3acf1bdcdf9_paramount.png" group-title="CINE Y SERIES", PARAMOUNT CHANNEL
@@ -217,6 +217,9 @@ http://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT Chile" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES", TNT 
 http://live1.cl.cdn.lla.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://pbs.twimg.com/media/Fo4or_BXsAAsJIL.png" group-title="CINE Y SERIES", TNT NOVELAS
+http://181.78.27.128:8000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT Chile" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES", TNT SERIES
 http://live1.cl.cdn.lla.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
