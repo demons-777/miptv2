@@ -153,6 +153,9 @@ http://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES", CINEMAX
 http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+#EXTINF:-1 tvg-id="CINEPREMIUM" tvg-name="CINE PREMIUM" tvg-logo="https://static.wikia.nocookie.net/rarter/images/f/fc/Skskskksks.png/revision/latest?cb=20240430152411" group-title="CINE Y SERIES", CINE PREMIUM
+http://live1.cl.cdn.lla.vtrplay.com/cinepremiumhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
 #EXTINF:-1 tvg-id="CLAROCINE" tvg-name="CLARO CINEMA" tvg-logo="https://th.bing.com/th/id/R.7446f227527b5082427fc9e32ba65a8e?rik=10qKysXSMsYRKQ&pid=ImgRaw&r=0" group-title="CINE Y SERIES", CLARO CINEMA
 http://200.60.124.19:29000/play/a02b/index.m3u8
 
@@ -219,25 +222,28 @@ http://live1.cl.cdn.lla.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device
 #EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://pbs.twimg.com/media/Fo4or_BXsAAsJIL.png" group-title="CINE Y SERIES", TNT NOVELAS
 http://181.78.27.128:8000/play/a045/index.m3u8
 
-#EXTINF:-1 tvg-id="TCM" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE Y SERIES", TCM
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE Y SERIES", TCM
 http://181.78.208.25:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0" group-title="CINE Y SERIES", USA
 http://181.78.208.25:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://spng.pngfind.com/pngs/s/527-5278647_universal-studios-tv-logo-hd-png-download.png" group-title="CINE Y SERIES", UNIVERSAL TV
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="ESTUDIO UNIVERSAL" tvg-logo="https://spng.pngfind.com/pngs/s/527-5278647_universal-studios-tv-logo-hd-png-download.png" group-title="CINE Y SERIES", STUDIO UNIVERSAL
 http://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="CINE Y SERIES", UNIVERSAL CINEMA
+#EXTINF:-1 tvg-id="UNIVERSALTV" tvg-name="UNIVERSAL TV" tvg-logo="https://brandlogos.net/wp-content/uploads/2018/10/universal-tv-logo.png" group-title="CINE Y SERIES", UNIVERSAL TV
+http://live1.cl.cdn.lla.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD UNIVERSALTV
+
+#EXTINF:-1 tvg-id="UNIVERSALCINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="CINE Y SERIES", UNIVERSAL CINEMA
 http://live1.cl.cdn.lla.vtrplay.com/universalcinemahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thafd.bing.com/th/id/OIP.tQO5QH8KZO3CGvXhdxj63QHaEE?rs=1&pid=ImgDetMain" group-title="CINE Y SERIES", UNIVERSAL COMEDY
+#EXTINF:-1 tvg-id="UNIVERSALCOMEDY" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://thafd.bing.com/th/id/OIP.tQO5QH8KZO3CGvXhdxj63QHaEE?rs=1&pid=ImgDetMain" group-title="CINE Y SERIES", UNIVERSAL COMEDY
 http://live1.cl.cdn.lla.vtrplay.com/universalcomedyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1684337408315-universal-reality.png" group-title="CINE Y SERIES", UNIVERSAL REALITIE
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1684337408315-universal-reality.png" group-title="CINE Y SERIES", UNIVERSAL REALITY
 http://live1.cl.cdn.lla.vtrplay.com/universalrealityhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipqpQJw2N8P-aAodSJbD51SJ-ov8sazE97YtUdqFa3FfqnCK5-nVBH2jCAxVJ7XuyCJjOgdeZLq31raKqNlHRBFPMsg6Ofk4rgbdfHE7divwxVyS238_9X3hPKT8l74WtWNyMKkUCSA7flnRWjTrGTet9UbRjGjT0B8jCpEt3EmRhRadSAT1n8oioU/s1600/Warner_Logo_2015_ByN.webp" group-title="CINE Y SERIES", WARNER
+#EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNER TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipqpQJw2N8P-aAodSJbD51SJ-ov8sazE97YtUdqFa3FfqnCK5-nVBH2jCAxVJ7XuyCJjOgdeZLq31raKqNlHRBFPMsg6Ofk4rgbdfHE7divwxVyS238_9X3hPKT8l74WtWNyMKkUCSA7flnRWjTrGTet9UbRjGjT0B8jCpEt3EmRhRadSAT1n8oioU/s1600/Warner_Logo_2015_ByN.webp" group-title="CINE Y SERIES", WARNER
 http://live1.cl.cdn.lla.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="XTREMAACCION" tvg-name="XTREMA ACCION" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp" group-title="CINE Y SERIES", XTREMA ACCION HD
