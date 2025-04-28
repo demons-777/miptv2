@@ -213,11 +213,14 @@ http://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT Chile" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES", TNT 
 http://live1.cl.cdn.lla.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT Chile" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES", TNT SERIES
+http://live1.cl.cdn.lla.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
 #EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://pbs.twimg.com/media/Fo4or_BXsAAsJIL.png" group-title="CINE Y SERIES", TNT NOVELAS
 http://181.78.27.128:8000/play/a045/index.m3u8
 
-#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT Chile" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES", TNT SERIES
-http://live1.cl.cdn.lla.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="TCM" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE Y SERIES", TCM
+http://181.78.208.25:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0" group-title="CINE Y SERIES", USA
 http://181.78.208.25:8000/play/a00h/index.m3u8
