@@ -245,7 +245,7 @@ http://live1.cl.cdn.lla.vtrplay.com/universalcomedyhdchi/vxfmt=dp/playlist.m3u8?
 #EXTINF:-1 tvg-id="UNIVERSALREALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="CINE Y SERIES", UNIVERSAL REALITIE
 http://live1.cl.cdn.lla.vtrplay.com/universalrealityhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNER TV" tvg-logo="https://cdn.worldvectorlogo.com/logos/warner-bros.svg" group-title="CINE Y SERIES", WARNER
+#EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_k0gMVsgJqwTZFTZNuWSJN59KnY5Xg4HaWA&s" group-title="CINE Y SERIES", WARNER
 http://live1.cl.cdn.lla.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 
@@ -320,7 +320,7 @@ http://181.78.208.25:8000/play/a01k/index.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6949d391879f262fe42_turbo.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY TURBO
-http://181.78.208.25:8000/play/a01h/index.m3u8
+http://live1.cl.cdn.lla.vtrplay.com/discoveryturbosdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
 #EXTINF:-1 tvg-id="DiscoveryWorld" tvg-name="DISCOVERY WORLD" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d241ede080ce187953_d-world1.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY WORLD
 http://live1.cl.cdn.lla.vtrplay.com/discworldhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
