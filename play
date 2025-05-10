@@ -12,8 +12,10 @@ http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_prof
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL", TVN
 http://live1.cl.cdn.lla.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="TV+" tvg-name="TV+" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONAL",TV+ 
-http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9930
+#EXTINF:-1 tvg-id="TV+ HD" tvg-name="TV+ HD" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONAL",TV+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qhtBDVXi9XooWf7qfnvgPw", "kid":"rSj+ax7PX+iNOD1za3fYFw" },{ "kty":"oct", "k":"D3krXBpUggt+Bte2HPHVKw", "kid":"WdXh7WXZXxKsCi1BNk/W2A" },{ "kty":"oct", "k":"OHls8RkhHtY3K5TS5rlbTg", "kid":"HlSrYIXWVvKdrfo1jdJKnA" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/tvp/tvp.mpd
 
 #EXTINF:-1 tvg-id="RED TELEVISION HD" tvg-name="RED TELEVISION HD" tvg-logo="https://i.ibb.co/VNdDky3/la-red.png" group-title="NACIONAL", LA RED
 http://live1.cl.cdn.lla.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -214,7 +216,7 @@ http://181.78.27.128:8000/play/a01w/index.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="AZCINEMA" tvg-name="AZCINEMA" tvg-logo="https://americancable.ec/wp-content/uploads/2021/09/40-logo-azcinema.png" group-title="CINE Y SERIES", AZCINEMA
-http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/87585
+http://live1.cl.cdn.lla.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD AZCINEMA
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES", CINECANAL
 http://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -266,7 +268,7 @@ https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
 #EXTINF:-1 tvg-id="" tvg-name="DE PELICULAS PLUS" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CINE Y SERIES", DE PELICULAS PLUS
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9639
 
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULAS CLASICO" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CINE Y SERIES", DE PELICULAS CLASICO
+#EXTINF:-1 tvg-id="" tvg-name="De Peliculas Clasico" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CINE Y SERIES", DE PELICULAS CLASICO
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9641
 
 #EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="" group-title="CINE Y SERIES", DHE
@@ -328,7 +330,7 @@ http://live1.cl.cdn.lla.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device
 http://181.78.27.128:8000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE Y SERIES", TCM
-http://190.11.130.46/mnp/tcm/output.mpd
+http://181.188.234.21:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0" group-title="CINE Y SERIES", USA
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322881.m3u8
@@ -389,13 +391,13 @@ http://179.49.163.34:45000/play/a03i/index.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/edyehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/Vjw3R8m/nick.png" group-title="INFANTILES", NICKELODEON
-http://190.11.130.46/mnp/nickelodeon/output.mpd
+http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/319537.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/5j96nsY/nick-jr.png" group-title="INFANTILES", NICK JR
-http://190.11.130.46/mnp/nickjr/output.mpd
+http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9876
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/BfmgWb6/tooncast.png" group-title="INFANTILES", TOONCAST
-http://190.11.130.46/mnp/tooncast/output.mpd
+http://fivetv.org:25461/YoYit4/yoY1T4/186447
 
 #EXTINF:-1 tvg-id="SENPAITV" tvg-name="SENPAI TV" tvg-logo="https://cdn-w.tvdaldia.cl/img/logos/senpaitv.png" group-title="INFANTILES", SENPAI TV
 http://live1.cl.cdn.lla.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -474,6 +476,7 @@ http://179.49.163.34:45000/play/a01o/index.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="SUNCHANNEL" tvg-name="SUN CHANNEL" tvg-logo="https://thafd.bing.com/th/id/OIP.OQxmydNuqRrpQcwaMDatcAHaHJ?rs=1&pid=ImgDetMain" group-title="CULTURA Y ENTRETENIMIENTO", SUN CHANNEL
+
 
 #EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", PASIONES
 http://179.49.163.34:45000/play/a00f/index.m3u8
