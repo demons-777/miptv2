@@ -412,7 +412,7 @@ http://179.49.163.34:45000/play/a03i/index.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/edyehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/Vjw3R8m/nick.png" group-title="INFANTILES", NICKELODEON
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/319537.m3u8
+http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/99895.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/5j96nsY/nick-jr.png" group-title="INFANTILES", NICK JR
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9876
@@ -476,7 +476,7 @@ http://179.49.163.34:45000/play/a02p/index.m3u8
 http://181.78.27.128:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="CULTURA Y ENTRETENIMIENTO", HISTORY 2
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/99933.m3u8
+http://179.49.163.34:45000/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-name="LAS ESTRELLAS " tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Las-Estrellas-Logo.png?raw=true" group-title="CULTURA Y ENTRETENIMIENTO", LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
@@ -491,7 +491,7 @@ http://live1.cl.cdn.lla.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_p
 http://200.60.124.19:29000/play/a01b/index.m3u8 
 
 #EXTINF:-1 tvg-id="lifetime" tvg-name="LIFETIME" tvg-logo="" group-title="CULTURA Y ENTRETENIMIENTO", LIFETIME
-http://179.49.163.34:45000/play/a01o/index.m3u8 
+http://179.49.163.34:45000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://cdn.worldvectorlogo.com/logos/national-geographic.svg" group-title="CULTURA Y ENTRETENIMIENTO", NATGEO
 http://live1.cl.cdn.lla.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
