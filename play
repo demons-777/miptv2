@@ -150,7 +150,7 @@ http://179.49.163.34:45000/play/a02a/index.m3u8
 http://179.49.163.34:45000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN7CHILE" tvg-name="ESPN 7 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 7
-http://190.60.38.114:1010/play/a02o/index.m3u8
+http://fivetv.org:25461/YoYit4/yoY1T4/92585
 
 #EXTINF:-1 tvg-id="" tvg-name="CDO 2" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png" group-title="DEPORTES", CDO 2
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9896
@@ -178,21 +178,32 @@ http://live1.cl.cdn.lla.vtrplay.com/l1maxhdchi/vxfmt=dp/playlist.m3u8?device_pro
 #EXTINF:-1 tvg-id="" tvg-name="CDO" tvg-logo="https://i.ibb.co/W0mWyNr/cdo.png" group-title="DEPORTES", CDO
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314874.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CDO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6nCtntodGtEuHAFGKijSDu2cC4L9sHuMmw&s" group-title="DEPORTES CHILE", CDO 2
+#EXTINF:-1 tvg-id="" tvg-name="CDO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6nCtntodGtEuHAFGKijSDu2cC4L9sHuMmw&s" group-title="DEPORTES", CDO 2
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314876.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELETRACK" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f665a567a9739a970cc5_teletrak.jpeg" group-title="DEPORTES", TELETRACK
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314877.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT Ñ" tvg-logo="https://i.ibb.co/nwQVch5/Sin-t-tulo-1.png" group-title="DEPORTES", BEIN SPORT Ñ
+http://fivetv.org:25461/YoYit4/yoY1T4/92569
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT XTRA Ñ" tvg-logo="https://i.ibb.co/89j5Ztd/extrrtwer3232.png" group-title="DEPORTES", BEIN SPORT XTRA Ñ
+http://fivetv.org:25461/YoYit4/yoY1T4/92570
+
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="BEIN SPORTS XTRA" tvg-logo="https://i.ibb.co/89j5Ztd/extrrtwer3232.png" group-title="DEPORTES", BEIN SPORTS XTRA
+http://fivetv.org:25461/YoYit4/yoY1T4/92572
+
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1" tvg-logo="https://i.ibb.co/fMh1j6W/610.png" group-title="DEPORTES", DIRECTV SPORTS 1
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/315180.m3u8
+http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9561
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS+
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/315178.m3u8
+http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9559
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://i.ibb.co/fMh1j6W/610.png" group-title="DEPORTES", DIRECTV SPORTS 2
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/315179.m3u8
+http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9569
 
+#EXTINF:-1 tvg-id="" tvg-name="D.SPORTS FIGHT HD" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="DEPORTES", D.SPORTS FIGHT
+http://fivetv.org:25461/YoYit4/yoY1T4/9257
 
 ----------CINE Y SERIES----------
 
@@ -492,8 +503,6 @@ http://179.49.163.34:45000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://cdn.worldvectorlogo.com/logos/national-geographic.svg" group-title="CULTURA Y ENTRETENIMIENTO", NATGEO
 http://live1.cl.cdn.lla.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-id="SUNCHANNEL" tvg-name="SUN CHANNEL" tvg-logo="https://thafd.bing.com/th/id/OIP.OQxmydNuqRrpQcwaMDatcAHaHJ?rs=1&pid=ImgDetMain" group-title="CULTURA Y ENTRETENIMIENTO", SUN CHANNEL
 
 #EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", PASIONES
 http://179.49.163.34:45000/play/a00f/index.m3u8
