@@ -71,25 +71,15 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="TVCHILE" tvg-name="TV CHILE" tvg-logo="https://i.imgur.com/Sgawacf.png" group-title="NACIONAL", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.imgur.com/6EHqEs2.png" group-title="NACIONAL", NTV 
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
 
 ----------DEPORTES----------
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS MUNDO" tvg-logo="https://i.ibb.co/sp4wTqb/descarga.png" group-title="DEPORTES", TNT SPORTS PREMIUM SD
-http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/112994
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 MUNDO" tvg-logo="http://miarea.vip:8080/images/77486a5c8373a25a31a2f5f7c66ccdec.png group-title="DEPORTES", TNT SPORTS 2
-http://fivetv.org:25461/YoYit4/yoY1T4/92641
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS P MUNDO" tvg-logo="https://i.ibb.co/sp4wTqb/descarga.png" group-title="DEPORTES", TNT SPORTS P MGO
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34676
 
-#EXTINF:-1 tvg-id="TNTSportsHD" tvg-name="TNT SPORTS P MUNDO" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", TNT SPORTS PREMIUM
-http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9886
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 MUNDO" tvg-logo="https://i.ibb.co/YP4F09j/TNT-1.jpg" group-title="DEPORTES", TNT SPORTS 1
-http://fivetv.org:25461/YoYit4/yoY1T4/92640
-
-#EXTINF:-1 tvg-id="TNTSportsHD" tvg-name="TNT SPORTS P MUNDO2" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", TNT SPORTS PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS P2 MUNDO" tvg-logo="http://miarea.vip:8080/images/77486a5c8373a25a31a2f5f7c66ccdec.png group-title="DEPORTES", TNT SPORTS P2 MGO
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9923
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 1" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 1
@@ -110,23 +100,14 @@ http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314867.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 6" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 6
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314868.m3u8
 
+#EXTINF:-1 tvg-id="TNTSports" tvg-name="TNT SPORTS MUNDO" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", TNT SPORTS PREMIUM
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/123886
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 1
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314869.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 2
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314870.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 3
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314871.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 2D (SOLO EVENTOS)1" tvg-logo="https://i.ibb.co/3W1vcGp/Laliga2D.png" group-title="DEPORTES", LIGA 2D (SOLO EVENTOS) 1
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314872.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 2D (SOLO EVENTOS)2" tvg-logo="https://i.ibb.co/3W1vcGp/Laliga2D.png" group-title="DEPORTES", LIGA 2D (SOLO EVENTOS) 2
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314873.m3u8
-
-#EXTINF:-1 tvg-id="0" tvg-name="TNT SPORTS ARGENTINA" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/DEPORTES/TNTSPORTS.png" group-title="DEPORTES", TNT SPORTS ARGENTINA
-http://fivetv.org:25461/YoYit4/yoY1T4/186515
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN PREMIUM
 http://live1.cl.cdn.lla.vtrplay.com/foxsports1hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -147,10 +128,10 @@ http://live1.cl.cdn.lla.vtrplay.com/espnplushdchi/vxfmt=dp/playlist.m3u8?device_
 http://179.49.163.34:45000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN6CHILE" tvg-name="ESPN 6 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 6
-http://179.49.163.34:45000/play/a01s/index.m3u8
+http://179.49.163.34:45000/play/a01s/index.m3u8 
 
 #EXTINF:-1 tvg-id="ESPN7CHILE" tvg-name="ESPN 7 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 7
-http://fivetv.org:25461/YoYit4/yoY1T4/92585
+http://179.49.163.34:45000/play/a00k/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="CDO 2" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png" group-title="DEPORTES", CDO 2
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9896
@@ -181,29 +162,31 @@ http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314874.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CDO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6nCtntodGtEuHAFGKijSDu2cC4L9sHuMmw&s" group-title="DEPORTES", CDO 2
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314876.m3u8
 
+#EXTINF:-1 tvg-id="MovistarDeporte" tvg-name="Movistar Deportes" tvg-logo="https://img.hidra.app/deportes/movistardeportes.png" group-title="DEPORTES", MOVISTAR DEPORTES 
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34704
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="ES: Dazn 1" tvg-logo="http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEisfpLaNpQzT32Vpr_YWSTVRhdcKD1L3N_4aXrW9We6KE3pPWkY0_hR3RbuHE5XsX8.png" group-title="DEPORTES", DAZN 1
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335431
+
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="ES: Dazn 2" tvg-logo="http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iCjx7Eaf1rNr19zNergL58Ug.png" group-title="DEPORTES", DAZN 2
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335434
+
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: Dazn 3" tvg-logo="http://hidra.live:80/images/IPipT31tafaSLBzN7UqRBWKd18SmX-NzH-YBR2p5orFKhgsGa4KM8VoC-wcpWC8lK0JLfgwZQDo1t7_MT0KM-A.png" group-title="DEPORTES", DAZN 3 
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335436
+
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: Dazn 4" tvg-logo="http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iC63f1PKT3TPJublQWXeZZEQ.png" group-title="DEPORTES",DAZN 4
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335438
+
 #EXTINF:-1 tvg-id="" tvg-name="TELETRACK" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f665a567a9739a970cc5_teletrak.jpeg" group-title="DEPORTES", TELETRACK
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314877.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT Ñ" tvg-logo="https://i.ibb.co/nwQVch5/Sin-t-tulo-1.png" group-title="DEPORTES", BEIN SPORT Ñ
-http://fivetv.org:25461/YoYit4/yoY1T4/92569
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://i.ibb.co/fMh1j6W/610.png" group-title="DEPORTES", DIRECTV SPORTS
+http://200.60.124.19:29000/play/a081/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT XTRA Ñ" tvg-logo="https://i.ibb.co/89j5Ztd/extrrtwer3232.png" group-title="DEPORTES", BEIN SPORT XTRA Ñ
-http://fivetv.org:25461/YoYit4/yoY1T4/92570
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://img.hidra.app/deportes/winsportsplus.png" group-title="DEPORTES", WIN SPORTS +
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34691
 
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="BEIN SPORTS XTRA" tvg-logo="https://i.ibb.co/89j5Ztd/extrrtwer3232.png" group-title="DEPORTES", BEIN SPORTS XTRA
-http://fivetv.org:25461/YoYit4/yoY1T4/92572
 
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1" tvg-logo="https://i.ibb.co/fMh1j6W/610.png" group-title="DEPORTES", DIRECTV SPORTS 1
-http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9561
-
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS+
-http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9559
-
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://i.ibb.co/fMh1j6W/610.png" group-title="DEPORTES", DIRECTV SPORTS 2
-http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9569
-
-#EXTINF:-1 tvg-id="" tvg-name="D.SPORTS FIGHT HD" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="DEPORTES", D.SPORTS FIGHT
-http://fivetv.org:25461/YoYit4/yoY1T4/9257
 
 ----------CINE Y SERIES----------
 
@@ -280,25 +263,22 @@ http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9639
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9641
 
 #EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="" group-title="CINE Y SERIES", DHE
-http://fivetv.org:25461/YoYit4/yoY1T4/186481
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313037
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES", FX
 http://live1.cl.cdn.lla.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN" tvg-logo="" group-title="CINE Y SERIES", GOLDEN
-http://fivetv.org:25461/YoYit4/yoY1T4/24301
+http://179.49.163.34:45000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENEDGE" tvg-name="GOLDEN EDGE" tvg-logo="" group-title="CINE Y SERIES", GOLDEN EDGE
 http://179.49.163.34:45000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/Sxd9XyY0/gplus.png" group-title="CINE Y SERIES", GOLDEN PLUS
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322822.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34989
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE Y SERIES", GOLDEN PREMIER
 http://fivetv.org:25461/YoYit4/yoY1T4/186479
-
-#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE" tvg-logo="https://i.ibb.co/w6vZ5px/STARZESP.png" group-title="CINE Y SERIES", STARZ ENCORE
-http://fivetv.org:25461/YoYit4/yoY1T4/186480
 
 #EXTINF:-1 tvg-id="MC" tvg-name="MC" tvg-logo="" group-title="CINE Y SERIES", MC
 http://179.49.163.34:45000/play/a01w/index.m3u8
@@ -322,9 +302,6 @@ http://179.49.163.34:45000/play/a03o/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2u1TmSL54q3RcBApP9o8Ng", "kid":"huZL+YW/WiqLSNseTQ+GDA" },{ "kty":"oct", "k":"WoNKyh0J0S0dVltzuGFsAw", "kid":"EjEoWXhpUrWUeu41+doVrw" },{ "kty":"oct", "k":"YK+CBHd0BiDx5i/MQH333w", "kid":"NkGjl+bnX06HeQ0dZsX3Pg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CINE Y SERIES", MOVISTAR CINE
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322849.m3u8
-
 #EXTINF:-1 tvg-id="SONYCHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e153054c65152bddd6_sony.png" group-title="CINE Y SERIES", SONY CHANNEL
 http://181.78.27.128:8000/play/a03h/index.m3u8
 
@@ -344,13 +321,10 @@ http://live1.cl.cdn.lla.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device
 http://181.78.27.128:8000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE Y SERIES", TCM
-http://181.188.234.21:8000/play/a03d/index.m3u8
+http://live1.cl.cdn.lla.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0" group-title="CINE Y SERIES", USA
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322881.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ULTRA CINE" tvg-logo="http://miarea.vip:8080/images/276f2d0c63b27c9605a6863cd9146980.png" group-title="CINE Y SERIES", ULTRA CINE 
-http://fivetv.org:25461/YoYit4/yoY1T4/226539
 
 #EXTINF:-1 tvg-id="" tvg-name="+CINE" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE Y SERIES", +CINE
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322809.m3u8
@@ -359,7 +333,7 @@ http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322809.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="UNIVERSALTV" tvg-name="UNIVERSAL TV" tvg-logo="https://i.pinimg.com/564x/b9/e1/b5/b9e1b5ed78238f8700fdc1704287ba37.jpg" group-title="CINE Y SERIES", UNIVERSAL TV
-http://181.78.27.128:8000/play/a04q/index.m3u8
+http://live1.cl.cdn.lla.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="UNIVERSALCINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="CINE Y SERIES", UNIVERSAL CINEMA
 http://live1.cl.cdn.lla.vtrplay.com/universalcinemahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -377,6 +351,7 @@ http://live1.cl.cdn.lla.vtrplay.com/universalrealityhdchi/vxfmt=dp/playlist.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 
+
 ----------INFANTILES----------
 
 
@@ -385,15 +360,6 @@ http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9854
 
 #EXTINF:-1 tvg-id="BITME" tvg-name="BITME" tvg-logo="" group-title="INFANTILES", BITME
 http://179.49.163.34:45000/play/a02m/index.m3u8
-
-#EXTINF:-1 tvg-id="Boing" tvg-name="BOING KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="INFANTILES", BOING KIDS
-http://fivetv.org:25461/YoYit4/yoY1T4/23857
-
-#EXTINF:-1 tvg-id="" tvg-name="ULTRA KIDS" tvg-logo="http://miarea.vip:8080/images/1315c18ae353d5e757737e8b1785a302.png" group-title="INFANTILES", ULTRA KIDS
-http://fivetv.org:25461/YoYit4/yoY1T4/226543
-
-#EXTINF:-1 tvg-id="" tvg-name="MAX ANIME" tvg-logo="https://esportsmaxtele.com/wp-content/uploads/2024/02/Max-anime-logo-1.png" group-title="INFANTILES", MAX ANIME
-http://fivetv.org:25461/YoYit4/yoY1T4/282476
 
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e573e3704612374867e59_dreamworks.jpg" group-title="INFANTILES", DREAMWORKS
 http://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -420,19 +386,20 @@ http://179.49.163.34:45000/play/a03i/index.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/edyehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/Vjw3R8m/nick.png" group-title="INFANTILES", NICKELODEON
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/99895.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313153
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/5j96nsY/nick-jr.png" group-title="INFANTILES", NICK JR
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9876
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/BfmgWb6/tooncast.png" group-title="INFANTILES", TOONCAST
-http://fivetv.org:25461/YoYit4/yoY1T4/186447
+
 
 #EXTINF:-1 tvg-id="SENPAITV" tvg-name="SENPAI TV" tvg-logo="https://cdn-w.tvdaldia.cl/img/logos/senpaitv.png" group-title="INFANTILES", SENPAI TV
 http://live1.cl.cdn.lla.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="ZTVANIME" tvg-name="ZTV ANIME" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="INFANTILES", ZTV ANIME
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
+
 
 
 ----------CULTURA Y ENTRETENIMIENTO----------
@@ -444,11 +411,11 @@ http://live1.cl.cdn.lla.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?dev
 #EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg" group-title="CULTURA Y ENTRETENIMIENTO", COMEDY CENTRAL
 http://181.78.27.128:8000/play/a02h/index.m3u8
 
-#EXTINF:-1 tvg-id="DOCU" tvg-name="DOCU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcThf-YvMnXLh_lzwER9k3nIjpaiSVfIRUZg&s" group-title="CULTURA Y ENTRETENIMIENTO", DOCU
-http://live1.cl.cdn.lla.vtrplay.com/docuhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
 #EXTINF:-1 tvg-id="TLN" tvg-name="TELENOVELAS" tvg-logo="" group-title="CULTURA Y ENTRETENIMIENTO", TELENOVELAS
 http://179.49.163.34:45000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", PASIONES
+http://179.49.163.34:45000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERYH&H" tvg-name="DISCOVERY H&H" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6924cdade706debff8d_homeandhealth.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY H&H
 http://181.78.27.128:8000/play/a02j/index.m3u8
@@ -496,13 +463,553 @@ http://live1.cl.cdn.lla.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?devic
 http://live1.cl.cdn.lla.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f693d4f95adf0c078506_tlc.png" group-title="CULTURA Y ENTRETENIMIENTO", TLC
-http://200.60.124.19:29000/play/a01b/index.m3u8 
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34824 
 
 #EXTINF:-1 tvg-id="lifetime" tvg-name="LIFETIME" tvg-logo="" group-title="CULTURA Y ENTRETENIMIENTO", LIFETIME
 http://179.49.163.34:45000/play/a01o/index.m3u8
 
-#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://cdn.worldvectorlogo.com/logos/national-geographic.svg" group-title="CULTURA Y ENTRETENIMIENTO", NATGEO
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CULTURA Y ENTRETENIMIENTO", NATGEO
 http://live1.cl.cdn.lla.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", PASIONES
-http://179.49.163.34:45000/play/a00f/index.m3u8
+
+
+----------CANALES  24/7----------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Accion Classics HD" tvg-logo="https://img.hidra.app/247/mcrt128.png" group-title="CANALES  24/7",24/7 Cinema Accion Classics HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50572
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Comedia HD" tvg-logo="https://img.hidra.app/247/mcrt128.png" group-title="CANALES  24/7",24/7 Cinema Comedia HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50575
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema DC Comics FHD" tvg-logo="https://img.hidra.app/247/cinemadccomics.png" group-title="CANALES  24/7",24/7 Cinema DC Comics FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50576
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema DC Universe HD" tvg-logo="https://img.hidra.app/247/cinemadcuniverse.png" group-title="CANALES  24/7",24/7 Cinema DC Universe HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50577
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Disney Family HD" tvg-logo="https://img.hidra.app/247/cinemadisneyfamilymovies.png" group-title="CANALES  24/7",24/7 Cinema Disney Family HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50578
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Disney Pixar FHD" tvg-logo="https://img.hidra.app/247/cinemadisneypixar.png" group-title="CANALES  24/7",24/7 Cinema Disney Pixar FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50579
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Dreamworks FHD" tvg-logo="https://img.hidra.app/247/cinemadreamworks.png" group-title="CANALES  24/7",24/7 Cinema Dreamworks FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50580
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Familia FHD" tvg-logo="https://img.hidra.app/247/cinemafamilia.png" group-title="CANALES  24/7",24/7 Cinema Familia FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50581
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Happy Madison FHD" tvg-logo="https://img.hidra.app/247/cinemahappymadison128.png" group-title="CANALES  24/7",24/7 Cinema Happy Madison FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50582
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Lego Movies FHD" tvg-logo="https://img.hidra.app/247/cinemalegomovie.png" group-title="CANALES  24/7",24/7 Cinema Lego Movies FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50584
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Marvel Animated FHD" tvg-logo="https://img.hidra.app/247/cinemamarvelanimated.png" group-title="CANALES  24/7",24/7 Cinema Marvel Animated FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50585
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Marvel Studios FHD" tvg-logo="https://img.hidra.app/247/cinemamarvel1.png" group-title="CANALES  24/7",24/7 Cinema Marvel Studios FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50586
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Moviecenter Kids FHD" tvg-logo="https://img.hidra.app/247/MovieCenterkids.png" group-title="CANALES  24/7",24/7 Moviecenter Kids FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50622
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Moviecenter Premium HD" tvg-logo="https://img.hidra.app/247/thundercatsnew.png" group-title="CANALES  24/7",24/7 Moviecenter Premium HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50623
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Moviecenter Premium Este FHD" tvg-logo="https://img.hidra.app/247/moviecentereste128.png" group-title="CANALES  24/7",24/7 Moviecenter Premium Este FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50624
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Moviecenter Premium Oeste FHD" tvg-logo="https://img.hidra.app/247/moviecenteroeste128.png" group-title="CANALES  24/7",24/7 Moviecenter Premium Oeste FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50625
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cocina Abierta FHD" tvg-logo="https://img.hidra.app/247/cocina.abierta1.png" group-title="CANALES  24/7",24/7 Cocina Abierta FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50588
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cuentos de la Cripta SD" tvg-logo="https://img.hidra.app/247/cuentosdelacripta.png" group-title="CANALES  24/7",24/7 Cuentos de la Cripta SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50589
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note HD" tvg-logo="https://img.hidra.app/247/deathnote.png" group-title="CANALES  24/7",24/7 Death Note HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50592
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan HD" tvg-logo="https://img.hidra.app/247/detectiveconan.png" group-title="CANALES  24/7",24/7 Detective Conan HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50593
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Disney Live Action FHD" tvg-logo="https://img.hidra.app/247/disneyliveaction128.png" group-title="CANALES  24/7",24/7 Disney Live Action FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50595
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Disney Princess FHD" tvg-logo="https://img.hidra.app/247/disneyprincesschannel128.png" group-title="CANALES  24/7",24/7 Disney Princess FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50596
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Movies FHD" tvg-logo="https://img.hidra.app/247/dbzmovies.png" group-title="CANALES  24/7",24/7 Dragon Ball Z Movies FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50597
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Laboratorio de Dexter SD" tvg-logo="https://img.hidra.app/247/dexter.png" group-title="CANALES  24/7",24/7 El Laboratorio de Dexter SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50598
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama FHD" tvg-logo="https://img.hidra.app/247/futurama.png" group-title="CANALES  24/7",24/7 Futurama FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50599
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Happy tree friends FHD" tvg-logo="https://img.hidra.app/247/happyfreefriends.png" group-title="CANALES  24/7",24/7 Happy tree friends FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50601
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jimmy Neutron SD" tvg-logo="https://img.hidra.app/247/jimmyneutron.png" group-title="CANALES  24/7",24/7 Jimmy Neutron SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50604
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kung Fu Panda HD" tvg-logo="https://img.hidra.app/247/kungfupanda.png" group-title="CANALES  24/7",24/7 Kung Fu Panda HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50606
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa de Mickey Mouse HD" tvg-logo="https://img.hidra.app/247/lacasademickey1.png" group-title="CANALES  24/7",24/7 La Casa de Mickey Mouse HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50607
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Tropa Goofy HD" tvg-logo="https://img.hidra.app/247/tropagoofy.png" group-title="CANALES  24/7",24/7 La Tropa Goofy HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50610
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lilo & Stitch SD" tvg-logo="https://img.hidra.app/247/liloystitch.png" group-title="CANALES  24/7",24/7 Lilo & Stitch SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50611
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lo Mejor de Donald SD" tvg-logo="https://img.hidra.app/247/donald.png" group-title="CANALES  24/7",24/7 Lo Mejor de Donald SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50612
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons FHD" tvg-logo="https://img.hidra.app/247/simpson.png" group-title="CANALES  24/7",24/7 Los Simpsons FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50616
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons Horror HD" tvg-logo="https://img.hidra.app/247/simpsonsterror.png" group-title="CANALES  24/7",24/7 Los Simpsons Horror HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50617
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons Retro SD" tvg-logo="https://img.hidra.app/247/simpsonretroingles.png" group-title="CANALES  24/7",24/7 Los Simpsons Retro SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50618
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha y el Oso HD" tvg-logo="https://img.hidra.app/247/masha.png" group-title="CANALES  24/7",24/7 Masha y el Oso HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50620
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Paw Patrol FHD" tvg-logo="https://img.hidra.app/247/pawpatrol2.png" group-title="CANALES  24/7",24/7 Paw Patrol FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50626
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig FHD" tvg-logo="https://img.hidra.app/247/peppa.png" group-title="CANALES  24/7",24/7 Peppa Pig FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50627
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinguinos de Madagascar HD" tvg-logo="https://img.hidra.app/247/pinguinosdemadagascar.png" group-title="CANALES  24/7",24/7 Pinguinos de Madagascar HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50628
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pocoyo HD" tvg-logo="https://img.hidra.app/247/pocoyo.png" group-title="CANALES  24/7",24/7 Pocoyo HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50630
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rick y Morty FHD" tvg-logo="https://img.hidra.app/247/rickandmorty128.png" group-title="CANALES  24/7",24/7 Rick y Morty FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50631
+#EXTINF:-1 tvg-id="" tvg-name="24/7 South Park FHD" tvg-logo="https://img.hidra.app/247/South-park.png" group-title="CANALES  24/7",24/7 South Park FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50632
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Talking Tom FHD" tvg-logo="https://img.hidra.app/247/gatotom.png" group-title="CANALES  24/7",24/7 Talking Tom FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50633
+#EXTINF:-1 tvg-id="" tvg-name="24/7  31 Minutos HD" tvg-logo="https://img.hidra.app/247/31minutoshd.png" group-title="CANALES  24/7",24/7  31 Minutos HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50635
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tiny Toons SD" tvg-logo="https://img.hidra.app/247/tinytoon.png" group-title="CANALES  24/7",24/7 Tiny Toons SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50642
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado Inmigracion SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Caso Cerrado Inmigracion SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49159
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado La Familia 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Caso Cerrado La Familia 1 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49160
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado La Familia 3 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Caso Cerrado La Familia 3 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49162
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Laura Bozzo SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Laura Bozzo SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49163
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Miguelito (Chile) SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Miguelito (Chile) SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49164
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mayday Catastrofes Aereas SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Mayday Catastrofes Aereas SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49166
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Mundo De Beakman Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 El Mundo De Beakman Temp 1 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49168
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS Los Angeles SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 NCIS Los Angeles SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49181
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Magnificos Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Los Magnificos Temp 1 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49182
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MacGiver (2016) Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 MacGiver (2016) Temp 1 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49186
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 ER Sala de Urgencias SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 ER Sala de Urgencias SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49188
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los 3 Chiflados SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Los 3 Chiflados SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49190
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Hechizada Temp 1 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49192
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Niñera Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 La Niñera Temp 1 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49198
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Friends Temp 1 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49199
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Paso A Paso SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Paso A Paso SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49203
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos Temp 2 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Vecinos Temp 2 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49208
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos Temp 3 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Vecinos Temp 3 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49209
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos Temp 4 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Vecinos Temp 4 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49210
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Paradise PD SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Paradise PD SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49214
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Brickleberry SD (+15)" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Brickleberry SD (+15)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49217
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa de Mickey Mouse SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 La Casa de Mickey Mouse SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49233
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Doctora Juguete SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 La Doctora Juguete SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49234
+#EXTINF:-1 tvg-id="" tvg-name="24/7 She-Ra La Princesa del Poder SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 She-Ra La Princesa del Poder SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49239
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Sailor Moon SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49241
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Birdman SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Birdman SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49246
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Capitan Cabernicola SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Capitan Cabernicola SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49256
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jhonny Bravo SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Jhonny Bravo SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49257
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Vaca y el Pollito SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 La Vaca y el Pollito SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49258
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Años Maravillosos SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Los Años Maravillosos SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49259
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Oso Yogui SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 El Oso Yogui SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49262
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Candy Candy SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Candy Candy SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49264
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa de los Dibujos SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 La Casa de los Dibujos SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49274
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Gallo Claudio SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 El Gallo Claudio SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49275
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Marvel Studios Este FHD" tvg-logo="https://img.hidra.app/247/moviecentereste128.png" group-title="CANALES  24/7",24/7 Cinema Marvel Studios Este FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58067
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Marvel Studios Oeste FHD" tvg-logo="https://img.hidra.app/247/cinemamarvel1.png" group-title="CANALES  24/7",24/7 Cinema Marvel Studios Oeste FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58068
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Anime [test] FHD" tvg-logo="https://img.hidra.app/247/cinemaanime128x128.png" group-title="CANALES  24/7",24/7 Cinema Anime [test] FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58069
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="24/7 Retro Simpsons SD" tvg-logo="https://img.hidra.app/247/retrosimpsonsa.png" group-title="CANALES  24/7",24/7 Retro Simpsons SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58071
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja SD" tvg-logo="https://img.hidra.app/247/Spongebob.png" group-title="CANALES  24/7",24/7 Bob Esponja SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58076
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball FHD" tvg-logo="https://img.hidra.app/247/db.png" group-title="CANALES  24/7",24/7 Dragon Ball FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58082
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball 2 FHD" tvg-logo="https://img.hidra.app/247/db2.png" group-title="CANALES  24/7",24/7 Dragon Ball 2 FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58083
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT SD" tvg-logo="https://img.hidra.app/247/dbgt.png" group-title="CANALES  24/7",24/7 Dragon Ball GT SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58084
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Pajaro Loco SD" tvg-logo="https://img.hidra.app/247/pajaroloco.png" group-title="CANALES  24/7",24/7 El Pajaro Loco SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58086
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gallo claudio SD" tvg-logo="https://img.hidra.app/247/galloclaudio128.png" group-title="CANALES  24/7",24/7 Gallo claudio SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58088
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Amazon Kids (Test) FHD" tvg-logo="https://img.hidra.app/247/amazonkids.png" group-title="CANALES  24/7",24/7 Amazon Kids (Test) FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58090
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lo Mejor de Pluto SD" tvg-logo="https://img.hidra.app/247/pluto.png" group-title="CANALES  24/7",24/7 Lo Mejor de Pluto SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58101
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD" tvg-logo="https://img.hidra.app/247/dbs.png" group-title="CANALES  24/7",24/7 Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58105
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super 2 Saga Universo 6 y Goku Black HD" tvg-logo="https://img.hidra.app/247/DBSBLACK.png" group-title="CANALES  24/7",24/7 Dragon Ball Super 2 Saga Universo 6 y Goku Black HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58106
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super 3 Saga de la Supervivencia Universal HD" tvg-logo="https://img.hidra.app/247/dbs.png" group-title="CANALES  24/7",24/7 Dragon Ball Super 3 Saga de la Supervivencia Universal HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58107
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo HD" tvg-logo="https://img.hidra.app/247/elchavo.png" group-title="CANALES  24/7",24/7 El Chavo HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58120
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cocina Real TV FHD" tvg-logo="https://img.hidra.app/247/lacapital.png" group-title="CANALES  24/7",24/7 Cocina Real TV FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58127
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hagalo Usted Mismo TV FHD" tvg-logo="https://img.hidra.app/247/hagaloustedmismo.png" group-title="CANALES  24/7",24/7 Hagalo Usted Mismo TV FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58131
+#EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="24/7 Coraje SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Coraje SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58267
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Dragon Ball Super HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58273
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo Del 8 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 El Chavo Del 8 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe Del Rap 2 HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 El Principe Del Rap 2 HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58285
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Friends SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58291
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las aventuras de Tom Sawyer SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Las aventuras de Tom Sawyer SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58298
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Los Caballeros del Zodiaco SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58301
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los pequeños Tom y Jerry SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Los pequeños Tom y Jerry SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58310
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Los Simpsons HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58314
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MALCOLM SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 MALCOLM SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58317
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pajaro Loco HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Pajaro Loco HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58322
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Espíritu de lucha HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Espíritu de lucha HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58182
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El show de Scooby Doo y ScrappyDoo SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 El show de Scooby Doo y ScrappyDoo SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58179
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Capitan Futuro SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Capitan Futuro SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58167
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Capitán Centella SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Capitán Centella SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58168
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold SD" tvg-logo="https://reseller.tvla.xyz/resize.php?max=42&url=https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Hey Arnold SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333116
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Ciencia Ficcion FHD" tvg-logo="https://img.hidra.app/247/cinemaficcion.png" group-title="CANALES  24/7",24/7 Cinema Ciencia Ficcion FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333120
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Marvel Studios Este FHD" tvg-logo="https://img.hidra.app/247/cinemamarvel1.png" group-title="CANALES  24/7",24/7 Cinema Marvel Studios Este FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333121
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cine Estelar HD" tvg-logo="http://puntoz.xyz/LOGOS/cine_estelar.png" group-title="CANALES  24/7",24/7 Cine Estelar HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333122
+#EXTINF:-1 tvg-id="" tvg-name="24/7 13 Now Kids HD" tvg-logo="https://img.hidra.app/247/13NOWKIDS1.png" group-title="CANALES  24/7",24/7 13 Now Kids HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333123
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chu Chu TV FHD" tvg-logo="https://img.hidra.app/247/chuchutv.png" group-title="CANALES  24/7",24/7 Chu Chu TV FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333124
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PlayKids FHD" tvg-logo="https://img.hidra.app/247/playkids128.png" group-title="CANALES  24/7",24/7 PlayKids FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333125
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Buenazo FHD" tvg-logo="https://img.hidra.app/247/buenazo.png" group-title="CANALES  24/7",24/7 Buenazo FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333126
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Riquisimo FHD" tvg-logo="https://img.hidra.app/247/riquisimo.png" group-title="CANALES  24/7",24/7 Riquisimo FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333127
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cocina Real FHD" tvg-logo="https://img.hidra.app/247/lacapital.png" group-title="CANALES  24/7",24/7 Cocina Real FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333128
+#EXTINF:-1 tvg-id="" tvg-name="24/7 13. Docu SD" tvg-logo="https://img.hidra.app/247/13docu.png" group-title="CANALES  24/7",24/7 13. Docu SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333129
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Desencanto HD" tvg-logo="https://img.hidra.app/247/desencanto.png" group-title="CANALES  24/7",24/7 Desencanto HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333130
+#EXTINF:-1 tvg-id="" tvg-name="24/7 2 Perros Tontos" tvg-logo="http://puntoz.xyz/LOGOS/2perrostontos.png" group-title="CANALES  24/7",24/7 2 Perros Tontos
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333131
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Aaahh Real Monsters SD" tvg-logo="https://img.hidra.app/247/ahhhmonstruos.png" group-title="CANALES  24/7",24/7 Aaahh Real Monsters SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333132
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Agreetsuko HD" tvg-logo="https://img.hidra.app/247/agreetsuko.png" group-title="CANALES  24/7",24/7 Agreetsuko HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333133
+#EXTINF:-1 tvg-id="" tvg-name="24/ 7Alf SD" tvg-logo="https://img.hidra.app/247/ALF.png" group-title="CANALES  24/7",24/ 7Alf SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333134
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Mouth HD" tvg-logo="https://img.hidra.app/247/bigmouth.png" group-title="CANALES  24/7",24/7 Big Mouth HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333135
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Buzz Lightyear SD" tvg-logo="https://img.hidra.app/247/BuzzLightyear.png" group-title="CANALES  24/7",24/7 Buzz Lightyear SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333136
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicas Superpoderosas SD" tvg-logo="https://img.hidra.app/247/chicassuperpoderosas.png" group-title="CANALES  24/7",24/7 Chicas Superpoderosas SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333137
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DC Hero Super Girls FHD" tvg-logo="https://img.hidra.app/247/DCSHG_square_logo.png" group-title="CANALES  24/7",24/7 DC Hero Super Girls FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333138
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon HD" tvg-logo="https://img.hidra.app/247/Doraemon.png" group-title="CANALES  24/7",24/7 Doraemon HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333139
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Duck Dodgers SD" tvg-logo="https://img.hidra.app/247/duckdogers.png" group-title="CANALES  24/7",24/7 Duck Dodgers SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333140
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Show de Garfield FHD" tvg-logo="https://img.hidra.app/247/elshowdegarfield.png" group-title="CANALES  24/7",24/7 El Show de Garfield FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333141
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Escandalosos 1 FHD" tvg-logo="https://img.hidra.app/247/escandalososPardo.png" group-title="CANALES  24/7",24/7 Escandalosos 1 FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333142
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Escandalosos 2 FHD" tvg-logo="https://img.hidra.app/247/escandalososPanda.png" group-title="CANALES  24/7",24/7 Escandalosos 2 FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333143
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Escandalosos 3 SD" tvg-logo="https://img.hidra.app/247/escandalososPolar.png" group-title="CANALES  24/7",24/7 Escandalosos 3 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333144
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fenomenoide SD" tvg-logo="https://img.hidra.app/247/fenomenoide.png" group-title="CANALES  24/7",24/7 Fenomenoide SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333145
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Grupo Increible SD" tvg-logo="https://img.hidra.app/247/grupoincreible.png" group-title="CANALES  24/7",24/7 Grupo Increible SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333146
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Guardia del Leon FHD" tvg-logo="https://dl.dropboxusercontent.com/s/9l2g4haedez7y37/laguardiadelleon.png" group-title="CANALES  24/7",24/7 La Guardia del Leon FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333147
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Resistencia FHD" tvg-logo="https://img.hidra.app/247/laresistencia.png" group-title="CANALES  24/7",24/7 La Resistencia FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333148
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Resistencia Canal 2 FHD" tvg-logo="https://img.hidra.app/247/laresistencia2.png" group-title="CANALES  24/7",24/7 La Resistencia Canal 2 FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333149
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Sirenita" tvg-logo="http://puntoz.xyz/LOGOS/lasirenita.png" group-title="CANALES  24/7",24/7 La Sirenita
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333150
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Little Pet Shop HD" tvg-logo="https://img.hidra.app/247/littlepetshop.png" group-title="CANALES  24/7",24/7 Little Pet Shop HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333151
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lo Mejor de Mickey SD" tvg-logo="https://img.hidra.app/247/mickey.png" group-title="CANALES  24/7",24/7 Lo Mejor de Mickey SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333152
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Looney Tunes HD" tvg-logo="https://img.hidra.app/247/looneytunes%20%281%29.png" group-title="CANALES  24/7",24/7 Looney Tunes HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333153
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Autos Locos SD" tvg-logo="https://img.hidra.app/247/losautoslocos.png" group-title="CANALES  24/7",24/7 Los Autos Locos SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333154
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Cazafantasmas" tvg-logo="http://puntoz.xyz/LOGOS/cazafantasmas.png" group-title="CANALES  24/7",24/7 Los Cazafantasmas
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333155
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Croods HD" tvg-logo="https://img.hidra.app/247/loscroods.png" group-title="CANALES  24/7",24/7 Los Croods HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333156
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Gatos Samurai" tvg-logo="http://puntoz.xyz/LOGOS/losgatossamurai.png" group-title="CANALES  24/7",24/7 Los Gatos Samurai
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333157
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons Latinos FHD" tvg-logo="https://img.hidra.app/247/lossimsponsltinos128.png" group-title="CANALES  24/7",24/7 Los Simpsons Latinos FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333158
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mickey Mouse Channel FHD" tvg-logo="https://img.hidra.app/247/mickey_mouse.png" group-title="CANALES  24/7",24/7 Mickey Mouse Channel FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333159
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pato Darwing" tvg-logo="http://puntoz.xyz/LOGOS/patodarwin.png" group-title="CANALES  24/7",24/7 Pato Darwing
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333160
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Princesa Sofia HD" tvg-logo="https://img.hidra.app/247/sofia.png" group-title="CANALES  24/7",24/7 Princesa Sofia HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333161
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sam y Cat HD" tvg-logo="https://img.hidra.app/247/samycat.png" group-title="CANALES  24/7",24/7 Sam y Cat HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333162
+#EXTINF:-1 tvg-id="" tvg-name="24/7 She-ra" tvg-logo="http://puntoz.xyz/LOGOS/shera.png" group-title="CANALES  24/7",24/7 She-ra
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333163
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Street Shark" tvg-logo="http://puntoz.xyz/LOGOS/strretshark.png" group-title="CANALES  24/7",24/7 Street Shark
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333164
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Teen Titans GO FHD" tvg-logo="https://img.hidra.app/247/teetansgo.png" group-title="CANALES  24/7",24/7 Teen Titans GO FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333165
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tortugas Ninja SD" tvg-logo="https://img.hidra.app/247/tortugasninja.png" group-title="CANALES  24/7",24/7 Tortugas Ninja SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333166
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Winnie the Pooh SD" tvg-logo="https://img.hidra.app/247/winnie.png" group-title="CANALES  24/7",24/7 Winnie the Pooh SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333167
+#EXTINF:-1 tvg-id="" tvg-name="24/7 YoHoo and Friends HD" tvg-logo="https://img.hidra.app/247/YooHoo.and.Friends.png" group-title="CANALES  24/7",24/7 YoHoo and Friends HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333168
+#EXTINF:-1 tvg-id="" tvg-name="24/7 TWD Channel FHD" tvg-logo="https://img.hidra.app/247/twd.png" group-title="CANALES  24/7",24/7 TWD Channel FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333169
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cine Mania SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="CANALES  24/7",24/7 Cine Mania SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333170
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RT Doc HD" tvg-logo="https://img.hidra.app/247/rtdoc.png" group-title="CANALES  24/7",24/7 RT Doc HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333171
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Accion Classics HD" tvg-logo="https://img.hidra.app/247/cinemaccionclassic.png" group-title="CANALES  24/7",24/7 Cinema Accion Classics HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333172
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Johnny Bravo" tvg-logo="http://puntoz.net/LOGOS/jhonnybravo.png" group-title="CANALES  24/7",24/7 Johnny Bravo
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333173
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Animaniacs" tvg-logo="http://puntoz.net/LOGOS/animaniacs.png" group-title="CANALES  24/7",24/7 Animaniacs
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333174
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Babar" tvg-logo="http://puntoz.net/LOGOS/babar.png" group-title="CANALES  24/7",24/7 Babar
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333175
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios." tvg-logo="http://puntoz.net/LOGOS/dinosaurios.png" group-title="CANALES  24/7",24/7 Dinosaurios.
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333176
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Looney Tunes Show FHD" tvg-logo="https://img.hidra.app/247/looneytunes.png" group-title="CANALES  24/7",24/7 Looney Tunes Show FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333177
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mickey Mouse" tvg-logo="http://puntoz.net/LOGOS/mickey_mouse.png" group-title="CANALES  24/7",24/7 Mickey Mouse
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333180
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pato Aventura" tvg-logo="http://puntoz.net/LOGOS/patoaventura.png" group-title="CANALES  24/7",24/7 Pato Aventura
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333181
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky & Cerebro" tvg-logo="http://puntoz.net/LOGOS/pinkyycerebro.png" group-title="CANALES  24/7",24/7 Pinky & Cerebro
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333182
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Quack Pack" tvg-logo="http://puntoz.net/LOGOS/QuackPack.png" group-title="CANALES  24/7",24/7 Quack Pack
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333183
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Timon y Pumba" tvg-logo="http://puntoz.net/LOGOS/timonypumba.png" group-title="CANALES  24/7",24/7 Timon y Pumba
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333184
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Romance Channel FHD" tvg-logo="https://img.hidra.app/247/romancechannel.png" group-title="CANALES  24/7",24/7 Romance Channel FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333185
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Halloween Channel FHD" tvg-logo="https://img.hidra.app/247/halloweenchannellogo128.png" group-title="CANALES  24/7",24/7 Halloween Channel FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333186
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Almacen FHD" tvg-logo="https://img.hidra.app/247/almacen.png" group-title="CANALES  24/7",24/7 Almacen FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333187
+#EXTINF:-1 tvg-id="" tvg-name="24/7 A Orillas del Río FHD" tvg-logo="https://img.hidra.app/247/aorillasdelrio.png" group-title="CANALES  24/7",24/7 A Orillas del Río FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333188
+#EXTINF:-1 tvg-id="" tvg-name="24/7 De Aquí Vengo yo FHD" tvg-logo="https://img.hidra.app/247/aquivengoyo.png" group-title="CANALES  24/7",24/7 De Aquí Vengo yo FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333191
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Celebración FHD" tvg-logo="https://img.hidra.app/247/celebracion.png" group-title="CANALES  24/7",24/7 Celebración FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333192
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chic! Cazadores de Tendencias FHD" tvg-logo="https://img.hidra.app/247/chic.png" group-title="CANALES  24/7",24/7 Chic! Cazadores de Tendencias FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333193
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Comer y Sanar FHD" tvg-logo="https://img.hidra.app/247/comerysanar.png" group-title="CANALES  24/7",24/7 Comer y Sanar FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333194
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dem3nte FHD" tvg-logo="https://img.hidra.app/247/demente.png" group-title="CANALES  24/7",24/7 Dem3nte FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333195
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Disfruta la ruta FHD" tvg-logo="https://img.hidra.app/247/disfrutalaruta.png" group-title="CANALES  24/7",24/7 Disfruta la ruta FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333196
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doble Tentación FHD" tvg-logo="https://img.hidra.app/247/dobletentacion.png" group-title="CANALES  24/7",24/7 Doble Tentación FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333197
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Edificio Corona FHD" tvg-logo="https://img.hidra.app/247/edificiocorona.png" group-title="CANALES  24/7",24/7 Edificio Corona FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333198
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Efecto Mariposa FHD" tvg-logo="https://img.hidra.app/247/efectomariposa1.png" group-title="CANALES  24/7",24/7 Efecto Mariposa FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333199
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Retador FHD" tvg-logo="https://img.hidra.app/247/elretador.png" group-title="CANALES  24/7",24/7 El Retador FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333200
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Genios de la carne FHD" tvg-logo="https://img.hidra.app/247/geniosdelacarne.png" group-title="CANALES  24/7",24/7 Genios de la carne FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333202
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pan Comido FHD" tvg-logo="https://img.hidra.app/247/pancomido.png" group-title="CANALES  24/7",24/7 Pan Comido FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333203
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Paola y Miguelito FHD" tvg-logo="https://img.hidra.app/247/paolaymeguelito.png" group-title="CANALES  24/7",24/7 Paola y Miguelito FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333204
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pobre Novio FHD" tvg-logo="https://img.hidra.app/247/pobrenovio.png" group-title="CANALES  24/7",24/7 Pobre Novio FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333205
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rapidos y Sabrosos FHD" tvg-logo="https://img.hidra.app/247/rapidosysabrosos.png" group-title="CANALES  24/7",24/7 Rapidos y Sabrosos FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333206
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Secretos Urbanos FHD" tvg-logo="https://img.hidra.app/247/secretosurbanos.png" group-title="CANALES  24/7",24/7 Secretos Urbanos FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333207
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Seleccion Internacional FHD" tvg-logo="https://img.hidra.app/247/seleccioninternacional.png" group-title="CANALES  24/7",24/7 Seleccion Internacional FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333208
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Seleccion Nacional FHD" tvg-logo="https://img.hidra.app/247/seleccionnacional.png" group-title="CANALES  24/7",24/7 Seleccion Nacional FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333209
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Volverias con tu EX FHD" tvg-logo="https://img.hidra.app/247/volveriascontuex.png" group-title="CANALES  24/7",24/7 Volverias con tu EX FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333210
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vuelta a la manzana FHD" tvg-logo="https://img.hidra.app/247/vueltaalamanzana.png" group-title="CANALES  24/7",24/7 Vuelta a la manzana FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333211
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yo soy Lorenzo FHD" tvg-logo="https://img.hidra.app/247/yosoylorenzo.png" group-title="CANALES  24/7",24/7 Yo soy Lorenzo FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333212
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La carpa de los sueños FHD" tvg-logo="https://img.hidra.app/247/lacarpadelossuenos.png" group-title="CANALES  24/7",24/7 La carpa de los sueños FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333213
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Caceria FHD" tvg-logo="https://img.hidra.app/247/lacaceria.png" group-title="CANALES  24/7",24/7 La Caceria FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333214
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Colonia FHD" tvg-logo="https://img.hidra.app/247/lacolonia.png" group-title="CANALES  24/7",24/7 La Colonia FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333215
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Adiós al Séptimo de Línea FHD" tvg-logo="https://img.hidra.app/247/adiosalseptimodelinea.png" group-title="CANALES  24/7",24/7 Adiós al Séptimo de Línea FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333216
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Martín FHD" tvg-logo="https://img.hidra.app/247/martin.png" group-title="CANALES  24/7",24/7 Martín FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333217
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Neruda FHD" tvg-logo="https://img.hidra.app/247/neruda.png" group-title="CANALES  24/7",24/7 Neruda FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333218
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Acoso FHD" tvg-logo="https://img.hidra.app/247/acoso.png" group-title="CANALES  24/7",24/7 Acoso FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333219
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Deeply FHD" tvg-logo="https://img.hidra.app/247/deeply.png" group-title="CANALES  24/7",24/7 Deeply FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333220
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Eramosseis FHD" tvg-logo="https://img.hidra.app/247/eramosseis.png" group-title="CANALES  24/7",24/7 Eramosseis FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333221
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hijos del Desierto FHD" tvg-logo="https://img.hidra.app/247/hijosdeldesierto.png" group-title="CANALES  24/7",24/7 Hijos del Desierto FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333222
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama HD" tvg-logo="https://img.hidra.app/247/futurama.png" group-title="CANALES  24/7",24/7 Futurama HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/337207
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El buen doctor" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="CANALES  24/7",24/7 El buen doctor
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/347975
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicago PD" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="CANALES  24/7",24/7 Chicago PD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/347976
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicago Fire" tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="CANALES  24/7",24/7 Chicago Fire
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/347977
+
+
+----------PPV CINE----------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 01" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 01
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34477
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 02" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 02
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34478
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 03" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 03
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34479
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 04" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 04
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34480
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 05" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 05
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34481
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 06" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 06
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34482
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 07" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 07
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34483
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 08" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 08
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34484
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 09" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 09
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34485
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 10" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 10
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34486
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 11" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 11
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34487
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 12" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 12
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34488
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 13" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 13
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34489
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 14" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 14
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34490
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 15" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 15
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34491
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 16" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 16
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34492
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 17" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 17
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34493
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 18" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 18
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34494
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 19" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 19
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34495
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 20" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 20
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34496
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 21" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 21
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34497
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 22" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 22
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34498
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 24" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 24
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34500
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 25" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 25
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34501
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 26" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 26
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34502
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 27" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 27
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34503
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 28" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 28
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34504
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 30" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 30
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34506
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 31" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 31
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34507
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 32" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 32
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34508
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 33" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 33
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34509
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 34" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 34
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34510
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 35" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 35
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34511
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 36" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 36
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34512
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 37" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em-ww2Acrvy3CZnDD7Lj6PSp.png" group-title="PPV CINE",PPV: Cinema 37
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34513
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz West FHD" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em_aWcDb9jcdhI--8L9tM7xr.png" group-title="PPV CINE",PPV: Starz West FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34517
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz Comedy FHD" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em_aWcDb9jcdhI--8L9tM7xr.png" group-title="PPV CINE",PPV: Starz Comedy FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34519
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Starz Encore Western FHD" tvg-logo="http://hidra.live:80/images/YLpj0YMBFcLjvxSMsFCRLQi4dp5IArRc_wc5t0X6Em_aWcDb9jcdhI--8L9tM7xr.png" group-title="PPV CINE",PPV: Starz Encore Western FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34524
