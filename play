@@ -259,6 +259,9 @@ https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
 #EXTINF:-1 tvg-id="" tvg-name="DE PELICULAS PLUS" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CINE Y SERIES", DE PELICULAS PLUS
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9639
 
+#EXTINF:-1 tvg-id="" tvg-name="De Peliculas Clasico" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CINE Y SERIES", DE PELICULAS CLASICO
+http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9641
+
 #EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="" group-title="CINE Y SERIES", DHE
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313037
 
@@ -275,7 +278,7 @@ http://179.49.163.34:45000/play/a00v/index.m3u8
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34989
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE Y SERIES", GOLDEN PREMIER
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34912
+http://fivetv.org:25461/YoYit4/yoY1T4/186479
 
 #EXTINF:-1 tvg-id="MC" tvg-name="MC" tvg-logo="" group-title="CINE Y SERIES", MC
 http://179.49.163.34:45000/play/a01w/index.m3u8
@@ -472,6 +475,24 @@ http://live1.cl.cdn.lla.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_pr
 
 ----------CANALES  24/7----------
 
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Cantinflas (e)" tvg-logo="https://i.postimg.cc/7ZKnns4P/Proyectox-Cinema-16.png" group-title="CANALES  24/7", Cantinflas
+http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/95617
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Mentalista (e)" tvg-logo="https://i.postimg.cc/Y0wNQ19w/Proyectox-Cinemax-31.png" group-title="CANALES  24/7", El Mentalista
+http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/94937
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Parodias (e)" tvg-logo="https://i.postimg.cc/BZFNfBTN/Proyectox-Cinema-20.png" group-title="CANALES  24/7", Parodias
+http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/94978
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hawaii 5.0 (e)" tvg-logo="https://i.postimg.cc/d1GrQL9N/Proyectox-Cinemax2-8.png" group-title="CANALES  24/7", Hawaii 5.0
+http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/94929
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (e)" tvg-logo="https://i.postimg.cc/PrTpqN7t/Proyectox-24-7-series-Animacion3-28.png" group-title="CANALES  24/7",The Big Bang Theory (e)
+http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/94867
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema 4K (e)(4K)" tvg-logo="https://i.postimg.cc/y8p0ZDhk/Proyectox-Cinema-7.png" group-title="CANALES  24/7", Cinema 4K
+http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/95608
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Accion Classics HD" tvg-logo="https://img.hidra.app/247/mcrt128.png" group-title="CANALES  24/7",24/7 Cinema Accion Classics HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50572
