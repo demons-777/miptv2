@@ -259,9 +259,6 @@ https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
 #EXTINF:-1 tvg-id="" tvg-name="DE PELICULAS PLUS" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CINE Y SERIES", DE PELICULAS PLUS
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9639
 
-#EXTINF:-1 tvg-id="" tvg-name="De Peliculas Clasico" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CINE Y SERIES", DE PELICULAS CLASICO
-http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9641
-
 #EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="" group-title="CINE Y SERIES", DHE
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313037
 
@@ -278,7 +275,7 @@ http://179.49.163.34:45000/play/a00v/index.m3u8
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34989
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE Y SERIES", GOLDEN PREMIER
-http://fivetv.org:25461/YoYit4/yoY1T4/186479
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34912
 
 #EXTINF:-1 tvg-id="MC" tvg-name="MC" tvg-logo="" group-title="CINE Y SERIES", MC
 http://179.49.163.34:45000/play/a01w/index.m3u8
