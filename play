@@ -198,10 +198,10 @@ http://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_
 http://live1.cl.cdn.lla.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES", A&E
-http://181.78.27.128:8000/play/a01v/index.m3u8
+http://179.49.163.34:45000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES", AXN
-http://181.78.27.128:8000/play/a01w/index.m3u8
+http://179.49.163.34:45000/play/a01y/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
 http://live1.cl.cdn.lla.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -225,7 +225,7 @@ http://200.60.124.19:29000/play/a02b/index.m3u8
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9626
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR Channel" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES", STAR CHANNEL
-http://181.78.27.128:8000/play/a03r/index.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313042
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="CINE Y SERIES", HBO
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322827.m3u8
@@ -259,11 +259,8 @@ https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
 #EXTINF:-1 tvg-id="" tvg-name="DE PELICULAS PLUS" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CINE Y SERIES", DE PELICULAS PLUS
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9639
 
-#EXTINF:-1 tvg-id="" tvg-name="De Peliculas Clasico" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CINE Y SERIES", DE PELICULAS CLASICO
-http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9641
-
 #EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="" group-title="CINE Y SERIES", DHE
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313037
+http://179.49.163.34:45000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES", FX
 http://live1.cl.cdn.lla.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -303,13 +300,13 @@ http://179.49.163.34:45000/play/a03o/index.m3u8
 https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 
 #EXTINF:-1 tvg-id="SONYCHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e153054c65152bddd6_sony.png" group-title="CINE Y SERIES", SONY CHANNEL
-http://181.78.27.128:8000/play/a03h/index.m3u8
+http://179.49.163.34:45000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="SONYCINE" tvg-name="SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE Y SERIES", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SONYMOVIES" tvg-name="SONY MOVIES" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png" group-title="CINE Y SERIES", SONY MOVIES
-http://181.78.27.128:8000/play/a03i/index.m3u8
+http://179.49.163.34:45000/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES", TNT 
 http://live1.cl.cdn.lla.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -324,7 +321,7 @@ http://181.78.27.128:8000/play/a045/index.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0" group-title="CINE Y SERIES", USA
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322881.m3u8
+http://179.49.163.34:45000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="+CINE" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE Y SERIES", +CINE
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322809.m3u8
@@ -392,7 +389,7 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313153
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9876
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/BfmgWb6/tooncast.png" group-title="INFANTILES", TOONCAST
-
+http://190.11.130.46/mnp/tooncast/output.mpd
 
 #EXTINF:-1 tvg-id="SENPAITV" tvg-name="SENPAI TV" tvg-logo="https://cdn-w.tvdaldia.cl/img/logos/senpaitv.png" group-title="INFANTILES", SENPAI TV
 http://live1.cl.cdn.lla.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -448,7 +445,7 @@ http://live1.cl.cdn.lla.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?devi
 http://179.49.163.34:45000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="CULTURA Y ENTRETENIMIENTO", HISTORY
-http://181.78.27.128:8000/play/a04j/index.m3u8
+http://179.49.163.34:45000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="CULTURA Y ENTRETENIMIENTO", HISTORY 2
 http://179.49.163.34:45000/play/a022/index.m3u8
