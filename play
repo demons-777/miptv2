@@ -355,7 +355,7 @@ http://live1.cl.cdn.lla.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_pr
 #EXTINF:-1 tvg-id="BABYFIRST" tvg-name="BABYFIRST" tvg-logo="https://epodcastnetwork.com/wp-content/uploads/2015/04/BabyFirst_LOGO-300x96.png" group-title="INFANTILES", BABYFIRST
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9854
 
-#EXTINF:-1 tvg-id="BITME" tvg-name="BITME" tvg-logo="" group-title="INFANTILES", BITME
+#EXTINF:-1 tvg-id="BITME" tvg-name="BITME" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest?cb=20250307002717" group-title="INFANTILES", BITME
 http://179.49.163.34:45000/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e573e3704612374867e59_dreamworks.jpg" group-title="INFANTILES", DREAMWORKS
