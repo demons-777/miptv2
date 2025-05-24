@@ -72,7 +72,6 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 
-
 ----------DEPORTES----------
 
 
@@ -104,10 +103,13 @@ http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314868.m3u8
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/123886
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 1
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314869.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34675
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 2
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314870.m3u8
+
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="TNT Sports HD (ARG)" tvg-logo="https://img.hidra.app/deportes/tntsport.png" group-title="DEPORTES",TNT Sports (ARG)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34683
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN PREMIUM
 http://live1.cl.cdn.lla.vtrplay.com/foxsports1hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -187,7 +189,6 @@ http://200.60.124.19:29000/play/a081/index.m3u8
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34691
 
 
-
 ----------CINE Y SERIES----------
 
 
@@ -225,7 +226,7 @@ http://200.60.124.19:29000/play/a02b/index.m3u8
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9626
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR Channel" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES", STAR CHANNEL
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313042
+http://181.78.27.128:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="CINE Y SERIES", HBO
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322827.m3u8
