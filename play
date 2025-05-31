@@ -200,7 +200,7 @@ http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314876.m3u8
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34704
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="ES: Dazn 1" tvg-logo="http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEisfpLaNpQzT32Vpr_YWSTVRhdcKD1L3N_4aXrW9We6KE3pPWkY0_hR3RbuHE5XsX8.png" group-title="DEPORTES", DAZN 1
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335431
+http://higherpro.xyz:8080/live/56956478056/270924ztv/60356.m3u8
 
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="ES: Dazn 2" tvg-logo="http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iCjx7Eaf1rNr19zNergL58Ug.png" group-title="DEPORTES", DAZN 2
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335434
@@ -209,7 +209,10 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335434
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335436
 
 #EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: Dazn 4" tvg-logo="http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iC63f1PKT3TPJublQWXeZZEQ.png" group-title="DEPORTES",DAZN 4
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335438
+http://higherpro.xyz:8080/live/56956478056/270924ztv/60364.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA CAMPEONES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="DEPORTES", LIGA CAMPEONES
+http://higherpro.xyz:8080/live/56956478056/270924ztv/60284.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELETRACK" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f665a567a9739a970cc5_teletrak.jpeg" group-title="DEPORTES", TELETRACK
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314877.m3u8
@@ -237,10 +240,10 @@ http://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_
 http://live1.cl.cdn.lla.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES", A&E
-http://179.49.163.34:45000/play/a02c/index.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/54447.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES", AXN
-http://179.49.163.34:45000/play/a01y/index.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/54448.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
 http://live1.cl.cdn.lla.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -360,7 +363,7 @@ http://181.78.27.128:8000/play/a045/index.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0" group-title="CINE Y SERIES", USA
-http://179.49.163.34:45000/play/a00y/index.m3u8
+http://live1.cl.cdn.lla.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="" tvg-name="+CINE" tvg-logo="https://static.vecteezy.com/system/resources/previews/014/018/573/non_2x/netflix-logo-on-transparent-background-free-vector.jpg" group-title="CINE Y SERIES", NETFLIX
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322809.m3u8
@@ -389,13 +392,10 @@ http://live1.cl.cdn.lla.vtrplay.com/universalrealityhdchi/vxfmt=dp/playlist.m3u8
 #EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_k0gMVsgJqwTZFTZNuWSJN59KnY5Xg4HaWA&s" group-title="CINE Y SERIES", WARNER
 http://live1.cl.cdn.lla.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-
-
 ----------INFANTILES----------
 
-
 #EXTINF:-1 tvg-id="BABYFIRST" tvg-name="BABYFIRST" tvg-logo="https://epodcastnetwork.com/wp-content/uploads/2015/04/BabyFirst_LOGO-300x96.png" group-title="INFANTILES", BABYFIRST
-http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9854
+http://higherpro.xyz:8080/live/56956478056/270924ztv/371.m3u8
 
 #EXTINF:-1 tvg-id="BITME" tvg-name="BITME" tvg-logo="" group-title="INFANTILES", BITME
 http://179.49.163.34:45000/play/a02m/index.m3u8
@@ -418,7 +418,7 @@ http://live1.cl.cdn.lla.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_pr
 #EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.ibb.co/MSXFY3T/disney-jr.png" group-title="INFANTILES", DISNEY JR
 http://live1.cl.cdn.lla.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="850mvstr.cl" tvg-name="ZCL• ETC TV (HD)" tvg-logo="http://puntoz.net/LOGOS/etcp.png" group-title="INFANTILES", ETC TV
+#EXTINF:-1 tvg-id="850mvstr.cl" tvg-name="ETC TV" tvg-logo="http://puntoz.net/LOGOS/etcp.png" group-title="INFANTILES", ETC TV
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54434.m3u8
 
 #EXTINF:-1 tvg-id="FMHKIDS" tvg-name="FMH KIDS" tvg-logo="" group-title="INFANTILES", FMH KIDS
@@ -427,11 +427,14 @@ http://179.49.163.34:45000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="EDYE" tvg-name="EDYE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS53RWf-EsAx2vqSe6HzPWhvt38WcwgM4Fb7g&s" group-title="INFANTILES", EDYE
 http://live1.cl.cdn.lla.vtrplay.com/edyehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/Vjw3R8m/nick.png" group-title="INFANTILES", NICKELODEON
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICK" tvg-logo="https://i.ibb.co/Vjw3R8m/nick.png" group-title="INFANTILES", NICK
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54420.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/5j96nsY/nick-jr.png" group-title="INFANTILES", NICK JR
-http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9876
+http://higherpro.xyz:8080/live/56956478056/270924ztv/54428.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TEEN NICK" tvg-logo="https://i.postimg.cc/HWVNRmSG/Teen-Nick-2023.png" group-title="INFANTILES", TEEN NICK
+http://higherpro.xyz:8080/live/56956478056/270924ztv/395.m3u8
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/BfmgWb6/tooncast.png" group-title="INFANTILES", TOONCAST
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54425.m3u8
@@ -442,9 +445,7 @@ http://live1.cl.cdn.lla.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_
 #EXTINF:-1 tvg-id="ZTVANIME" tvg-name="ZTV ANIME" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="INFANTILES", ZTV ANIME
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 
-
 ----------CULTURA Y ENTRETENIMIENTO----------
-
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL PLANET" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b658a4480033f155a0_animalplanet.png" group-title="CULTURA Y ENTRETENIMIENTO", ANIMAL PLANET
 http://live1.cl.cdn.lla.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -513,9 +514,23 @@ http://179.49.163.34:45000/play/a01o/index.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 
+----------DEPORTES PPV----------
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="DEPORTES", LA LIGA 4K
+http://higherpro.xyz:8080/live/56956478056/270924ztv/60246.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="DEPORTES PPV", LA LIGA
+http://higherpro.xyz:8080/live/56956478056/270924ztv/60241.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 FHD" tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png" group-title="DEPORTES PPV", CHAMPIONS LEAGUE 2
+http://higherpro.xyz:8080/live/56956478056/270924ztv/60286.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3" tvg-logo="https://i.ibb.co/DbL8XTG/CHAP2-1.png" group-title="DEPORTES PPV", CHAMPIONS LEAGUE 3
+http://higherpro.xyz:8080/live/56956478056/270924ztv/60289.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 7 HD" tvg-logo="https://i.ibb.co/LzTt2GW/CHAP6.png" group-title="DEPORTES PPV", CHAMPIONS LEAGUE 4
+http://higherpro.xyz:8080/live/56956478056/270924ztv/60303.m3u8
 
 ----------CANALES  24/7----------
-
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Cantinflas (e)" tvg-logo="https://i.postimg.cc/7ZKnns4P/Proyectox-Cinema-16.png" group-title="CANALES  24/7", Cantinflas
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/95617
