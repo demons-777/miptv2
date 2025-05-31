@@ -65,6 +65,9 @@ https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PLANETATV" tvg-name="PLANETA TV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png" group-title="NACIONAL", PLANETA TV
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="78" tvg-name="TVR Canal 11" tvg-logo="https://cdn.m3u.cl/logo/78_TVR_Canal_11.png" group-title="NACIONAL", CANAL 11
+https://cloudpro.servidoresdestream.com:8081/8006/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="MOLINATV" tvg-name="MOLINA TV" tvg-logo="https://cdn.m3u.cl/logo/1249_Molina_TV.png" group-title="NACIONAL", Molina TV
 https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL
 
