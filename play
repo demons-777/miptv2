@@ -48,7 +48,7 @@ http://live1.cl.cdn.lla.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?devi
 http://live1.cl.cdn.lla.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="RECTV" tVg-name="REC TV" tvg-logo="https://thafd.bing.com/th/id/OIP.zggfmuEBI2GXLuMYBIcMpQAAAA?rs=1&pid=ImgDetMain" group-title="NACIONAL", REC TV
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/99506.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/54386.m3u8
 
 #EXTINF:-1 tvg-id="1437" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="NACIONAL", TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
@@ -165,7 +165,7 @@ http://179.49.163.34:45000/play/a02a/index.m3u8
 http://179.49.163.34:45000/play/a01s/index.m3u8 
 
 #EXTINF:-1 tvg-id="ESPN7CHILE" tvg-name="ESPN 7 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 7
-http://179.49.163.34:45000/play/a00k/index.m3u8 
+http://higherpro.xyz:8080/live/56956478056/270924ztv/54412.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CDO 2" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png" group-title="DEPORTES", CDO 2
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9896
@@ -267,13 +267,13 @@ http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9626
 http://181.78.27.128:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="CINE Y SERIES", HBO
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322827.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/54453.m3u8
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png" group-title="CINE Y SERIES", HBO PLUS
 http://live1.cl.cdn.lla.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO2
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322829.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/54455.m3u8
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES", HBO FAMILY
 http://live1.cl.cdn.lla.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -314,7 +314,7 @@ http://179.49.163.34:45000/play/a00v/index.m3u8
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34989
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE Y SERIES", GOLDEN PREMIER
-http://fivetv.org:25461/YoYit4/yoY1T4/186479
+http://higherpro.xyz:8080/live/56956478056/270924ztv/65223.m3u8
 
 #EXTINF:-1 tvg-id="MC" tvg-name="MC" tvg-logo="" group-title="CINE Y SERIES", MC
 http://179.49.163.34:45000/play/a01w/index.m3u8
@@ -362,7 +362,7 @@ http://live1.cl.cdn.lla.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profi
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0" group-title="CINE Y SERIES", USA
 http://179.49.163.34:45000/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX" tvg-logo="https://static.vecteezy.com/system/resources/previews/014/018/573/non_2x/netflix-logo-on-transparent-background-free-vector.jpg" group-title="CINE Y SERIES", NETFLIX
+#EXTINF:-1 tvg-id="" tvg-name="+CINE" tvg-logo="https://static.vecteezy.com/system/resources/previews/014/018/573/non_2x/netflix-logo-on-transparent-background-free-vector.jpg" group-title="CINE Y SERIES", NETFLIX
 http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/322809.m3u8
 
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE Y SERIES", +CINE
@@ -418,6 +418,9 @@ http://live1.cl.cdn.lla.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_pr
 #EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.ibb.co/MSXFY3T/disney-jr.png" group-title="INFANTILES", DISNEY JR
 http://live1.cl.cdn.lla.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+#EXTINF:-1 tvg-id="850mvstr.cl" tvg-name="ZCL• ETC TV (HD)" tvg-logo="http://puntoz.net/LOGOS/etcp.png" group-title="INFANTILES", ETC TV
+http://higherpro.xyz:8080/live/56956478056/270924ztv/54434.m3u8
+
 #EXTINF:-1 tvg-id="FMHKIDS" tvg-name="FMH KIDS" tvg-logo="" group-title="INFANTILES", FMH KIDS
 http://179.49.163.34:45000/play/a03i/index.m3u8
 
@@ -425,13 +428,13 @@ http://179.49.163.34:45000/play/a03i/index.m3u8
 http://live1.cl.cdn.lla.vtrplay.com/edyehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/Vjw3R8m/nick.png" group-title="INFANTILES", NICKELODEON
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313153
+http://higherpro.xyz:8080/live/56956478056/270924ztv/54420.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/5j96nsY/nick-jr.png" group-title="INFANTILES", NICK JR
 http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9876
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/BfmgWb6/tooncast.png" group-title="INFANTILES", TOONCAST
-http://190.11.130.46/mnp/tooncast/output.mpd
+http://higherpro.xyz:8080/live/56956478056/270924ztv/54425.m3u8
 
 #EXTINF:-1 tvg-id="SENPAITV" tvg-name="SENPAI TV" tvg-logo="https://cdn-w.tvdaldia.cl/img/logos/senpaitv.png" group-title="INFANTILES", SENPAI TV
 http://live1.cl.cdn.lla.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
