@@ -227,9 +227,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/466.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://img.hidra.app/deportes/winsportsplus.png" group-title="DEPORTES", WIN SPORTS +
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34691
 
-
 ----------CINE Y SERIES----------
-
 
 #EXTINF:-1 tvg-id="A3SERIES" tvg-name="A3SERIES" tvg-logo="https://mma.prnewswire.com/media/323322/1498622_logo_atreseries_Logo.jpg?p=facebook" group-title="CINE Y SERIES", A3SERIES
 http://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -347,6 +345,12 @@ http://179.49.163.34:45000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="SONYCINE" tvg-name="SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE Y SERIES", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SONY COMPETENCIAS" tvg-name="SONY COMPETENCIAS" tvg-logo="https://images.pluto.tv/channels/662bf39756fc840008f25cb9/thumbnail_1731964423209.jpg" group-title="CINE Y SERIES", SONY COMPETENCIAS
+https://spt-competencias-1-us.xumo.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="SONYMOVIES" tvg-name="SONY ONE" tvg-logo="https://yt3.googleusercontent.com/thkcxHoryUINUS3Nl2NyxlZNG3W641DspALMK1bg0psURCf_QVGMg97vUnCUNQxmvbLOACjN=s900-c-k-c0x00ffffff-no-rj" group-title="CINE Y SERIES", SONY ONE
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/a405861d-126b-45c1-bbff-e11d995f9ac5/4.m3u8
 
 #EXTINF:-1 tvg-id="SONYMOVIES" tvg-name="SONY MOVIES" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png" group-title="CINE Y SERIES", SONY MOVIES
 http://179.49.163.34:45000/play/a02b/index.m3u8
