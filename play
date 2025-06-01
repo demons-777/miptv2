@@ -224,6 +224,9 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/464.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS+" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="DEPORTES", DIRECTV SPORTS+
 http://higherpro.xyz:8080/live/56956478056/270924ztv/466.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="" group-title="DEPORTES", TUDN USA
+https://tergf.xyz:8443/live/Salsa-y-Son-es/Salsa-y-Son-es/66.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://img.hidra.app/deportes/winsportsplus.png" group-title="DEPORTES", WIN SPORTS +
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34691
 
