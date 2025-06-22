@@ -31,7 +31,7 @@ https://cdn-live.mundogo.cl/tvp/tvp.mpd
 https://cdn-live.mundogo.cl/lared/lared.mpd
 
 #EXTINF:-1 tvg-id="CNN CHILE" tvg-name="CNN CHILE" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL", CNN CHILE
-
+http://higherpro.xyz:8080/live/56956478056/270924ztv/34.m3u8
 
 #EXTINF:-1 tvg-id="24 Horas HD" tvg-name="24 Horas HD" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL", CANAL 24 HORAS
 https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
@@ -43,13 +43,10 @@ https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="ZONALATINA" tvg-name="ZONA LATINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Zona_Latina_2021.svg/revision/latest/scale-to-width-down/150?cb=20210805180712&path-prefix=es" group-title="NACIONAL", ZONA LATINA
-http://200.60.124.19:29000/play/a01p/index.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/56873.m3u8
 
 #EXTINF:-1 tvg-id="VIAX" tvg-name="VIA X" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/V%C3%ADa_X_2005.jpg/revision/latest?cb=20190809004317&path-prefix=es" group-title="NACIONAL", VIA X
 http://200.60.124.19:29000/play/a01c/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MEGA2" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c4/Logomega2.png/revision/latest?cb=20240327172424&path-prefix=es" group-title="NACIONAL", MEGA2
-https://cdn-live.mundogo.cl/mega2/mega2.mpd
 
 #EXTINF:-1 tvg-id="13C" tVg-name="CANAL 13C" tvg-logo="https://e7.pngegg.com/pngimages/264/658/png-clipart-canal-13-logo-13c-television-chilevision-others-television-text.png" group-title="NACIONAL", CANAL 13C
 https://redirector.dps.live/hls/13cultura/playlist.m3u8
@@ -63,11 +60,44 @@ https://marine2.miplay.cl/tateti/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TEVEX" tvg-name="TEVEX" tvg-logo="https://i.imgur.com/pjs5csg.png" group-title="NACIONAL", Tevex      
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="77" tvg-name="TVR" tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png" group-title="NACIONAL", TVR
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="NACIONAL", Retro Plus TV
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="NACIONAL", Retro Plus TV 2
+https://live20.bozztv.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="NACIONAL", Retro Plus TV 3 
+https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="NACIONAL", VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1255" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" group-title="NACIONAL", VClassicTV Tropical
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="PLANETATV" tvg-name="PLANETA TV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png" group-title="NACIONAL", PLANETA TV
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="MOLINATV" tvg-name="MOLINA TV" tvg-logo="https://cdn.m3u.cl/logo/1249_Molina_TV.png" group-title="NACIONAL", Molina TV
 https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1497" tvg-name="Nova TV Canal 7" tvg-logo="https://cdn.m3u.cl/logo/1497_Nova_TV_Canal_7.png" group-title="NACIONAL", Nova TV Canal 7
+https://freya.mivideo.pro/novatv/index.fmp4.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="78" tvg-name="TVR Canal 11" tvg-logo="https://cdn.m3u.cl/logo/78_TVR_Canal_11.png" group-title="NACIONAL", TVR Canal 11
+https://cloudpro.servidoresdestream.com:8081/8006/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="NACIONAL", 13 Internacional
+https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1683" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="NACIONAL", 13 Cocina
+https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1033" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title="NACIONAL", 13 Pop
+https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-id="13FESTIVALES" tvg-name="CANAL 13 FESTIVALES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowo87mrhzwoe77DwRiHJud3e_OEVw19MUCQ&s" group-title="NACIONAL", CANAL 13 FESTIVALES
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
@@ -81,10 +111,7 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-id="TVCHILE" tvg-name="TV CHILE" tvg-logo="https://i.imgur.com/Sgawacf.png" group-title="NACIONAL", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-
-
 ----------DEPORTES----------
-
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS P MUNDO" tvg-logo="https://i.ibb.co/sp4wTqb/descarga.png" group-title="DEPORTES", TNT SPORTS P MGO
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34676
@@ -172,13 +199,12 @@ http://181.78.27.128:8000/play/a02s/index.m3u8
 http://181.78.27.128:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png" group-title="DEPORTES", L1MAX
-http://live1.cl.cdn.lla.vtrplay.com/l1maxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CDO" tvg-logo="https://i.ibb.co/W0mWyNr/cdo.png" group-title="DEPORTES", CDO
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314874.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CDO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6nCtntodGtEuHAFGKijSDu2cC4L9sHuMmw&s" group-title="DEPORTES", CDO 2
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314876.m3u8
+
 
 #EXTINF:-1 tvg-id="MovistarDeporte" tvg-name="Movistar Deportes" tvg-logo="https://img.hidra.app/deportes/movistardeportes.png" group-title="DEPORTES", MOVISTAR DEPORTES 
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34704
@@ -202,7 +228,7 @@ http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314877.m3u8
 http://200.60.124.19:29000/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS 2
-http://higherpro.xyz:8080/live/56956478056/270924ztv/464.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/473.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS+" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES LATINOS ←",DEP• DIRECTV SPORTS+ AR (HD) »2«
 http://higherpro.xyz:8080/live/56956478056/270924ztv/466.m3u8
