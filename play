@@ -64,13 +64,13 @@ https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="NACIONAL", Retro Plus TV
-https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="NACIONAL", Retro Plus TV 2
-https://live20.bozztv.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="NACIONAL", Retro Plus TV 3 
-https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="NACIONAL", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
@@ -81,8 +81,8 @@ https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="PLANETATV" tvg-name="PLANETA TV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png" group-title="NACIONAL", PLANETA TV
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="MOLINATV" tvg-name="MOLINA TV" tvg-logo="https://cdn.m3u.cl/logo/1249_Molina_TV.png" group-title="NACIONAL", Molina TV
-https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="CINE Y SERIES", PRIDE TV
+https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8
 
 #EXTINF:-1 tvg-id="1497" tvg-name="Nova TV Canal 7" tvg-logo="https://cdn.m3u.cl/logo/1497_Nova_TV_Canal_7.png" group-title="NACIONAL", Nova TV Canal 7
 https://freya.mivideo.pro/novatv/index.fmp4.m3u8?PlaylistM3UCL
@@ -199,12 +199,7 @@ http://181.78.27.128:8000/play/a02s/index.m3u8
 http://181.78.27.128:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png" group-title="DEPORTES", L1MAX
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CDO" tvg-logo="https://i.ibb.co/W0mWyNr/cdo.png" group-title="DEPORTES", CDO
-
-#EXTINF:-1 tvg-id="" tvg-name="CDO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6nCtntodGtEuHAFGKijSDu2cC4L9sHuMmw&s" group-title="DEPORTES", CDO 2
-
+http://higherpro.xyz:8080/live/56956478056/270924ztv/63061.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeporte" tvg-name="Movistar Deportes" tvg-logo="https://img.hidra.app/deportes/movistardeportes.png" group-title="DEPORTES", MOVISTAR DEPORTES 
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34704
@@ -221,11 +216,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335436
 #EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: Dazn 4" tvg-logo="http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iC63f1PKT3TPJublQWXeZZEQ.png" group-title="DEPORTES",DAZN 4
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335438
 
-#EXTINF:-1 tvg-id="" tvg-name="TELETRACK" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f665a567a9739a970cc5_teletrak.jpeg" group-title="DEPORTES", TELETRACK
-http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314877.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://i.ibb.co/fMh1j6W/610.png" group-title="DEPORTES", DIRECTV SPORTS
-http://200.60.124.19:29000/play/a081/index.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/58289.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS 2
 http://higherpro.xyz:8080/live/56956478056/270924ztv/473.m3u8
@@ -256,8 +248,6 @@ http://179.49.163.34:45000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54469.m3u8
 
-#EXTINF:-1 tvg-id="AZCINEMA" tvg-name="AZCINEMA" tvg-logo="https://americancable.ec/wp-content/uploads/2021/09/40-logo-azcinema.png" group-title="CINE Y SERIES", AZCINEMA
-
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES", CINECANAL
 http://181.78.27.128:8000/play/a025/index.m3u8 
 
@@ -267,8 +257,8 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/54366.m3u8
 #EXTINF:-1 tvg-id="CLAROCINE" tvg-name="CLARO CINEMA" tvg-logo="https://th.bing.com/th/id/R.7446f227527b5082427fc9e32ba65a8e?rik=10qKysXSMsYRKQ&pid=ImgRaw&r=0" group-title="CINE Y SERIES", CLARO CINEMA
 http://38.41.8.1:8000/play/a066 
 
-#EXTINF:-1 tvg-id="1692" tvg-name="PRIDEtv Latam" tvg-logo="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png" group-title="CINE Y SERIES", PRIDE TV
-https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE Y SERIES", +CINE
+https://tv.arkeo.cl:19360/8128/8128.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR Channel" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES", STAR CHANNEL
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54441.m3u8
@@ -429,6 +419,9 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/54428.m3u8
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/BfmgWb6/tooncast.png" group-title="INFANTILES", TOONCAST
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54425.m3u8
+
+#EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES, MONI TV
+https://tv.arkeo.cl:19360/8134/8134.m3u8
 
 #EXTINF:-1 tvg-id="ZTVANIME" tvg-name="ZTV ANIME" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="INFANTILES", ZTV ANIME
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
