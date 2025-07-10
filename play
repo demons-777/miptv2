@@ -264,10 +264,10 @@ https://tv.arkeo.cl:19360/8128/8128.m3u8
 http://181.78.27.128:8000/play/a03r/index.m3u8 
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="CINE Y SERIES", HBO
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54453.m3u8
+http://clubtv.link/juli6/phpcode/lista0.php?c=22&token=TecnoplusJunio03&f=.m3u8
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png" group-title="CINE Y SERIES", HBO PLUS
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54454.m3u8
+http://clubtv.link/juli6/phpcode/lista0.php?c=21&token=TecnoplusJunio03&f=.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO2
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54455.m3u8
