@@ -172,15 +172,18 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/54411.m3u8
 https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 
 #EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png" group-title="DEPORTES", L1MAX
-http://higherpro.xyz:8080/live/56956478056/270924ztv/63061.m3u8
+http://200.60.124.19:29000/play/a07k/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="CDO" tvg-logo="https://i.ibb.co/W0mWyNr/cdo.png" group-title="DEPORTES", CDO
 http://higherpro.xyz:8080/live/56956478056/270924ztv/74106.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="DEPORTES", CLARO SPORTS
-http://45.5.119.43:4000/play/a0kz/index.m3u8 
+http://45.5.119.43:4000/play/a024/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="tvc deportes" tvg-logo="https://img.hidra.app/deportes/movistardeportes.png" group-title="DEPORTES", tVC DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo-thumbnail.png" group-title="DEPORTES", CLARO SPORTS 2
+http://45.5.119.43:4000/play/a0kz/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="tvc deportes" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es" group-title="DEPORTES", TVC DEPORTES
 http://38.49.128.38:8000/play/a0mj/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://i.ibb.co/fMh1j6W/610.png" group-title="DEPORTES", DIRECTV SPORTS
@@ -195,9 +198,8 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/466.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://img.hidra.app/deportes/winsportsplus.png" group-title="DEPORTES", WIN SPORTS +
 http://190.60.33.245:4002/play/a1mq/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="L1MAX" tvg-logo="" group-title="DEPORTES", L1MAX
-http://200.60.124.19:29000/play/a07k/index.m3u8 
-
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="DEPORTES", AZTECA DEPORTES
+http://190.60.33.245:4002/play/a0hw/index.m3u8
 
 
 ----------CINE Y SERIES----------
@@ -243,16 +245,16 @@ http://190.60.33.245:4002/play/a1mg/index.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54441.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="CINE Y SERIES", HBO
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54453.m3u8
+http://45.5.119.43:4000/play/a0l2/index.m3u8 
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png" group-title="CINE Y SERIES", HBO PLUS
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54454.m3u8
+http://45.5.119.43:4000/play/a0l4/index.m3u8 
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO2
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54455.m3u8
+http://45.5.119.43:4000/play/a00c/index.m3u8 
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES", HBO FAMILY
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54458.m3u8
+http://45.5.119.43:4000/play/a0l5/index.m3u8 
 
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://puntoz.net/LOGOS/hbosignatureb.png" group-title="CINE Y SERIES", HBO SIGNATURE
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54457.m3u8
@@ -341,16 +343,16 @@ http://190.60.33.245:4002/play/a1hf/index.m3u8
 http://190.60.33.245:4002/play/a1hg/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="http://puntoz.xyz/LOGOS/universalcrimeB.png" group-title="CINE Y SERIES", UNIVERSAL CRIME
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54466.m3u8
+http://45.5.119.43:4000/play/a0i4/index.m3u8 
 
 #EXTINF:-1 tvg-id="UNIVERSALCINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="CINE Y SERIES", UNIVERSAL CINEMA
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54464.m3u8
+http://45.5.119.43:4000/play/a0kt/index.m3u8 
 
 #EXTINF:-1 tvg-id="UNIVERSALCOMEDY" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://thafd.bing.com/th/id/OIP.tQO5QH8KZO3CGvXhdxj63QHaEE?rs=1&pid=ImgDetMain" group-title="CINE Y SERIES", UNIVERSAL COMEDY
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54465.m3u8
+http://45.5.119.43:4000/play/a0i5/index.m3u8 
 
 #EXTINF:-1 tvg-id="UNIVERSALPREMIER" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE Y SERIES", UNIVERSAL PREMIER
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54463.m3u8
+http://45.5.119.43:4000/play/a0i1/index.m3u8 
 
 #EXTINF:-1 tvg-id="UNIVERSALREALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="CINE Y SERIES", UNIVERSAL REALITIE
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54467.m3u8
@@ -443,7 +445,7 @@ http://190.60.33.245:4002/play/a1i7/index.m3u8
 http://190.60.33.245:4002/play/a1kk/index.m3u8 
 
 #EXTINF:-1 tvg-id="DISCOVERYID" tvg-name="DISCOVERY ID" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b54c6c7c38bc2c1c5f_investigation.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY ID
-http://179.49.163.34:45000/play/a01d/index.m3u8
+http://45.5.119.43:4000/play/a0ks/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERITHEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d5f9d1a5dbc14cfc5e_d-theater.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY THEATER
 http://190.60.33.245:4002/play/a1gr/index.m3u8  
@@ -457,7 +459,25 @@ http://190.60.33.245:4002/play/a1i9/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERYSCI" tvg-name="DISCOVERY SCI" tvg-logo="https://cdn.imgbin.com/22/8/14/imgbin-science-channel-logo-discovery-channel-brand-discovery-of-achilles-on-skyros-JWTPWAGmYmMau2PDtzcFEc6PS.jpg" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY SCI
 http://179.49.163.34:45000/play/a01c/index.m3u8 
 
-#EXTINF:-1 tvg-id="KOSMOS" tvg-name="KOSMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/COSMOS_logo2K24-100.jpg/640px-COSMOS_logo2K24-100.jpg" group-title="CULTURA Y ENTRETENIMIENTO", KOSMOS
+#EXTINF:-1 tvg-id="" tvg-name="Azclick" tvg-logo="https://contenidostv.b-cdn.net/images/clic_color-02.png" group-title="CULTURA Y ENTRETENIMIENTO", AZTECA CLICK
+http://38.49.128.38:8000/play/a0mh/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="Az CORAZON" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="CULTURA Y ENTRETENIMIENTO", AZTECA CORAZON
+http://190.60.33.245:4002/play/a0vf/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", CARACOL
+http://190.60.33.245:4002/play/a0kq/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", HGTV
+http://190.60.33.245:4002/play/a1l4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", FOOD NETWORK
+http://190.60.33.245:4002/play/a1l5/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="TELE NOSTALGIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/TeleNostalgia-2014.png/revision/latest/scale-to-width-down/220?cb=20210517030638&path-prefix=es" group-title="CULTURA Y ENTRETENIMIENTO", TELE NOSTALGIA
+http://190.60.33.245:4002/play/a1kz/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="	ATLAS" tvg-logo="https://www.fmh.la/images/team/logo_atlas.png" group-title="CULTURA Y ENTRETENIMIENTO", ATLAS
 http://179.49.163.34:45000/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://img.favpng.com/2/10/16/love-nature-4k-resolution-television-blue-ant-media-png-favpng-RY7LZXfJKyeC7jiHSX0PK1Br3.jpg" group-title="CULTURA Y ENTRETENIMIENTO", LOVE NATURE
