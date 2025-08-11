@@ -15,6 +15,9 @@ https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"omisb3BTUd+mx3OY11VZ2A", "kid":"aPEVoOM+XuqA6n1DlAhRIg" },{ "kty":"oct", "k":"RvzUidoRiHnKg53LDMJgyg", "kid":"O0mp7/cJUPilYLh1X+uVAg" },{ "kty":"oct", "k":"zV8aUU7WOnbuyrEZWOPSww", "kid":"vZBRINS1WiSN/5S5by9xQw" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/megahd/megahd.mpd
 
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega 2" tvg-logo="https://tvdaldia.cl/CDN/media/epg/canales/mega2.png" group-title="NACIONAL", MEGA 2
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162
+
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL", TVN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/nU1qFwH1NSCLz7WcAxHw", "kid":"qsQrXWpvW+2/1irF/vKJeA" },{ "kty":"oct", "k":"XiOoAFP7J086ASb6KHrrzw", "kid":"4hyVGmZxWcujnAmpRnUfcw" },{ "kty":"oct", "k":"ZJueey+t0p2zVbbbvAxS6w", "kid":"coh5b86yVlucQZ22OLXcGw" } ], "type":"temporary" }
@@ -128,7 +131,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/88.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/93.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 1
-http://higherpro.xyz:8080/live/56956478056/270924ztv/61274.m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/2328
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 2
 http://higherpro.xyz:8080/live/56956478056/270924ztv/98.m3u8
@@ -342,7 +345,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/54461.m3u8
 http://190.60.33.245:4002/play/a1hg/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="http://puntoz.xyz/LOGOS/universalcrimeB.png" group-title="CINE Y SERIES", UNIVERSAL CRIME
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54466.m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/450
 
 #EXTINF:-1 tvg-id="UNIVERSALCINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="CINE Y SERIES", UNIVERSAL CINEMA
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54464.m3u8
