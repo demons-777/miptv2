@@ -223,7 +223,7 @@ http://179.49.163.34:45000/play/a005/index.m3u8
 http://190.60.33.245:4002/play/a1ak/index.m3u8 
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES", AXN
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/AXN/40-hls/live-media.m3u8
+http://104.238.222.251:8989/158671_.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54469.m3u8
