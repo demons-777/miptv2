@@ -55,7 +55,7 @@ http://200.60.124.19:29000/play/a01c/index.m3u8
 https://redirector.dps.live/hls/13cultura/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RECTV" tVg-name="REC TV" tvg-logo="https://thafd.bing.com/th/id/OIP.zggfmuEBI2GXLuMYBIcMpQAAAA?rs=1&pid=ImgDetMain" group-title="NACIONAL", REC TV
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54386.m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/137196
 
 #EXTINF:-1 tvg-id="TEVEX" tvg-name="TEVEX" tvg-logo="https://i.imgur.com/pjs5csg.png" group-title="NACIONAL", Tevex      
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
@@ -223,7 +223,7 @@ http://179.49.163.34:45000/play/a005/index.m3u8
 http://190.60.33.245:4002/play/a1ak/index.m3u8 
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES", AXN
-http://190.60.33.245:4002/play/a1i4/index.m3u8 
+http://185.189.225.150:85/AXN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54469.m3u8
