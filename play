@@ -399,7 +399,7 @@ http://190.60.33.245:4002/play/a0ux/index.m3u8
 http://190.60.33.245:4002/play/a1kn/index.m3u8 
 
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e565f63c36e257bfbef92_cartoonito.png" group-title="INFANTILES", CARTOONITO
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54426.m3u8
+http://104.238.205.28:8989/278528_.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/PtKd97J/discovery-kids.png" group-title="INFANTILES", DISCOVERY KIDS
 http://190.60.33.245:4002/play/a1ko/index.m3u8
