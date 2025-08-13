@@ -194,6 +194,9 @@ http://104.238.222.251:8989/278564_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TUDN DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="DEPORTES", TUDN DEPORTES
 http://104.238.205.28:8989/278570_.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ECDF" tvg-logo="https://www.xtrim.com.ec/wp-content/uploads/2024/09/ECDF.png" group-title="DEPORTES", ECDF
+http://user.tvcluboficial.com/live/m/m/318.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://i.ibb.co/fMh1j6W/610.png" group-title="DEPORTES", DIRECTV SPORTS
 http://200.60.124.19:29000/play/a081/index.m3u8
 
@@ -223,7 +226,7 @@ http://179.49.163.34:45000/play/a005/index.m3u8
 http://190.60.33.245:4002/play/a1ak/index.m3u8 
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES", AXN
-http://104.238.222.251:8989/158671_.m3u8
+http://190.60.33.245:4002/play/a1i4/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54469.m3u8
@@ -235,7 +238,7 @@ http://190.60.33.245:4002/play/a0ke/index.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CINECANAL/40-hls/live-media.m3u8
  
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES", CINEMAX
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54366.m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/32631
 
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", group-title="CINE Y SERIES", +CINE
 https://tv.arkeo.cl:19360/8128/8128.m3u8
@@ -259,7 +262,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/54441.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54453.m3u8
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png" group-title="CINE Y SERIES", HBO PLUS
-http://higherpro.xyz:8080/live/56956478056/270924ztv/146.m3u8
+http://104.238.222.251:8989/278490_.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO2
 http://104.243.38.5:8989/278492_.m3u8
@@ -268,7 +271,7 @@ http://104.243.38.5:8989/278492_.m3u8
 http://104.238.222.251:8989/278496_.m3u8
 
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://puntoz.net/LOGOS/hbosignatureb.png" group-title="CINE Y SERIES", HBO SIGNATURE
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54457.m3u8
+http://104.238.222.251:8989/278505_.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES", HBO POP
 http://104.238.222.251:8989/278503_.m3u8
@@ -288,9 +291,9 @@ https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
 http://190.60.33.245:4002/play/a1kb/index.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES", FX
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54444.m3u8
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FXHD/40-hls/live-media.m3u8
 
-#EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Golden_TV.svg" group-title="CINE Y SERIES", GOLDEN
+#EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png" group-title="CINE Y SERIES", GOLDEN
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/GOLDEN/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENEDGE" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE Y SERIES", GOLDEN EDGE
@@ -373,7 +376,6 @@ http://104.238.222.251:8989/278476_.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALREALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="CINE Y SERIES", UNIVERSAL REALITIE
 http://104.238.222.251:8989/278478_.m3u8
-
 
 #EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_k0gMVsgJqwTZFTZNuWSJN59KnY5Xg4HaWA&s" group-title="CINE Y SERIES", WARNER
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54452.m3u8
@@ -517,7 +519,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 http://179.49.163.34:45000/play/a019/index.m3u8 
 
 #EXTINF:-1 tvg-id="lifetime" tvg-name="LIFETIME" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/94/Lifetime_2020.png/revision/latest?cb=20220105140043&path-prefix=es" group-title="CULTURA Y ENTRETENIMIENTO", LIFETIME
-http://179.49.163.34:45000/play/a01o/index.m3u8
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/LIFETIME/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CULTURA Y ENTRETENIMIENTO", NATGEO
 http://190.60.33.245:4002/play/a1i8/index.m3u8 
