@@ -336,7 +336,7 @@ http://179.49.163.34:45000/play/a03o/index.m3u8
 https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 
 #EXTINF:-1 tvg-id="SONYCHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e153054c65152bddd6_sony.png" group-title="CINE Y SERIES", SONY CHANNEL
-http://190.60.33.245:4002/play/a1i5/index.m3u8 
+http://199.127.63.143:8989/278405_.m3u8 
 
 #EXTINF:-1 tvg-id="SONYCINE" tvg-name="SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE Y SERIES", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
@@ -350,10 +350,10 @@ http://179.49.163.34:45000/play/a02b/index.m3u8
 https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
 
 #EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE Y SERIES", TNT SERIES
-http://190.60.33.245:4002/play/a1k4/index.m3u8 
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/397 
 
 #EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://pbs.twimg.com/media/Fo4or_BXsAAsJIL.png" group-title="CINE Y SERIES", TNT NOVELAS
-http://190.60.33.245:4002/play/a1hi/index.m3u8 
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/399
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE Y SERIES", TCM
 http://200.60.124.19:29000/play/a01s/index.m3u8 
@@ -362,10 +362,10 @@ http://200.60.124.19:29000/play/a01s/index.m3u8
 http://104.238.205.28:8989/278452_.m3u8
 
 #EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.pinimg.com/736x/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="CINE Y SERIES", STUDIO UNIVERSAL
-http://104.243.38.5:8989/278518_.m3u8
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/STUDIOUNIVERSAL/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALTV" tvg-name="UNIVERSAL TV" tvg-logo="https://i.pinimg.com/564x/b9/e1/b5/b9e1b5ed78238f8700fdc1704287ba37.jpg" group-title="CINE Y SERIES", UNIVERSAL TV
-http://104.238.222.251:8989/278449_.m3u8
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/UNIVERSALCH/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="http://puntoz.xyz/LOGOS/universalcrimeB.png" group-title="CINE Y SERIES", UNIVERSAL CRIME
 http://104.238.222.251:8989/278474_.m3u8
