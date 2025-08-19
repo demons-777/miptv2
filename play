@@ -215,6 +215,8 @@ http://190.60.33.245:4002/play/a1mq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="DEPORTES", AZTECA DEPORTES
 http://172.93.102.119:8989/278577_.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ZAPPING SPORTS" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zappingsports.jpg" group-title="DEPORTES", ZAPPING SPORTS
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/182701
 
 ----------CINE Y SERIES----------
 
@@ -283,7 +285,7 @@ http://104.238.222.251:8989/278503_.m3u8
 http://104.238.222.251:8989/278501_.m3u8
 
 #EXTINF:-1 tvg-id="HBOXTREM" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES", HBO XTREME
-http://104.238.222.251:8989/278508_.m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/419
 
 #EXTINF:-1 tvg-id="DEPELICULA" tvg-name="DE PELICULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE Y SERIES", DE PELICULA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -382,6 +384,27 @@ http://104.238.222.251:8989/278478_.m3u8
 
 #EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_k0gMVsgJqwTZFTZNuWSJN59KnY5Xg4HaWA&s" group-title="CINE Y SERIES", WARNER
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54452.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CINE Y SERIES", CINEMA PPV 01
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/2466
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CINE Y SERIES", CINEMA PPV 02
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/2464
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CINE Y SERIES", CINEMA PPV 03
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/2463
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CINE Y SERIES", CINEMA PPV 04
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/2436
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV 05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CINE Y SERIES", CINEMA PPV 05
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/2434
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV 06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CINE Y SERIES", CINEMA PPV 06
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/2465
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA PPV 07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="CINE Y SERIES", CINEMA PPV 07
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/2435
 
 
 ----------INFANTILES----------
