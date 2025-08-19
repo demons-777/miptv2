@@ -226,10 +226,10 @@ http://179.49.163.34:45000/play/a038/index.m3u8
 http://179.49.163.34:45000/play/a005/index.m3u8 
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES", A&E
-http://190.60.33.245:4002/play/a1ak/index.m3u8 
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/AANDEMUNDO/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES", AXN
-http://190.60.33.245:4002/play/a1i4/index.m3u8
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/AXN/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54469.m3u8
@@ -265,7 +265,7 @@ http://45.5.119.43:4000/play/a0hn/index.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54453.m3u8
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png" group-title="CINE Y SERIES", HBO PLUS
-http://104.238.222.251:8989/278490_.m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/424
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO2
 http://104.243.38.5:8989/278492_.m3u8
@@ -397,7 +397,7 @@ http://199.127.63.143:8989/278522_.m3u8
 http://190.60.33.245:4002/play/a14k/index.m3u8 
 
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e573e3704612374867e59_dreamworks.jpg" group-title="INFANTILES", DREAMWORKS
-http://190.60.33.245:4002/play/a0ux/index.m3u8
+http://179.49.163.34:45000/play/a011/index.m3u8 
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES", CARTOON NETWORK
 http://190.60.33.245:4002/play/a1kn/index.m3u8 
