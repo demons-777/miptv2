@@ -234,7 +234,7 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/AANDEMUNDO/40-hls/live-med
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/AXN/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54469.m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/29924
 
 #EXTINF:-1 tvg-id="" tvg-name="azcinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037" group-title="CINE Y SERIES", AZCINEMA
 http://104.238.205.28:8989/278465_.m3u8
@@ -409,6 +409,8 @@ http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/2435
 
 ----------INFANTILES----------
 
+#EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://www.nicepng.com/png/detail/222-2227750_logo-adult-swim-jsgtv-svg-logo-adult-swim.png" group-title="INFANTILES", ADULT SWIM
+http://104.238.205.28:8989/278392_.m3u8
 
 #EXTINF:-1 tvg-id="BABYFIRST" tvg-name="BABYFIRST" tvg-logo="https://epodcastnetwork.com/wp-content/uploads/2015/04/BabyFirst_LOGO-300x96.png" group-title="INFANTILES", BABYFIRST
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
