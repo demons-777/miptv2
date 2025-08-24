@@ -218,6 +218,9 @@ http://172.93.102.119:8989/278577_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZAPPING SPORTS" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/zappingsports.jpg" group-title="DEPORTES", ZAPPING SPORTS
 http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/182701
 
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-name="LIGA 1 MAX 4K" tvg-logo="http://oaktvpro.club:50003/images/10109fe73fc286d2aa5a1c18f6a92c96.png" group-title="DEPORTES", LIGA 1 MAX 4K
+http://tvdirecto.pro:8080/live/948068511/8noplifre/3441.m3u
+
 ----------CINE Y SERIES----------
 
 
@@ -261,7 +264,7 @@ http://190.60.33.245:4002/play/a1l0/index.m3u8
 http://190.60.33.245:4002/play/a1mg/index.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR Channel" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES", STAR CHANNEL
-http://45.5.119.43:4000/play/a0hn/index.m3u8
+http://195.66.210.10:80/LINDSAY01/MABDU/439744
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="CINE Y SERIES", HBO
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54453.m3u8
@@ -558,28 +561,49 @@ http://190.60.33.245:4002/play/a1i8/index.m3u8
 ----------24/7-----------
 
 #EXTINF:-1 tvg-id="EL CHAVO" tvg-name="EL CHAVO" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7", EL CHAVO DEL 8
-http://user.tvcluboficial.com/live/m/m/400.m3u8
+http://195.66.210.10:80/LINDSAY01/MABDU/216295
 
-#EXTINF:-1 tvg-id="LOS PICA" tvg-name="LOS PICAPIEDRAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn31f6UC9bVQOad-gfNfnpbEGQbzYHSqtPWQ&s" group-title="24/7", LOS PICAPIEDRAS
-http://higherpro.xyz:8080/live/56956478056/270924ztv/784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (OAK)" tvg-logo="http://oaktvpro.club:50003/images/802f56af1ab121f9344cb963ef5a384b.jpg" group-title="24/7", Los Picapiedra
+http://tvdirecto.pro:8080/live/948068511/8noplifre/5659.m3u
 
-#EXTINF:-1 tvg-id="LOS SIMP" tvg-name="LOS SIMPSONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7", LOS SIMPSONS
-http://user.tvcluboficial.com/live/m/m/357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cantinflas(OAK)" tvg-logo="https://images.hive.blog/DQmf6Widr3qLecLzjAC6F8rEQeTPSGYNwZo7oX38KmMzshf/image.png" group-title="24/7", Cantinflas
+http://195.66.210.10:80/LINDSAY01/MABDU/107891
 
-#EXTINF:-1 tvg-id="LOS SUP" tvg-name="SUPER CAMPEONES" tvg-logo="https://static.wikia.nocookie.net/wikiseriesjaponesas/images/6/6f/Dvd-los-supercampeones-serie-animada-super-campeones-oliver-17097-MLC20132238145_072014-F.jpg/revision/latest?cb=20160710181041&path-prefix=es" group-title="24/7", SUPER CAMPEONES
-http://user.tvcluboficial.com/live/m/m/432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA (OAK)" tvg-logo="https://w7.pngwing.com/pngs/995/853/png-transparent-futurama-worlds-of-tomorrow-philip-j-fry-bender-futurama-season-2-the-lesser-of-two-evils-futurama-heroes-cartoon-fictional-character.png" group-title="24/7", FUTURAMA
+http://tvdirecto.pro:8080/live/948068511/8noplifre/291407.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="24/7", DRAGON BALL
-http://higherpro.xyz:8080/live/56956478056/270924ztv/697.m3u
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BLUEY (2018) (OAK)" tvg-logo="https://image.tmdb.org/t/p/w400/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg" group-title="24/7", BLUEY
+http://tvdirecto.pro:8080/live/948068511/8noplifre/352971.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="TWO AND A HALF" tvg-logo="https://i.postimg.cc/Dzntck27/24y7.png" group-title="24/7", TWO AND A HALF
-http://higherpro.xyz:8080/live/56956478056/270924ztv/701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (OAK)" tvg-logo="http://oaktvpro.club:50003/images/79e01c9f17fa1cbc36383db3a9820b0d.jpg" group-title="24/7", Super Campeones
+http://tvdirecto.pro:8080/live/948068511/8noplifre/5648.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="FAMIMY GUY" tvg-logo="" group-title="24/7", FAMILY GUY
-http://higherpro.xyz:8080/live/56956478056/270924ztv/253529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BUGS BUNNY" tvg-logo="http://oaktvpro.club:50003/images/d0fb55f7458aab1198dab0944b0a1034.jpg" group-title="24/7", 24/7 BUGS BUNNY
+http://tvdirecto.pro:8080/live/948068511/8noplifre/5634.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="CORRECAMINOS Y EL COYOTE" tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7", CORRECAMINOS Y COYOTE
-http://user.tvcluboficial.com/live/m/m/429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Superagente 86 (1965) (OAK)" tvg-logo="http://oaktvpro.club:50003/images/db690694f7e26942e9c9feaf4427045c.jpg" group-title=" 24/7", El Superagente 86
+http://tvdirecto.pro:8080/live/948068511/8noplifre/5567.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="EL GALLO CLAUDIO" tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="24/7", EL GALLO CLAUDIO
-http://user.tvcluboficial.com/live/m/m/845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (OAK)" tvg-logo="http://oaktvpro.club:50003/images/d080f8b3d43978d6a311f0d019a1b4e7.png" group-title="24/7", The Big Bang Theory
+http://tvdirecto.pro:8080/live/948068511/8noplifre/5484.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulín Colorado (1973) (OAK)" tvg-logo="http://oaktvpro.club:50003/images/86c90219afa44b32031283a0a2382952.jpg" group-title=" 24/7", El Chapulín Colorado
+http://tvdirecto.pro:8080/live/948068511/8noplifre/5564.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El gran Chaparral (1967) (OAK)" tvg-logo="http://oaktvpro.club:50003/images/3a2a64b44dd21b29626d1c37dbc4074b.jpg" group-title=" 24/7", El gran Chaparral
+http://195.66.210.10:80/LINDSAY01/MABDU/217386
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de Mickey Mouse (2006) (OAK)" tvg-logo="" group-title="24/7", La casa de Mickey Mouse
+http://195.66.210.10:80/LINDSAY01/MABDU/177184
+
+#EXTINF:-1, group-title="24/7", PINGÜINOS DE MADAGASCAR 
+http://195.66.210.10:80/LINDSAY01/MABDU/177118
+
+#EXTINF:-1, group-title="24/7", PRINCESA SOFÍA 
+http://195.66.210.10:80/LINDSAY01/MABDU/177121
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Auto Fantastico (OAK)" tvg-logo="http://oaktvpro.club:50003/images/8ff5940001072f9d0d29b4517a095bd2.jpg" group-title="24/7", El Auto Fantastico
+http://195.66.210.10:80/LINDSAY01/MABDU/107873
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PAW PATROL (OAK)" tvg-logo="noimage.png" group-title="24/7", PAW PATROL
+http://195.66.210.10:80/LINDSAY01/MABDU/108007
