@@ -170,6 +170,15 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/54411.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MQrvhoM8JmlsH2aCk0Uwzg", "kid":"HGcfIC8DX8aCleKFRA4fBg" },{ "kty":"oct", "k":"rzBjcCC9gGUO96x6V/BUBQ", "kid":"MmnMH/3IVtOdbSesquucVw" },{ "kty":"oct", "k":"qunyrZDV0p20MUWGr5tBTw", "kid":"mMCh+w1CX4i/4cKtCYV1rg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="DEPORTES", FOX SPORTS
+http://143.0.67.77:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/small.1344882745_FOXSports2ARG(2023-).png.cd26bb6f6340e81d793b7a598b51aa32.png" group-title="DEPORTES", FOX SPORTS 2
+http://143.0.67.77:8000/play/a05c/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="DEPORTES", FOX SPORTS 3
+http://143.0.67.77:8000/play/a02t/index.m3u8
+
 #EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png" group-title="DEPORTES", L1MAX
 http://200.60.124.19:29000/play/a07k/index.m3u8 
 
@@ -211,6 +220,8 @@ http://172.93.102.119:8989/278577_.m3u8
 
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-name="LIGA 1 MAX 4K" tvg-logo="http://oaktvpro.club:50003/images/10109fe73fc286d2aa5a1c18f6a92c96.png" group-title="DEPORTES", LIGA 1 MAX 4K
 http://tvdirecto.pro:8080/live/948068511/8noplifre/3439.m3u
+
+
 ----------CINE Y SERIES----------
 
 
@@ -254,7 +265,7 @@ http://190.60.33.245:4002/play/a1l0/index.m3u8
 http://190.60.33.245:4002/play/a1mg/index.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR Channel" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES", STAR CHANNEL
-http://195.66.210.10:80/LINDSAY01/MABDU/439744
+http://143.0.67.77:8000/play/a079/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="CINE Y SERIES", HBO
 http://190.238.172.153:8000/play/a09m
@@ -274,7 +285,7 @@ http://104.238.222.251:8989/278505_.m3u8
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES", HBO POP
 http://190.238.172.153:8000/play/a0el
 
-#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO MUNDI"tvg-logo="" group-title="CINE Y SERIES", HBO MUNDI
+#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO MUNDI"tvg-logo="https://i.pinimg.com/736x/fe/a7/21/fea7218afa419fa1b695002bca9f2f9f.jpg" group-title="CINE Y SERIES", HBO MUNDI
 http://104.238.222.251:8989/278501_.m3u8
 
 #EXTINF:-1 tvg-id="HBOXTREM" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES", HBO XTREME
@@ -335,7 +346,7 @@ http://190.238.172.153:8000/play/a0gx
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SONYMOVIES" tvg-name="SONY MOVIES" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png" group-title="CINE Y SERIES", SONY MOVIES
-http://179.49.163.34:45000/play/a02b/index.m3u8
+http://143.0.67.77:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES", TNT 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -379,8 +390,8 @@ http://104.238.222.251:8989/278478_.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54452.m3u8
 
 
-
 ----------INFANTILES----------
+
 
 #EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://www.nicepng.com/png/detail/222-2227750_logo-adult-swim-jsgtv-svg-logo-adult-swim.png" group-title="INFANTILES", ADULT SWIM
 http://104.238.205.28:8989/278392_.m3u8
@@ -504,7 +515,7 @@ http://190.60.33.245:4002/play/a1kz/index.m3u8
 http://179.49.163.34:45000/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://img.favpng.com/2/10/16/love-nature-4k-resolution-television-blue-ant-media-png-favpng-RY7LZXfJKyeC7jiHSX0PK1Br3.jpg" group-title="CULTURA Y ENTRETENIMIENTO", LOVE NATURE
-http://190.60.33.245:4002/play/a1k9/index.m3u8 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F40%2F6402338_F2F85E917E131706.png&height=60&resize=RATIO&format=PNG" group-title="CULTURA Y ENTRETENIMIENTO", HOLA TV
 http://45.5.119.43:4000/play/a0hx/index.m3u8 
@@ -530,6 +541,7 @@ http://190.60.33.245:4002/play/a1i8/index.m3u8
 
 ----------24/7-----------
 
+
 #EXTINF:-1 tvg-id="EL CHAVO" tvg-name="EL CHAVO" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7", EL CHAVO DEL 8
 http://195.66.210.10:80/LINDSAY01/MABDU/216295
 
@@ -537,7 +549,7 @@ http://195.66.210.10:80/LINDSAY01/MABDU/216295
 http://tvdirecto.pro:8080/live/948068511/8noplifre/5659.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cantinflas(OAK)" tvg-logo="https://images.hive.blog/DQmf6Widr3qLecLzjAC6F8rEQeTPSGYNwZo7oX38KmMzshf/image.png" group-title="24/7", Cantinflas
-http://195.66.210.10:80/LINDSAY01/MABDU/107891
+http://tvdirecto.pro:8080/live/948068511/8noplifre/291406.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA (OAK)" tvg-logo="https://w7.pngwing.com/pngs/995/853/png-transparent-futurama-worlds-of-tomorrow-philip-j-fry-bender-futurama-season-2-the-lesser-of-two-evils-futurama-heroes-cartoon-fictional-character.png" group-title="24/7", FUTURAMA
 http://tvdirecto.pro:8080/live/948068511/8noplifre/291407.m3u
@@ -577,3 +589,30 @@ http://195.66.210.10:80/LINDSAY01/MABDU/107873
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 PAW PATROL (OAK)" tvg-logo="noimage.png" group-title="24/7", PAW PATROL
 http://195.66.210.10:80/LINDSAY01/MABDU/108007
+
+#EXTINF:-1 tvg-id="" tvg-name="Bones" tvg-logo="https://i.postimg.cc/g0TNLX8Y/Proyectox-Cinemax-19.png" group-title="24/7", Bones
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94919
+
+#EXTINF:-1 tvg-id="" tvg-name="Parodias" tvg-logo="https://i.postimg.cc/BZFNfBTN/Proyectox-Cinema-20.png" group-title="24/7", Cinema - Parodias
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94978
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema (4K)" tvg-logo="https://i.postimg.cc/y8p0ZDhk/Proyectox-Cinema-7.png" group-title="24/7", Cinema 4K
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/95608
+
+#EXTINF:-1 tvg-id="" tvg-name="CSI Miami" tvg-logo="https://i.postimg.cc/XYN82cgj/Proyectox-Cinemax-27.png" group-title="24/7", CSI Miami
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94924
+
+#EXTINF:-1 tvg-id="" tvg-name="Detective Conan" tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7", Detective Conan
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94892
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hawaii 5.0" tvg-logo="https://i.postimg.cc/d1GrQL9N/Proyectox-Cinemax2-8.png" group-title="24/7", Hawaii 5.0
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94929
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shameless (e)" tvg-logo="https://i.postimg.cc/jqznKyZg/Proyectox-24-7-series-Animacion3-26.png" group-title="24/7", Shameless 
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94865
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (e)" tvg-logo="https://i.postimg.cc/PrTpqN7t/Proyectox-24-7-series-Animacion3-28.png" group-title="24/7", The Big Bang Theory 
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94867
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Fresh Prince of Bel Air (e)" tvg-logo="https://i.postimg.cc/vZm4WkMk/Proyectox-24-7-series-Animacion3-29.png" group-title="24/7", The Fresh Prince of Bel Air
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94868
