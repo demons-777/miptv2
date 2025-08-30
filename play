@@ -285,7 +285,7 @@ http://104.238.222.251:8989/278505_.m3u8
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES", HBO POP
 http://190.238.172.153:8000/play/a0el
 
-#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO MUNDI"tvg-logo="https://i.pinimg.com/736x/fe/a7/21/fea7218afa419fa1b695002bca9f2f9f.jpg" group-title="CINE Y SERIES", HBO MUNDI
+#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO MUNDI" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-mundi1.png" group-title="CINE Y SERIES", HBO MUNDI
 http://104.238.222.251:8989/278501_.m3u8
 
 #EXTINF:-1 tvg-id="HBOXTREM" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES", HBO XTREME
@@ -318,13 +318,13 @@ http://104.243.38.5:8989/278486_.m3u8
 http://179.49.163.34:45000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="MP" tvg-name="MP" tvg-logo="https://static.wikia.nocookie.net/logofan/images/7/79/Multipremier_%282012-2020%29.png/revision/latest?cb=20240116172218&path-prefix=es" group-title="CINE Y SERIES", ,MP
-http://104.238.205.28:8989/278510_.m3u
+https://593zona.live:8443/play/8ki15GBAFCrrIAvqi1lAS1TXdGU8OCXtaQNTZEWp210EDobYD3kzirv4qF6z0Ubh/ts
 
 #EXTINF:-1 tvg-id="FHHMOVIES" tvg-name="FMH MOVIES" tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="CINE Y SERIES", FMH MOVIES
-http://179.49.163.34:45000/play/a03j/index.m3u8
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/chMOVIES/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="FHM" tvg-name="FHM FAMILY" tvg-logo="https://www.fmh.la/images/team/logo_family.png" group-title="CINE Y SERIES", FMH FAMILY
-http://190.238.172.153:8000/play/a0bw
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/chFAMILY/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNTCHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e597d941bc3acf1bdcdf9_paramount.png" group-title="CINE Y SERIES", PARAMOUNT CHANNEL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -332,7 +332,7 @@ http://190.238.172.153:8000/play/a0bw
 https://cdn-live.mundogo.cl/paramount/paramount.mpd
 
 #EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.fmh.la/images/team/logo_rewind.png" group-title="CINE Y SERIES", REWIND
-http://179.49.163.34:45000/play/a03o/index.m3u8
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/chREWIND/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b3a567a9c9259721e3_space.png" group-title="CINE Y SERIES", SPACE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -354,7 +354,7 @@ http://143.0.67.77:8000/play/a05k/index.m3u8
 https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
 
 #EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE Y SERIES", TNT SERIES
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TNTSERIES/40-hls/live-media.m3u8
+http://143.0.67.77:8000/play/a07e/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://pbs.twimg.com/media/Fo4or_BXsAAsJIL.png" group-title="CINE Y SERIES", TNT NOVELAS
 http://190.60.33.245:4002/play/a1hi/index.m3u8 
@@ -393,7 +393,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/54452.m3u8
 ----------INFANTILES----------
 
 
-#EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://www.nicepng.com/png/detail/222-2227750_logo-adult-swim-jsgtv-svg-logo-adult-swim.png" group-title="INFANTILES", ADULT SWIM
+#EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg?crop=178px%2C100px%2C666px%2C371px&resize=1000%2C563" group-title="INFANTILES", ADULT SWIM
 http://104.238.205.28:8989/278392_.m3u8
 
 #EXTINF:-1 tvg-id="BABYFIRST" tvg-name="BABYFIRST" tvg-logo="https://epodcastnetwork.com/wp-content/uploads/2015/04/BabyFirst_LOGO-300x96.png" group-title="INFANTILES", BABYFIRST
@@ -425,6 +425,9 @@ http://104.238.205.28:8989/278542_.m3u8
 
 #EXTINF:-1 tvg-id="FMHKIDS" tvg-name="FMH KIDS" tvg-logo="https://www.fmh.la/images/team/logo_kids.png" group-title="INFANTILES", FMH KIDS
 http://179.49.163.34:45000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-id="FUNBOX" tvg-name="FUN BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/1200px-FunBox_TV_logo.svg.png" group-title="INFANTILES", FUN BOX
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FUNBOX/20-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/Vjw3R8m/nick.png" group-title="INFANTILES", NICKELODEON
 http://45.5.119.43:4000/play/a0hs/index.m3u8 
