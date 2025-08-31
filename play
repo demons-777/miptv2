@@ -118,7 +118,25 @@ http://190.238.172.153:8000/play/a0ek
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 4" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 4
 http://195.66.210.10:80/MiguelArrieta/QKBVE/21961
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="DEPORTES", TNT SPORTS PREMIUM 5
+http://higherpro.xyz:8080/live/56956478056/270924ztv/248242.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPRTS PREMIUM" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="DEPORTES", TNT SPORTS PREMIUM 6
+http://higherpro.xyz:8080/live/56956478056/270924ztv/86.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="DEPORTES", TNT SPORTS PREMIUM 7
+http://higherpro.xyz:8080/live/56956478056/270924ztv/87.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="DEPORTES", TNT SPORTS PREMIUM 8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/88.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="DEPORTES", TNT SPORTS PREMIUM 9
+http://higherpro.xyz:8080/live/56956478056/270924ztv/89.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS " tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="DEPORTES", TNT SPORTS 1
+http://higherpro.xyz:8080/live/56956478056/270924ztv/61276.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 2
 http://104.238.205.28:8989/278540_.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN PREMIUM
