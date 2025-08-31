@@ -31,7 +31,7 @@ https://cdn-live.mundogo.cl/tvp/tvp.mpd
 https://cdn-live.mundogo.cl/lared/lared.mpd
 
 #EXTINF:-1 tvg-id="CNN CHILE" tvg-name="CNN CHILE" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL", CNN CHILE
-http://higherpro.xyz:8080/live/56956478056/270924ztv/34.m3u8
+http://tvpromas.com:2082/stkramip/8430/2368
 
 #EXTINF:-1 tvg-id="24 Horas HD" tvg-name="24 Horas HD" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL", CANAL 24 HORAS
 https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
@@ -43,7 +43,7 @@ https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="ZONALATINA" tvg-name="ZONA LATINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Zona_Latina_2021.svg/revision/latest/scale-to-width-down/150?cb=20210805180712&path-prefix=es" group-title="NACIONAL", ZONA LATINA
-http://higherpro.xyz:8080/live/56956478056/270924ztv/56873.m3u8
+http://200.60.124.19:29000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="VIAX" tvg-name="VIA X" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/V%C3%ADa_X_2005.jpg/revision/latest?cb=20190809004317&path-prefix=es" group-title="NACIONAL", VIA X
 http://200.60.124.19:29000/play/a01c/index.m3u8
@@ -107,10 +107,10 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 1" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 1
-http://higherpro.xyz:8080/live/56956478056/270924ztv/92.m3u8
+http://magiz.net:25461/live/12345678/12345678/85.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 2" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 2
-http://higherpro.xyz:8080/live/56956478056/270924ztv/93.m3u8
+http://tvpromas.com:2082/stkramip/8430/57156
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 3" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 3
 http://190.238.172.153:8000/play/a0ek
@@ -118,23 +118,11 @@ http://190.238.172.153:8000/play/a0ek
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 4" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 4
 http://195.66.210.10:80/MiguelArrieta/QKBVE/21961
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 5" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 5
-http://higherpro.xyz:8080/live/56956478056/270924ztv/88.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 6" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 6
-http://higherpro.xyz:8080/live/56956478056/270924ztv/93.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 1
-http://higherpro.xyz:8080/live/56956478056/270924ztv/56659.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 2
-http://higherpro.xyz:8080/live/56956478056/270924ztv/98.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 3
 http://104.238.205.28:8989/278540_.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN PREMIUM
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54410.m3u8
+http://190.238.172.153:8000/play/a0ei
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES", ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -146,24 +134,24 @@ https://cdn-live.mundogo.cl/espn/espn.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MBX9udpV3rVx2xQd2eaniA", "kid":"SnkFDrcQVyu8PPp1cGwUEQ" },{ "kty":"oct", "k":"PzMAJnCPwv3RovDiPO59BA", "kid":"br92QVgVVlixp2XC2Gg10w" },{ "kty":"oct", "k":"QsOr676t6NPMryh32xYvcw", "kid":"iIYJ/A2FUfO3jMAY/mby/g" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/espn2/espn2.mpd
 
-#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",ESPN 3
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E0piombH8SyZGHBHK9bKqg", "kid":"f3sW+4VIU0WEkgDBeO5txA" },{ "kty":"oct", "k":"FE2UtV7Nnc/t/0niCdb+ow", "kid":"PH56/q6eVriN7szAbtdFcw" },{ "kty":"oct", "k":"PQbApCxcCr3AtSnVb7iNQw", "kid":"UsazpgNeX2KFgw/LL5GhQA" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/espn3/espn3.mpd
 
-#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 4
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 4" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1FazyuiKt/2HupBGknthRg", "kid":"PMsKjc70Wkai/CTkv3vqjA" },{ "kty":"oct", "k":"+0r80+bO7sT5PpRAGi4bSg", "kid":"PXi3cmqtVAqgD9COfDRG9Q" },{ "kty":"oct", "k":"2e55A1+R0WZvp8QMAkkT6g", "kid":"nrRTndHSXkuRldhNVEooOw" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/espn4/espn4.mpd
 
 #EXTINF:-1 tvg-id="ESPN5CHILE" tvg-name="ESPN 5 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 5
-http://190.60.33.245:4002/play/a0m3/index.m3u8 
+http://104.238.205.28:8989/278558_.m3u8
 
 #EXTINF:-1 tvg-id="ESPN6CHILE" tvg-name="ESPN 6 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 6
-http://190.60.33.245:4002/play/a1gg/index.m3u8 
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN6/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="ESPN7CHILE" tvg-name="ESPN 7 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 7
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54411.m3u8
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN7/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-name="TYC SPORTS" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F57%2F6577079_6A66E5AB224CD2F5.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", TYC SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -218,15 +206,13 @@ http://190.60.33.245:4002/play/a1mq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="DEPORTES", AZTECA DEPORTES
 http://172.93.102.119:8989/278577_.m3u8
 
-#EXTINF:-1 tvg-id="604dtv.pe" tvg-name="LIGA 1 MAX 4K" tvg-logo="http://oaktvpro.club:50003/images/10109fe73fc286d2aa5a1c18f6a92c96.png" group-title="DEPORTES", LIGA 1 MAX 4K
-http://tvdirecto.pro:8080/live/948068511/8noplifre/3439.m3u
 
 
 ----------CINE Y SERIES----------
 
 
 #EXTINF:-1 tvg-id="A3SERIES" tvg-name="A3SERIES" tvg-logo="https://mma.prnewswire.com/media/323322/1498622_logo_atreseries_Logo.jpg?p=facebook" group-title="CINE Y SERIES", A3SERIES
-http://179.49.163.34:45000/play/a038/index.m3u8
+http://magiz.net:25461/live/12345678/12345678/87.m3u8
 
 #EXTINF:-1 tvg-id="A3CINE" tvg-name="A3CINE" tvg-logo="https://assets.iprofesional.com/assets/jpg/2020/06/497527.jpg?5.6.0.5" group-title="CINE Y SERIES", A3CINE
 http://179.49.163.34:45000/play/a005/index.m3u8 
@@ -318,7 +304,7 @@ http://104.243.38.5:8989/278486_.m3u8
 http://179.49.163.34:45000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="MP" tvg-name="MP" tvg-logo="https://static.wikia.nocookie.net/logofan/images/7/79/Multipremier_%282012-2020%29.png/revision/latest?cb=20240116172218&path-prefix=es" group-title="CINE Y SERIES", ,MP
-https://593zona.live:8443/play/8ki15GBAFCrrIAvqi1lAS1TXdGU8OCXtaQNTZEWp210EDobYD3kzirv4qF6z0Ubh/ts
+http://104.238.205.28:8989/278510_.m3u8
 
 #EXTINF:-1 tvg-id="FHHMOVIES" tvg-name="FMH MOVIES" tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="CINE Y SERIES", FMH MOVIES
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/chMOVIES/40-hls/live-media.m3u8
@@ -340,7 +326,7 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/chREWIND/40-hls/live-media
 https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 
 #EXTINF:-1 tvg-id="SONYCHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e153054c65152bddd6_sony.png" group-title="CINE Y SERIES", SONY CHANNEL
-http://190.238.172.153:8000/play/a0gx
+http://190.238.172.153:8000/play/a0gx 
 
 #EXTINF:-1 tvg-id="SONYCINE" tvg-name="SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE Y SERIES", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
@@ -387,8 +373,7 @@ http://104.238.222.251:8989/278476_.m3u8
 http://104.238.222.251:8989/278478_.m3u8
 
 #EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_k0gMVsgJqwTZFTZNuWSJN59KnY5Xg4HaWA&s" group-title="CINE Y SERIES", WARNER
-http://higherpro.xyz:8080/live/56956478056/270924ztv/54452.m3u8
-
+http://143.0.67.77:8000/play/a05e/index.m3u8
 
 ----------INFANTILES----------
 
