@@ -251,7 +251,7 @@ http://104.238.205.28:8989/278465_.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CINECANAL/40-hls/live-media.m3u8 
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES", CINEMAX
-http://104.243.38.5:8989/278467_.m3u8
+http://143.0.67.77:8000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", group-title="CINE Y SERIES", +CINE
 https://tv.arkeo.cl:19360/8128/8128.m3u8
@@ -278,7 +278,7 @@ http://190.238.172.153:8000/play/a09m
 http://104.238.222.251:8989/278490_.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO2
-http://104.243.38.5:8989/278492_.m3u8
+http://tvdirecto.pro:8080/live/948068511/8noplifre/291953.m3u
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES", HBO FAMILY
 http://190.238.172.153:8000/play/a0bw
@@ -313,10 +313,10 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/GOLDEN/40-hls/live-media.m
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/GOLDENEDGE/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/Sxd9XyY0/gplus.png" group-title="CINE Y SERIES", GOLDEN PLUS
-http://104.243.38.5:8989/278484_.m3u8
+http://tvdirecto.pro:8080/live/948068511/8noplifre/3508.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE Y SERIES", GOLDEN PREMIER
-http://104.243.38.5:8989/278486_.m3u8
+http://tvdirecto.pro:8080/live/948068511/8noplifre/3510.m3u
 
 #EXTINF:-1 tvg-id="MC" tvg-name="MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE Y SERIES", MC
 http://179.49.163.34:45000/play/a01w/index.m3u8
