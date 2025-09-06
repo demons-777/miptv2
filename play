@@ -192,7 +192,7 @@ http://tvdirecto.pro:8080/live/948068511/8noplifre/3436.m3
 http://tvdirecto.pro:8080/live/948068511/8noplifre/3441.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="CDO" tvg-logo="https://i.ibb.co/W0mWyNr/cdo.png" group-title="DEPORTES", CDO
-http://higherpro.xyz:8080/live/56956478056/270924ztv/74106.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/26000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="DEPORTES", CLARO SPORTS
 http://199.127.63.143:8989/278556_.m3u8
@@ -205,6 +205,9 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278563.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TUDN DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="DEPORTES", TUDN DEPORTES
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278570.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ADRENALINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES", ADRENALINA
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278573.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/250px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES", BEIN SPORTS
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
@@ -247,8 +250,11 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/AXN/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
 http://199.127.63.143:8989/278394_.m3u8
 
+#EXTINF:-1 tvg-id="CINE.AR" tvg-name="CINE.AR" tvg-logo="https://escribiendocine-s3.cdn.net.ar/s3i233/2025/08/escribiendocine/images/02/22/42/2224241_d6dbafe2316ea6c514b85334ce4273f0469bb5102adac5e2e718d47cd346cb49/sm.jpg" group-title="CINE Y SERIES", CINE.AR
+http://143.0.67.77:8000/play/a024/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="azcinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037" group-title="CINE Y SERIES", AZCINEMA
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278464.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278465.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES", CINECANAL
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CINECANAL/40-hls/live-media.m3u8 
@@ -258,6 +264,9 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278468.m3u8
 
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", group-title="CINE Y SERIES", +CINE
 https://tv.arkeo.cl:19360/8128/8128.m3u8
+
+#EXTINF:-1 group-title="CINE ESTRELLA" tvg-id="CINE ESTRELLA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/48f00403-c73e-4fd5-9303-c3095bc5dcfa/Cine-Estrella-Horizontal-1920-x-1080_-_Erick_Ramirez.jpg" group-title="CINE Y SERIES", Cine estrella
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CLAROCINE" tvg-name="CLARO CINEMA" tvg-logo="https://th.bing.com/th/id/R.7446f227527b5082427fc9e32ba65a8e?rik=10qKysXSMsYRKQ&pid=ImgRaw&r=0" group-title="CINE Y SERIES", CLARO CINEMA
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278469.m3u8
@@ -357,6 +366,9 @@ https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="SONYMOVIES" tvg-name="SONY MOVIES" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png" group-title="CINE Y SERIES", SONY MOVIES
 http://143.0.67.77:8000/play/a05k/index.m3u8
 
+#EXTINF:-1 tvg-id="SONY NOVELAS" tvg-name="SONY NOVELAS" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE Y SRIES", SONY NOVELAS
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES", TNT 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZaIZqmQXvYPGUBg6SC+t8Q", "kid":"5Hd/mUc1VTSNPPkxu0nqOQ" },{ "kty":"oct", "k":"/hFkQYGELm+amtLeWL/elw", "kid":"zt2r9DVHUwqqib8ULBIy7w" },{ "kty":"oct", "k":"aeAi9LG7bvQVSYH8smOkKg", "kid":"jBMEIcbDX223EcpjrBWAvg" } ], "type":"temporary" }
@@ -401,7 +413,6 @@ http://143.0.67.77:8000/play/a05e/index.m3u8
 
 ----------INFANTILES----------
 
-
 #EXTINF:-1 tvg-id="ADULT SWIM" tvg-name="ADULT SWIM" tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg?crop=178px%2C100px%2C666px%2C371px&resize=1000%2C563" group-title="INFANTILES", ADULT SWIM
 http://104.238.205.28:8989/278392_.m3u8
 
@@ -409,7 +420,7 @@ http://104.238.205.28:8989/278392_.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
 
 #EXTINF:-1 tvg-id="BITME" tvg-name="BITME" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3c/BitMe_Logo_%282025%29.png/revision/latest/scale-to-width-down/1000?cb=20250113022316&path-prefix=es" group-title="INFANTILES", BITME
-http://199.127.63.143:8989/278522_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278522.m3u8
 
 #EXTINF:-1 tvg-id="etctv" tvg-name="ETC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/640px-ETC_2016-actual.png" group-title="INFANTILES", ETC 
 http://190.60.33.245:4002/play/a14k/index.m3u8 
@@ -433,7 +444,7 @@ http://190.60.33.245:4002/play/a1i0/index.m3u8
 http://104.238.205.28:8989/278542_.m3u8  
 
 #EXTINF:-1 tvg-id="FMHKIDS" tvg-name="FMH KIDS" tvg-logo="https://www.fmh.la/images/team/logo_kids.png" group-title="INFANTILES", FMH KIDS
-http://179.49.163.34:45000/play/a03i/index.m3u8
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/chKIDS/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="FUNBOX" tvg-name="FUN BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/1200px-FunBox_TV_logo.svg.png" group-title="INFANTILES", FUN BOX
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FUNBOX/20-hls/live-media.m3u8
@@ -484,6 +495,9 @@ http://179.49.163.34:45000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", PASIONES
 http://190.60.33.245:4002/play/a1h9/index.m3u8 
 
+#EXTINF:-1 tvg-id="NOVELISIMA" tvg-name="NOVELISIMA" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CULTURA Y ENTRETENIMIENTO", NOVELISIMA
+https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DISCOVERy" tvg-name="DISCOVERY" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY
 http://190.60.33.245:4002/play/a1i7/index.m3u8
 
@@ -506,7 +520,7 @@ http://190.60.33.245:4002/play/a1i9/index.m3u8
 http://179.49.163.34:45000/play/a01c/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="Azclick" tvg-logo="https://contenidostv.b-cdn.net/images/clic_color-02.png" group-title="CULTURA Y ENTRETENIMIENTO", AZTECA CLICK
-http://38.49.128.38:8000/play/a0mh/index.m3u8 
+https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Az CORAZON" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="CULTURA Y ENTRETENIMIENTO", AZTECA CORAZON
 http://190.60.33.245:4002/play/a0vf/index.m3u8 
@@ -549,8 +563,6 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/LIFETIME/40-hls/live-media
 
 #EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CULTURA Y ENTRETENIMIENTO", NATGEO
 http://190.60.33.245:4002/play/a1i8/index.m3u8 
-
-
 ----------24/7-----------
 
 
