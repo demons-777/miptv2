@@ -133,7 +133,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/88.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="DEPORTES", TNT SPORTS PREMIUM 9
 http://higherpro.xyz:8080/live/56956478056/270924ztv/89.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS " tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="DEPORTES", TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="DEPORTES", TNT SPORTS 1
 http://higherpro.xyz:8080/live/56956478056/270924ztv/61276.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES", TNT SPORTS 2
@@ -163,7 +163,7 @@ https://cdn-live.mundogo.cl/espn3/espn3.mpd
 https://cdn-live.mundogo.cl/espn4/espn4.mpd
 
 #EXTINF:-1 tvg-id="ESPN5CHILE" tvg-name="ESPN 5 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 5
-http://104.238.205.28:8989/278558_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278558.m3u8
 
 #EXTINF:-1 tvg-id="ESPN6CHILE" tvg-name="ESPN 6 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 6
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN6/40-hls/live-media.m3u8
@@ -185,8 +185,11 @@ http://143.0.67.77:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="DEPORTES", FOX SPORTS 3
 http://143.0.67.77:8000/play/a02t/index.m3u8
 
+#EXTINF:-1 tvg-id="11mvstr.pe" tvg-name="GOL PERU" tvg-logo="http://oaktvpro.club:50003/images/5c50ac77841e46cead1c1236f472cd65.png" group-title="DEPORTES", GOL PERU
+http://tvdirecto.pro:8080/live/948068511/8noplifre/3436.m3
+
 #EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png" group-title="DEPORTES", L1MAX
-http://200.60.124.19:29000/play/a07k/index.m3u8 
+http://tvdirecto.pro:8080/live/948068511/8noplifre/3441.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="CDO" tvg-logo="https://i.ibb.co/W0mWyNr/cdo.png" group-title="DEPORTES", CDO
 http://higherpro.xyz:8080/live/56956478056/270924ztv/74106.m3u8
@@ -198,10 +201,10 @@ http://199.127.63.143:8989/278556_.m3u8
 http://45.5.119.43:4000/play/a0kz/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="tvc deportes" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es" group-title="DEPORTES", TVC DEPORTES
-http://104.238.222.251:8989/278564_.m3u8 
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278563.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TUDN DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="DEPORTES", TUDN DEPORTES
-http://104.238.205.28:8989/278570_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278570.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/250px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES", BEIN SPORTS
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
@@ -245,22 +248,22 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/AXN/40-hls/live-media.m3u8
 http://199.127.63.143:8989/278394_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="azcinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037" group-title="CINE Y SERIES", AZCINEMA
-http://104.238.205.28:8989/278465_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278464.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES", CINECANAL
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CINECANAL/40-hls/live-media.m3u8 
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES", CINEMAX
-http://143.0.67.77:8000/play/a04s/index.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278468.m3u8
 
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", group-title="CINE Y SERIES", +CINE
 https://tv.arkeo.cl:19360/8128/8128.m3u8
 
 #EXTINF:-1 tvg-id="CLAROCINE" tvg-name="CLARO CINEMA" tvg-logo="https://th.bing.com/th/id/R.7446f227527b5082427fc9e32ba65a8e?rik=10qKysXSMsYRKQ&pid=ImgRaw&r=0" group-title="CINE Y SERIES", CLARO CINEMA
-http://104.243.38.5:8989/278469_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278469.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://yt3.googleusercontent.com/NKN8usqtQbTO_GNLIgyHfU1MYfBnxkirUKXkpJER1ALWrp8HoeSKJt1MwdU-pshOCwvTsAwYAA=s900-c-k-c0x00ffffff-no-rj" group-title="CINE Y SERIES", CINE LATINO
-http://104.238.205.28:8989/278460_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278460.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIAR" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-FAMILIAR.png" group-title="CINE Y SERIES", CINE FAMILIAR
 http://190.60.33.245:4002/play/a1l0/index.m3u8 
@@ -275,22 +278,22 @@ http://143.0.67.77:8000/play/a079/index.m3u8
 http://190.238.172.153:8000/play/a09m
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png" group-title="CINE Y SERIES", HBO PLUS
-http://104.238.222.251:8989/278490_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278490.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO2
-http://tvdirecto.pro:8080/live/948068511/8noplifre/3512.m3u
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278492.m3u8
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES", HBO FAMILY
-http://190.238.172.153:8000/play/a0bw
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278496.m3u8
 
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://puntoz.net/LOGOS/hbosignatureb.png" group-title="CINE Y SERIES", HBO SIGNATURE
-http://104.238.222.251:8989/278505_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278501.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES", HBO POP
 http://190.238.172.153:8000/play/a0el
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO MUNDI" tvg-logo="https://www.codice.tv/wp-content/uploads/2022/04/hbo-mundi1.png" group-title="CINE Y SERIES", HBO MUNDI
-http://104.238.222.251:8989/278501_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278501.m3u8
 
 #EXTINF:-1 tvg-id="HBOXTREM" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES", HBO XTREME
 http://190.238.172.153:8000/play/a0g8
@@ -299,6 +302,9 @@ http://190.238.172.153:8000/play/a0g8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Duc1ujfe3hBm9GTtiBA+jA", "kid":"EXkspSAEU1KkFv8hbmwN4Q" },{ "kty":"oct", "k":"sZoLvyDt3956rRhd99EZmQ", "kid":"9aA5YeVWUOussxp6ZO6NpA" },{ "kty":"oct", "k":"sYpCElxPNG8PelttBmNoYw", "kid":"8jlSPgyiWouiwQCxSSeHbA" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
+
+#EXTINF:-1 tvg-id="DEPELICULA+" tvg-name="DE PELICULA+" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="CINE Y SERIES", DE PELICULA PLUS
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 
 #EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/640px-2020_Canal_DHE_logo.svg.png" group-title="CINE Y SERIES", DHE
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DHE/40-hls/live-media.m3u8
@@ -313,16 +319,16 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/GOLDEN/40-hls/live-media.m
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/GOLDENEDGE/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/Sxd9XyY0/gplus.png" group-title="CINE Y SERIES", GOLDEN PLUS
-http://tvdirecto.pro:8080/live/948068511/8noplifre/3508.m3u
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278484.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE Y SERIES", GOLDEN PREMIER
-http://tvdirecto.pro:8080/live/948068511/8noplifre/3510.m3u
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278486.m3u8
 
 #EXTINF:-1 tvg-id="MC" tvg-name="MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE Y SERIES", MC
 http://179.49.163.34:45000/play/a01w/index.m3u8
 
-#EXTINF:-1 tvg-id="MP" tvg-name="MP" tvg-logo="https://static.wikia.nocookie.net/logofan/images/7/79/Multipremier_%282012-2020%29.png/revision/latest?cb=20240116172218&path-prefix=es" group-title="CINE Y SERIES", ,MP
-http://104.238.205.28:8989/278510_.m3u8
+#EXTINF:-1 tvg-id="MP" tvg-name="MP" tvg-logo="https://static.wikia.nocookie.net/logofan/images/7/79/Multipremier_%282012-2020%29.png/revision/latest?cb=20240116172218&path-prefix=es" group-title="CINE Y SERIES", MULTIPREMIER
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278510.m3u8
 
 #EXTINF:-1 tvg-id="FHHMOVIES" tvg-name="FMH MOVIES" tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="CINE Y SERIES", FMH MOVIES
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/chMOVIES/40-hls/live-media.m3u8
@@ -330,13 +336,12 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/chMOVIES/40-hls/live-media
 #EXTINF:-1 tvg-id="FHM" tvg-name="FHM FAMILY" tvg-logo="https://www.fmh.la/images/team/logo_family.png" group-title="CINE Y SERIES", FMH FAMILY
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/chFAMILY/40-hls/live-media.m3u8
 
-#EXTINF:-1 tvg-id="PARAMOUNTCHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e597d941bc3acf1bdcdf9_paramount.png" group-title="CINE Y SERIES", PARAMOUNT CHANNEL HD
+#EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.fmh.la/images/team/logo_rewind.png" group-title="CINE Y SERIES", REWIND
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/chREWIND/40-hls/live-media.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNTCHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e597d941bc3acf1bdcdf9_paramount.png" group-title="CINE Y SERIES", PARAMOUNT CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cDkN+a6yWAa9tnR3jN+fVA", "kid":"JplkkYjlX0GoRiyRseu/pw" },{ "kty":"oct", "k":"mG5rEj9KF0RmbubQaKKPLw", "kid":"ID+Rdx2KUriHsRC90sMJSQ" },{ "kty":"oct", "k":"pATR9JfxWeTrOuUsETf12Q", "kid":"lGSO+ISZXc+1r+H8Eika5A" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/paramount/paramount.mpd
-
-#EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.fmh.la/images/team/logo_rewind.png" group-title="CINE Y SERIES", REWIND
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/chREWIND/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b3a567a9c9259721e3_space.png" group-title="CINE Y SERIES", SPACE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -367,28 +372,28 @@ http://190.60.33.245:4002/play/a1hi/index.m3u8
 http://200.60.124.19:29000/play/a01s/index.m3u8 
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0" group-title="CINE Y SERIES", USA
-http://104.238.205.28:8989/278452_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278451.m3u8
 
 #EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.pinimg.com/736x/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="CINE Y SERIES", STUDIO UNIVERSAL
-http://190.238.172.153:8000/play/a0aa
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/STUDIOUNIVERSAL/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALTV" tvg-name="UNIVERSAL TV" tvg-logo="https://i.pinimg.com/564x/b9/e1/b5/b9e1b5ed78238f8700fdc1704287ba37.jpg" group-title="CINE Y SERIES", UNIVERSAL TV
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/UNIVERSALCH/40-hls/live-media.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="http://puntoz.xyz/LOGOS/universalcrimeB.png" group-title="CINE Y SERIES", UNIVERSAL CRIME
-http://104.238.222.251:8989/278474_.m3u8
-
 #EXTINF:-1 tvg-id="UNIVERSALCINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="CINE Y SERIES", UNIVERSAL CINEMA
-http://104.238.222.251:8989/278472_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278472.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALCOMEDY" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://thafd.bing.com/th/id/OIP.tQO5QH8KZO3CGvXhdxj63QHaEE?rs=1&pid=ImgDetMain" group-title="CINE Y SERIES", UNIVERSAL COMEDY
-http://104.238.222.251:8989/278473_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278473.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="http://puntoz.xyz/LOGOS/universalcrimeB.png" group-title="CINE Y SERIES", UNIVERSAL CRIME
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278474.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALPREMIER" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE Y SERIES", UNIVERSAL PREMIER
-http://104.238.222.251:8989/278476_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278476.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALREALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="CINE Y SERIES", UNIVERSAL REALITIE
-http://104.238.222.251:8989/278478_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278478.m3u8
 
 #EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_k0gMVsgJqwTZFTZNuWSJN59KnY5Xg4HaWA&s" group-title="CINE Y SERIES", WARNER
 http://143.0.67.77:8000/play/a05e/index.m3u8
