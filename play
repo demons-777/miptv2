@@ -254,7 +254,7 @@ http://199.127.63.143:8989/278394_.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278465.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES", CINECANAL
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CINECANAL/40-hls/live-media.m3u8 
+http://45.5.119.43:4000/play/a0hq/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES", CINEMAX
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278468.m3u8
@@ -313,10 +313,10 @@ https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 
 #EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/640px-2020_Canal_DHE_logo.svg.png" group-title="CINE Y SERIES", DHE
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DHE/40-hls/live-media.m3u8
+http://190.60.33.245:4002/play/a1kb/index.m3u8 dhe
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES", FX
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FXHD/40-hls/live-media.m3u8 
+http://200.60.124.19:29000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png" group-title="CINE Y SERIES", GOLDEN
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278479.m3u8
