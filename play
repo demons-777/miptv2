@@ -278,7 +278,7 @@ http://190.60.33.245:4002/play/a1l0/index.m3u8
 http://190.60.33.245:4002/play/a1mg/index.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR Channel" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES", STAR CHANNEL
-http://209.126.106.30:8081/live/2d6b62739e724ca4a4096ed8032dd566/dba9cece0fe64666ab568a1737a778c8/59.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/54441.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="CINE Y SERIES", HBO
 http://190.238.172.153:8000/play/a09m
@@ -316,10 +316,10 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/121.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES", FX
-http://tvdirecto.pro:8080/live/948068511/8noplifre/195152.m3u
+http://higherpro.xyz:8080/live/56956478056/270924ztv/54444.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png" group-title="CINE Y SERIES", GOLDEN
-http://tvdirecto.pro:8080/live/948068511/8noplifre/195974.m3u
+http://195.66.210.10:80/MiguelArrieta/QKBVE/576582
 
 #EXTINF:-1 tvg-id="GOLDENEDGE" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE Y SERIES", GOLDEN EDGE
 http://higherpro.xyz:8080/live/56956478056/270924ztv/65218.m3u8
@@ -388,7 +388,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278451.m3u8
 http://38.7.101.90:8000/play/a1em/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALTV" tvg-name="UNIVERSAL TV" tvg-logo="https://i.pinimg.com/564x/b9/e1/b5/b9e1b5ed78238f8700fdc1704287ba37.jpg" group-title="CINE Y SERIES", UNIVERSAL TV
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/UNIVERSALCH/40-hls/live-media.m3u8
+http://190.238.172.153:8000/play/a0ix
 
 #EXTINF:-1 tvg-id="UNIVERSALCINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="CINE Y SERIES", UNIVERSAL CINEMA
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278472.m3u8
@@ -406,7 +406,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278476.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278478.m3u8
 
 #EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_k0gMVsgJqwTZFTZNuWSJN59KnY5Xg4HaWA&s" group-title="CINE Y SERIES", WARNER
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278454.m3u8
+http://190.171.83.2:4000/play/a0pu/index.m3u8
 
 
 ----------INFANTILES----------
@@ -421,7 +421,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278522.m3u8
 
 #EXTINF:-1 tvg-id="etctv" tvg-name="ETC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/640px-ETC_2016-actual.png" group-title="INFANTILES", ETC 
-http://190.60.33.245:4002/play/a14k/index.m3u8 
+http://higherpro.xyz:8080/live/56956478056/270924ztv/54434.m3u8
 
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e573e3704612374867e59_dreamworks.jpg" group-title="INFANTILES", DREAMWORKS
 http://179.49.163.34:45000/play/a011/index.m3u8 
@@ -506,7 +506,7 @@ http://45.5.119.43:4000/play/a0ks/index.m3u8
 http://190.60.33.245:4002/play/a1gr/index.m3u8  
 
 #EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6949d391879f262fe42_turbo.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY TURBO
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISCOVERYTURBO/40-hls/live-media.m3u8
+http://tvpromas.com:2082/stkramip/8430/3083
 
 #EXTINF:-1 tvg-id="DiscoveryWorld" tvg-name="DISCOVERY WORLD" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d241ede080ce187953_d-world1.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY WORLD
 http://190.60.33.245:4002/play/a1i9/index.m3u8 
@@ -562,8 +562,9 @@ http://190.60.33.245:4002/play/a1i8/index.m3u8
 
 ----------24/7-----------
 
+
 #EXTINF:-1 tvg-id="EL CHAVO" tvg-name="EL CHAVO" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7", EL CHAVO DEL 8
-http://195.66.210.10:80/LINDSAY01/MABDU/216295
+http://195.66.210.10:80/MiguelArrieta/QKBVE/21738
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (OAK)" tvg-logo="http://oaktvpro.club:50003/images/802f56af1ab121f9344cb963ef5a384b.jpg" group-title="24/7", Los Picapiedra
 http://tvdirecto.pro:8080/live/948068511/8noplifre/5659.m3u
@@ -580,8 +581,8 @@ http://tvdirecto.pro:8080/live/948068511/8noplifre/352971.m3u
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (OAK)" tvg-logo="http://oaktvpro.club:50003/images/79e01c9f17fa1cbc36383db3a9820b0d.jpg" group-title="24/7", Super Campeones
 http://tvdirecto.pro:8080/live/948068511/8noplifre/5648.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BUGS BUNNY" tvg-logo="http://oaktvpro.club:50003/images/d0fb55f7458aab1198dab0944b0a1034.jpg" group-title="24/7", 24/7 BUGS BUNNY
-http://tvdirecto.pro:8080/live/948068511/8noplifre/5634.m3u
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE MICKEY MOUSE" tvg-logo="https://dl.dropboxusercontent.com/s/g5i8adv08ozz297/lacasademickey1.png" group-title="24/7", la casa de mickey 
+http://195.66.210.10:80/MiguelArrieta/QKBVE/177184
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Superagente 86 (1965) (OAK)" tvg-logo="http://oaktvpro.club:50003/images/db690694f7e26942e9c9feaf4427045c.jpg" group-title=" 24/7", El Superagente 86
 http://tvdirecto.pro:8080/live/948068511/8noplifre/5567.m3u
@@ -591,24 +592,6 @@ http://tvdirecto.pro:8080/live/948068511/8noplifre/5484.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulín Colorado (1973) (OAK)" tvg-logo="http://oaktvpro.club:50003/images/86c90219afa44b32031283a0a2382952.jpg" group-title=" 24/7", El Chapulín Colorado
 http://tvdirecto.pro:8080/live/948068511/8noplifre/5564.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El gran Chaparral (1967) (OAK)" tvg-logo="http://oaktvpro.club:50003/images/3a2a64b44dd21b29626d1c37dbc4074b.jpg" group-title=" 24/7", El gran Chaparral
-http://195.66.210.10:80/LINDSAY01/MABDU/217386
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de Mickey Mouse (2006) (OAK)" tvg-logo="" group-title="24/7", La casa de Mickey Mouse
-http://195.66.210.10:80/LINDSAY01/MABDU/177184
-
-#EXTINF:-1, group-title="24/7", PINGÜINOS DE MADAGASCAR 
-http://195.66.210.10:80/LINDSAY01/MABDU/177118
-
-#EXTINF:-1, group-title="24/7", PRINCESA SOFÍA 
-http://195.66.210.10:80/LINDSAY01/MABDU/177121
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Auto Fantastico (OAK)" tvg-logo="http://oaktvpro.club:50003/images/8ff5940001072f9d0d29b4517a095bd2.jpg" group-title="24/7", El Auto Fantastico
-http://195.66.210.10:80/LINDSAY01/MABDU/107873
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PAW PATROL (OAK)" tvg-logo="noimage.png" group-title="24/7", PAW PATROL
-http://195.66.210.10:80/LINDSAY01/MABDU/108007
 
 #EXTINF:-1 tvg-id="" tvg-name="Bones" tvg-logo="https://i.postimg.cc/g0TNLX8Y/Proyectox-Cinemax-19.png" group-title="24/7", Bones
 http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94919
