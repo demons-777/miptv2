@@ -78,8 +78,8 @@ https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="1497" tvg-name="Nova TV Canal 7" tvg-logo="https://cdn.m3u.cl/logo/1497_Nova_TV_Canal_7.png" group-title="NACIONAL", Nova TV Canal 7
 https://freya.mivideo.pro/novatv/index.fmp4.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="78" tvg-name="TVR Canal 11" tvg-logo="https://cdn.m3u.cl/logo/78_TVR_Canal_11.png" group-title="NACIONAL", TVR Canal 11
-https://cloudpro.servidoresdestream.com:8081/8006/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="78" tvg-name="RADIOVIDA" tvg-logo="https://www.radiovidacurico.cl/wp-content/uploads/2016/04/log-menu.png" group-title="NACIONAL", RADIO VIDA CURICO
+https://v2.tustreaming.cl/radiovidacurico/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="NACIONAL", 13 Internacional
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
