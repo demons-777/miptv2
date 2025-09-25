@@ -166,7 +166,7 @@ https://cdn-live.mundogo.cl/espn4/espn4.mpd
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278558.m3u8
 
 #EXTINF:-1 tvg-id="ESPN6CHILE" tvg-name="ESPN 6 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 6
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278566.m3u8
+http://190.60.33.245:4002/play/a1gg/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN7CHILE" tvg-name="ESPN 7 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 7
 http://190.60.33.245:4002/play/a1hy/index.m3u8
@@ -177,13 +177,13 @@ http://190.60.33.245:4002/play/a1hy/index.m3u8
 https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="DEPORTES", FOX SPORTS
-http://143.0.67.77:8000/play/a07j/index.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/456.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/small.1344882745_FOXSports2ARG(2023-).png.cd26bb6f6340e81d793b7a598b51aa32.png" group-title="DEPORTES", FOX SPORTS 2
 http://143.0.67.77:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="DEPORTES", FOX SPORTS 3
-http://143.0.67.77:8000/play/a02t/index.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/537.m3u8
 
 #EXTINF:-1 tvg-id="11mvstr.pe" tvg-name="GOL PERU" tvg-logo="http://oaktvpro.club:50003/images/5c50ac77841e46cead1c1236f472cd65.png" group-title="DEPORTES", GOL PERU
 http://tvdirecto.pro:8080/live/948068511/8noplifre/3436.m3
@@ -346,7 +346,7 @@ http://45.184.87.142:8000/play/a05e
 http://45.184.87.142:8000/play/a03b
 
 #EXTINF:-1 tvg-id="MX" tvg-name="MX SERIES" tvg-logo="" group-title="CINE Y SERIES", MX SERIES
-http://45.184.87.142:8000/play/a03g
+http://45.184.87.142:8000/play/a03f
 
 #EXTINF:-1 tvg-id="MX" tvg-name="MX CLASSIC" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="CINE Y SERIES", MX CLASSIC
 http://45.184.87.142:8000/play/a03g
@@ -383,7 +383,7 @@ http://190.238.172.153:8000/play/a0gx
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SONYMOVIES" tvg-name="SONY MOVIES" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png" group-title="CINE Y SERIES", SONY MOVIES
-http://143.0.67.77:8000/play/a05k/index.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278471.m3u8
 
 #EXTINF:-1 tvg-id="SONY NOVELAS" tvg-name="SONY NOVELAS" tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="CINE Y SERIES", SONY NOVELAS
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
@@ -394,7 +394,7 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
 
 #EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE Y SERIES", TNT SERIES
-http://143.0.67.77:8000/play/a07e/index.m3u8
+http://190.60.33.245:4002/play/a1k4/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://pbs.twimg.com/media/Fo4or_BXsAAsJIL.png" group-title="CINE Y SERIES", TNT NOVELAS
 http://190.60.33.245:4002/play/a1hi/index.m3u8 
@@ -454,7 +454,7 @@ http://179.49.163.34:45000/play/a011/index.m3u8
 http://190.60.33.245:4002/play/a1kn/index.m3u8 
 
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e565f63c36e257bfbef92_cartoonito.png" group-title="INFANTILES", CARTOONITO
-http://104.238.205.28:8989/278528_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278528.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/PtKd97J/discovery-kids.png" group-title="INFANTILES", DISCOVERY KIDS
 http://190.60.33.245:4002/play/a1ko/index.m3u8 
@@ -463,7 +463,7 @@ http://190.60.33.245:4002/play/a1ko/index.m3u8
 http://190.60.33.245:4002/play/a1i0/index.m3u8 
 
 #EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.ibb.co/MSXFY3T/disney-jr.png" group-title="INFANTILES", DISNEY JR
-http://104.238.205.28:8989/278542_.m3u8  
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278542.m3u8  
 
 #EXTINF:-1 tvg-id="FMHKIDS" tvg-name="FMH KIDS" tvg-logo="https://www.fmh.la/images/team/logo_kids.png" group-title="INFANTILES", FMH KIDS
 http://179.49.163.34:45000/play/a03i/index.m3u8
@@ -472,7 +472,7 @@ http://179.49.163.34:45000/play/a03i/index.m3u8
 http://45.5.119.43:4000/play/a0hs/index.m3u8 
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/5j96nsY/nick-jr.png" group-title="INFANTILES", NICK JR
-http://104.238.205.28:8989/278545_.m3u8 
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278546.m3u8
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/BfmgWb6/tooncast.png" group-title="INFANTILES", TOONCAST
 http://190.60.33.245:4002/play/a1l4/index.m3u8 
