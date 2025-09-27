@@ -215,14 +215,23 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ECDF" tvg-logo="https://www.xtrim.com.ec/wp-content/uploads/2024/09/ECDF.png" group-title="DEPORTES", ECDF
 http://user.tvcluboficial.com/live/m/m/318.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://i.ibb.co/fMh1j6W/610.png" group-title="DEPORTES", DIRECTV SPORTS
-http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/9561
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://i.ibb.co/fMh1j6W/610.png" group-title="DEPORTES", DIRECTV SPORTS 1
+http://195.66.210.10:80/MiguelArrieta/QKBVE/158506
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP | DIRECTV SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS (1)
+http://195.66.210.10:80/MiguelArrieta/QKBVE/158511
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS 2
 http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/9564
 
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS (2)
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/9564
+
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS+" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="DEPORTES", DIRECTV SPORTS+
-http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/9557
+http://195.66.210.10:80/MiguelArrieta/QKBVE/518959
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP | DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS (+)
+http://195.66.210.10:80/MiguelArrieta/QKBVE/310535
 
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://img.hidra.app/deportes/winsportsplus.png" group-title="DEPORTES", WIN SPORTS +
 http://190.60.33.245:4002/play/a1mq/index.m3u8 
