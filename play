@@ -221,8 +221,8 @@ http://195.66.210.10:80/MiguelArrieta/QKBVE/158506
 #EXTINF:-1 tvg-id="" tvg-name="DEP | DIRECTV SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS (1)
 http://195.66.210.10:80/MiguelArrieta/QKBVE/158511
 
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS 2
-http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/9564
+#EXTINF:-1 tvg-id="" tvg-name="DEP | DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS 2
+http://195.66.210.10:80/MiguelArrieta/QKBVE/456658
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS (2)
 http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/9564
