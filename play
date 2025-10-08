@@ -633,6 +633,9 @@ http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94924
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (OAK)" tvg-logo="http://oaktvpro.club:50003/images/802f56af1ab121f9344cb963ef5a384b.jpg" group-title="24/7", Los Picapiedra
 http://tvdirecto.pro:8080/live/948068511/8noplifre/5659.m3u
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Supersonicos (1962)" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/TheJetsons.jpg/revision/latest/scale-to-width-down/1200?cb=20230718010744&path-prefix=es" group-title="24/7", LOS SUPERSONICOS
+http://tv.masterplaytv.club:8080/p4u7a4r3na/483caa36995b/105643
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cantinflas(OAK)" tvg-logo="https://images.hive.blog/DQmf6Widr3qLecLzjAC6F8rEQeTPSGYNwZo7oX38KmMzshf/image.png" group-title="24/7", Cantinflas
 http://tvdirecto.pro:8080/live/948068511/8noplifre/291406.m3u
 
@@ -646,7 +649,7 @@ http://tvdirecto.pro:8080/live/948068511/8noplifre/291407.m3u
 http://tvdirecto.pro:8080/live/948068511/8noplifre/352971.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (OAK)" tvg-logo="http://oaktvpro.club:50003/images/79e01c9f17fa1cbc36383db3a9820b0d.jpg" group-title="24/7", Super Campeones
-http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94888
+http://tv.masterplaytv.club:8080/p4u7a4r3na/483caa36995b/94888
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (OAK)" tvg-logo="http://oaktvpro.club:50003/images/79e01c9f17fa1cbc36383db3a9820b0d.jpg" group-title="24/7", Super Campeones 2
 http://tvhomesmart.xyz:8080/951242681tv/s2vJW967/250532
