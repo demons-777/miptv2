@@ -258,13 +258,13 @@ http://magiz.net:25461/live/12345678/12345678/87.m3u8
 http://179.49.163.34:45000/play/a005/index.m3u8 
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES", A&E
-http://190.60.33.245:4002/play/a1ak/index.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278389.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES", AXN
-http://190.60.33.245:4002/play/a1i4/index.m3u8
+http://209.126.106.30:8081/live/d0bf69ee5790423d9f377bde79ec0991/8bd2a9eaefbe48f897fb1d534812215d/57.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
-http://199.127.63.143:8989/278394_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278394.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="azcinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037" group-title="CINE Y SERIES", AZCINEMA
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278465.m3u8
@@ -631,40 +631,36 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278636.m3u8
 http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94924
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (OAK)" tvg-logo="http://oaktvpro.club:50003/images/802f56af1ab121f9344cb963ef5a384b.jpg" group-title="24/7", Los Picapiedra
-http://tvdirecto.pro:8080/live/948068511/8noplifre/5659.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Supersonicos (1962)" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/TheJetsons.jpg/revision/latest/scale-to-width-down/1200?cb=20230718010744&path-prefix=es" group-title="24/7", LOS SUPERSONICOS
-http://tv.masterplaytv.club:8080/p4u7a4r3na/483caa36995b/105643
+http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/110033
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cantinflas(OAK)" tvg-logo="https://images.hive.blog/DQmf6Widr3qLecLzjAC6F8rEQeTPSGYNwZo7oX38KmMzshf/image.png" group-title="24/7", Cantinflas
-http://tvdirecto.pro:8080/live/948068511/8noplifre/291406.m3u
+http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/95617
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Cantinflas (e)" tvg-logo="https://i.postimg.cc/7ZKnns4P/Proyectox-Cinema-16.png" group-title="24/7", Cantinflas
 http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/95617
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA (OAK)" tvg-logo="https://w7.pngwing.com/pngs/995/853/png-transparent-futurama-worlds-of-tomorrow-philip-j-fry-bender-futurama-season-2-the-lesser-of-two-evils-futurama-heroes-cartoon-fictional-character.png" group-title="24/7", FUTURAMA
-http://tvdirecto.pro:8080/live/948068511/8noplifre/291407.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BLUEY (2018) (OAK)" tvg-logo="https://image.tmdb.org/t/p/w400/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg" group-title="24/7", BLUEY
-http://tvdirecto.pro:8080/live/948068511/8noplifre/352971.m3u
+http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/94877
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (OAK)" tvg-logo="http://oaktvpro.club:50003/images/79e01c9f17fa1cbc36383db3a9820b0d.jpg" group-title="24/7", Super Campeones
-http://tv.masterplaytv.club:8080/p4u7a4r3na/483caa36995b/94888
+http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94888
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (OAK)" tvg-logo="http://oaktvpro.club:50003/images/79e01c9f17fa1cbc36383db3a9820b0d.jpg" group-title="24/7", Super Campeones 2
-http://tvhomesmart.xyz:8080/951242681tv/s2vJW967/250532
+http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/94888
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Superagente 86 (1965) (OAK)" tvg-logo="http://oaktvpro.club:50003/images/db690694f7e26942e9c9feaf4427045c.jpg" group-title="24/7", El Superagente 86
-http://tvdirecto.pro:8080/live/948068511/8noplifre/5567.m3u
+http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/96695
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Supersonicos (1962)" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/TheJetsons.jpg/revision/latest/scale-to-width-down/1200?cb=20230718010744&path-prefix=es" group-title="24/7", LOS SUPERSONICOS
+http://tv.masterplaytv.club:8080/p4u7a4r3na/483caa36995b/105643
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (OAK)" tvg-logo="http://oaktvpro.club:50003/images/d080f8b3d43978d6a311f0d019a1b4e7.png" group-title="24/7", The Big Bang Theory
-http://tvdirecto.pro:8080/live/948068511/8noplifre/5484.m3u
+http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/94867
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (e)" tvg-logo="https://i.postimg.cc/PrTpqN7t/Proyectox-24-7-series-Animacion3-28.png" group-title="24/7", The Big Bang Theory 2
 http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94867
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulín Colorado (1973) (OAK)" tvg-logo="http://oaktvpro.club:50003/images/86c90219afa44b32031283a0a2382952.jpg" group-title=" 24/7", El Chapulín Colorado
-http://tvdirecto.pro:8080/live/948068511/8noplifre/5564.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Mentalista (e)" tvg-logo="https://i.postimg.cc/Y0wNQ19w/Proyectox-Cinemax-31.png" group-title="24/7 SERIES", EL MENTALISTA 
 http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94937
