@@ -39,9 +39,6 @@ http://tvpromas.com:2082/stkramip/8430/2368
 #EXTINF:-1 tvg-id="24 Horas HD" tvg-name="24 Horas HD" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL", CANAL 24 HORAS
 https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
 
-#EXTINF:-1 tvg-id="445" tvg-name="Camara de Diputados" tvg-logo="https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png" group-title="NACIONAL", CAMARA DIPUTADOS
-https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="444" tvg-name="TV Senado" tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png" group-title="NACIONAL", TV SENADO
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 
@@ -219,10 +216,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/585.m3u8
 http://195.66.210.10:80/MiguelArrieta/QKBVE/158506
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP | DIRECTV SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS (1)
-http://195.66.210.10:80/MiguelArrieta/QKBVE/158511
-
-#EXTINF:-1 tvg-id="" tvg-name="DEP | DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS 2
-http://195.66.210.10:80/MiguelArrieta/QKBVE/456658
+http://magiz.net:25461/live/12345678/12345678/107.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS (2)
 http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/9564
@@ -248,9 +242,11 @@ http://vipbftn.xyz:8080/live/jorge/jorge/254.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Liga Hypermotion 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="DEPORTES",LA LIGA
 http://vipbftn.xyz:8080/live/jorge/jorge/246.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="→ ESPAÑA LA LIGA ←",M+ LA LIGA FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="DEPORTES",M+ LA LIGA FHD
 http://higherpro.xyz:8080/live/56956478056/270924ztv/60238.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="DEPORTES", SKY SPORTS
+http://45.5.119.43:4000/play/a05r/index.m3u8
 
 ----------CINE Y SERIES----------
 
@@ -435,7 +431,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278443.m3u8
 http://190.60.33.245:4002/play/a1hi/index.m3u8 
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE Y SERIES", TCM
-http://200.60.124.19:29000/play/a01s/index.m3u8 
+http://magiz.net:25461/live/12345678/12345678/39.m3u8
 
 #EXTINF:-1 tvg-id="OLD" tvg-name="OLD" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="CINE Y SERIES", OLD
 http://45.184.87.142:8000/play/a03e
@@ -524,6 +520,9 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278546.m3u8
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/BfmgWb6/tooncast.png" group-title="INFANTILES", TOONCAST
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278551.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Plim Plim TV" tvg-logo="https://cherrysmarbella.com/wp-content/uploads/2024/06/plim-plim-un-heroe-del-corazon.jpg" group-title="INFANTILES", Plim Plim TV
+http://magiz.net:25461/live/12345678/12345678/343.m3u8
 
 #EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png" group-title="INFANTILES", KANADE TV 
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb
