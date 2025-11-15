@@ -141,7 +141,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/61276.m3u8
 http://104.238.205.28:8989/278540_.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN PREMIUM
-http://190.238.172.153:8000/play/a0ei
+http://magiz.net:25461/live/12345678/12345678/341.m3u8
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES", ESPN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
