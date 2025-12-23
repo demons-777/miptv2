@@ -370,7 +370,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278427.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278483.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENEDGE" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE Y SERIES", GOLDEN EDGE
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278481.m3u8
+http://45.184.87.142:8000/play/a04t
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/Sxd9XyY0/gplus.png" group-title="CINE Y SERIES", GOLDEN PLUS
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278484.m3u8
@@ -379,7 +379,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278484.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278486.m3u8
 
 #EXTINF:-1 tvg-id="MC" tvg-name="MC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="CINE Y SERIES", MC
-http://179.49.163.34:45000/play/a01w/index.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278509.m3u8
 
 #EXTINF:-1 tvg-id="MP" tvg-name="MP" tvg-logo="https://static.wikia.nocookie.net/logofan/images/7/79/Multipremier_%282012-2020%29.png/revision/latest?cb=20240116172218&path-prefix=es" group-title="CINE Y SERIES", MULTIPREMIER
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278510.m3u8
