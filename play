@@ -220,7 +220,7 @@ http://newemma.xyz:8080/995243891/270223/474
 http://newemma.xyz:8080/995243891/270223/469
 
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://img.hidra.app/deportes/winsportsplus.png" group-title="DEPORTES", WIN SPORTS +
-http://orionvideo.miratv.cl:49999/livedev/winsports/chunklist_w2101970034_tkY21ldHRva2VuQ3VzdG9tUGFyYW1ldGVyPTRiOWNmNjZjLTMwMjMtNGY4ZC05OGE2LTVjMTFiYzk4ODI2NiZjbWV0dG9rZW5lbmR0aW1lPTE3NjY2OTc3NjkmY21ldHRva2Vuc3RhcnR0aW1lPTE3NjY2ODE1NjkmY21ldHRva2VuaGFzaD1fVlZyNDM0dEpNQWp0XzZvT2hydnNvZlZsT0ZYRmFhT29ZRXZlMmdtWFBNPQ==.m3u8
+http://imaxplay.net:8880//live/Alemilo/Kg3wf9X3yG/516934.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="DEPORTES", AZTECA DEPORTES
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278577.m3u8
@@ -482,11 +482,11 @@ http://45.5.119.43:4000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="BABYFIRST" tvg-name="BABYFIRST" tvg-logo="https://epodcastnetwork.com/wp-content/uploads/2015/04/BabyFirst_LOGO-300x96.png" group-title="INFANTILES", BABYFIRST
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
 
-#EXTINF:-1 tvg-id="BITME" tvg-name="BABYTV" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/c/ca/Baby_TV.png/revision/latest/scale-to-width-down/300?cb=20220927013159" group-title="INFANTILES", BABYTV
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/c/ca/Baby_TV.png/revision/latest/scale-to-width-down/300?cb=20220927013159" group-title="INFANTILES", BABYTV
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278533.m3u8
 
 #EXTINF:-1 tvg-id="BITME" tvg-name="BITME" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3c/BitMe_Logo_%282025%29.png/revision/latest/scale-to-width-down/1000?cb=20250113022316&path-prefix=es" group-title="INFANTILES", BITME
-http://38.49.128.38:8000/play/a0np/index.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278522.m3u8
 
 #EXTINF:-1 tvg-id="etctv" tvg-name="ETC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/640px-ETC_2016-actual.png" group-title="INFANTILES", ETC 
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54434.m3u8
