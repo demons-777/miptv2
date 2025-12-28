@@ -108,7 +108,7 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 1" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 1
-http://orionvideo.miratv.cl:49999/livedev/cdfpremium/chunklist_w88421965_tkY21ldHRva2VuQ3VzdG9tUGFyYW1ldGVyPWFkZWM3NTZmLTNlNWMtNGNjMy1hMmQ1LTU1ZDI2ZGIwYjRiOCZjbWV0dG9rZW5lbmR0aW1lPTE3NjY2MzExNzkmY21ldHRva2Vuc3RhcnR0aW1lPTE3NjY2MTQ5NzkmY21ldHRva2VuaGFzaD1GOF9FSTlncU1IVUwyQ2xZSDNMQ0RZazhOMkg2a2JiSFczeVR0YjljMVM0PQ==.m3u8
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/145262.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 2" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 2
 http://newemma.xyz:8080/995243891/270223/88
@@ -177,6 +177,9 @@ https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="DEPORTES", FOX SPORTS
 http://newemma.xyz:8080/995243891/270223/456
 
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="DEPORTES", FOX SPORTS 2
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/562.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="DEPORTES", FOX SPORTS 3
 http://higherpro.xyz:8080/live/56956478056/270924ztv/537.m3u8
 
@@ -184,7 +187,7 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/537.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/309.m3u8
 
 #EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png" group-title="DEPORTES", L1MAX
-http://magiz.net:25461/live/12345678/12345678/106.m3u8
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/293745.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CDO" tvg-logo="https://i.ibb.co/W0mWyNr/cdo.png" group-title="DEPORTES", CDO 2
 http://higherpro.xyz:8080/live/56956478056/270924ztv/26000.m3u8
@@ -270,6 +273,9 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278469.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://yt3.googleusercontent.com/NKN8usqtQbTO_GNLIgyHfU1MYfBnxkirUKXkpJER1ALWrp8HoeSKJt1MwdU-pshOCwvTsAwYAA=s900-c-k-c0x00ffffff-no-rj" group-title="CINE Y SERIES", CINE LATINO
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278460.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE | CINE DINAMITA" tvg-logo="https://logo.m3uassets.com/cinedinamita.png" group-title="CINE Y SERIES", CINE DINAMITA
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/73277.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE EN ESPAÑOL" tvg-logo="https://yt3.googleusercontent.com/CCvKhR6tMKkbxxgOdNSYqZVyYm_fPB9ht9XMZOBcUgfvMVfbiln5g4s-izt_gIuJi3NybqWgqw=s900-c-k-c0x00ffffff-no-rj" group-title="CINE Y SERIES", CINE EN ESPAÑOL
 https://amg02724-amg02724c1-runtime-latam-2587.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-runtimelatam/cb573d19726c638e84cc3778d1f04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7ace659408d39a8b20141c47a16fa83439fd401b3d5d5588346d375f647cc96a6da8518d18cab599a03ec207b3b481cc9da12f9ad5ab2ca881b5af610781c6b3f8aa09bff4032834b7c52f9f2cecd009570dc9c2bdb135dd7079c5f960f8964a41aa2ef5ad2ced1be131b4cceac5a71379feba187fe475ad701e9b7e7c97a719cac6d1235ca62d6362e3684c2c71d92c60682a42684b91b7e52a1c01f8cf7d096eec29c209308c5ddfd94314301364a52c615959363df26ca6be8e027610d1d0afdc115f38fd70864390f9ed60a9d533aa9cb8786e80b39e1690f15bd338e15563a8c7c4754d100d5d67c60802d0fc51238f8533ac902dfb03efaaadeaa576fe590970caf21bff539d3f003bb64730c51e4bc7f091f0817a5ed6903247ccd51dbc3d8ee731c03e9e5f2f0c15e3d75527d3b3eaed2cb51b8abed0c4763ab312f70067f7dfb5581309156194e78915082fd5a2ecc6c4229efa34d1f302cc29bb2d5d180c946b67ed0c9a46b7d685a32e8305c703c85e6880fae6b492a7c07ea65074fb013282180f499bfedea04db8f5bba2a6b0262c6e965276336222e47d6ca1fbd35e6960bb098cf63c1ee861737ed56c515119cdcd978a298eba15c0c98ab5e1715fcb94ef7561deb36f70ea5f74239d13f767496fec5a3f436dc73fbbab9cf229629df37691cd959cb52672eb41c3bd49e5f273b49741a7a407f2f0dc2b1bdddf7f78dce43d252ebee17d52ab8abb226ace02277fc9945199b3c716ee5a4ce87ede80a1fc867fb3fa93245ce3d7c77c4eb2a73ac905383851f6c590dea99ecf1d1a98cc9c4c3257f445f3195d5565470d71c3ded6dee801266e68587e4953bd925a27d8c8db82aeb2bb38b923aeec1cdb0ab2c57695359aa95acba0c8de843059a6bcb41282f9988cffd71b48fef5036b90ba0cd2c469a13521189a7f20fcd6b9fe33a21e8ce297add663dcce5b07748986af76e6233a18db26f3dced106dc18c8c2b95c1afe7d748e70576fa873ed94ff383f93db3d3411bc5b49dc0dc7a2bf7b567da99e635f5a2e040706dc451c61a40963ab1ebdf3f1f30f048b12811b30af73cd9b0ebfc3ec8f687b4908838577d9b80c296e13fa8d416dd5e8c0b5/99/1920x1080_5500000/index.m3u8
@@ -641,28 +647,34 @@ http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94924
 http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/110033
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cantinflas(OAK)" tvg-logo="https://images.hive.blog/DQmf6Widr3qLecLzjAC6F8rEQeTPSGYNwZo7oX38KmMzshf/image.png" group-title="24/7", Cantinflas
-http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/95617
+http://imaxplay.net:8880//live/Alemilo/Kg3wf9X3yG/107891.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Cantinflas (e)" tvg-logo="https://i.postimg.cc/7ZKnns4P/Proyectox-Cinema-16.png" group-title="24/7", Cantinflas
-http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/95617
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA (OAK)" tvg-logo="https://w7.pngwing.com/pngs/995/853/png-transparent-futurama-worlds-of-tomorrow-philip-j-fry-bender-futurama-season-2-the-lesser-of-two-evils-futurama-heroes-cartoon-fictional-character.png" group-title="24/7", FUTURAMA
-http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/94877
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525936.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (OAK)" tvg-logo="http://oaktvpro.club:50003/images/79e01c9f17fa1cbc36383db3a9820b0d.jpg" group-title="24/7", Super Campeones
-http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94888
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525944.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (OAK)" tvg-logo="http://oaktvpro.club:50003/images/79e01c9f17fa1cbc36383db3a9820b0d.jpg" group-title="24/7", Super Campeones 2
-http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/94888
+http://imaxplay.net:8880//live/Alemilo/Kg3wf9X3yG/169821.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Superagente 86 (1965) (OAK)" tvg-logo="http://oaktvpro.club:50003/images/db690694f7e26942e9c9feaf4427045c.jpg" group-title="24/7", El Superagente 86
-http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/96695
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA (OAK)" tvg-logo="https://w7.pngwing.com/pngs/995/853/png-transparent-futurama-worlds-of-tomorrow-philip-j-fry-bender-futurama-season-2-the-lesser-of-two-evils-futurama-heroes-cartoon-fictional-character.png" group-title="24/7", FUTURAMA
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525856.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Supersonicos (1962)" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/TheJetsons.jpg/revision/latest/scale-to-width-down/1200?cb=20230718010744&path-prefix=es" group-title="24/7", LOS SUPERSONICOS
-http://tv.masterplaytv.club:8080/p4u7a4r3na/483caa36995b/105643
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons" tvg-logo="https://ep00.epimg.net/elpais/imagenes/2017/09/21/fotorrelato/1506004325_686220_1506008048_album_normal.jpg" group-title="24/7", Los Simpsons
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525916.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Harry Potter" tvg-logo="https://resize.elle.fr/portrait/var/plain_site/storage/images/loisirs/cinema/news/harry-potter-7-pourquoi-il-faut-le-voir-1650636/18604350-1-fre-FR/Harry-Potter-7-pourquoi-il-faut-le-voir.jpg" group-title="24/7", Harry Potter
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525906.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mickey Mouse" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3a/Mickey_mouse-1097.jpg/revision/latest?cb=20221018015338&path-prefix=es" group-title="24/7", Mickey Mouse
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525854.m3u8
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="24/7 | EL GRAN CHAPARRAL" tvg-logo="http://2.bp.blogspot.com/_7-NlknExAYo/TMrLkFFgmAI/AAAAAAAAIUQ/F7DcyMwnxfQ/s1600/HC%2520GRAPHIC.jpg" group-title="24/7", EL GRAN CHAPARRAL
+http://imaxplay.net:8880//live/Alemilo/Kg3wf9X3yG/217386.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (OAK)" tvg-logo="http://oaktvpro.club:50003/images/d080f8b3d43978d6a311f0d019a1b4e7.png" group-title="24/7", The Big Bang Theory
-http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/94867
+http://imaxplay.net:8880//live/Alemilo/Kg3wf9X3yG/216987.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (e)" tvg-logo="https://i.postimg.cc/PrTpqN7t/Proyectox-24-7-series-Animacion3-28.png" group-title="24/7", The Big Bang Theory 2
 http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94867
@@ -704,4 +716,4 @@ http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94870
 http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94929
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 DR.HOUSE" tvg-logo="" group-title="24/7", DR.HOUSE
-http://newemma.xyz:8080/995243891/270223/250477
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525959.m3u8
