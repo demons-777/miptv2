@@ -103,7 +103,7 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 
-
+----------DEPORTES----------
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 1" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 1
@@ -174,13 +174,13 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/454.m3u8
 https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="DEPORTES", FOX SPORTS
-http://newemma.xyz:8080/995243891/270223/456
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/163233.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="DEPORTES", FOX SPORTS 2
 http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/562.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="DEPORTES", FOX SPORTS 3
-http://higherpro.xyz:8080/live/56956478056/270924ztv/537.m3u8
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/151.m3u8
 
 #EXTINF:-1 tvg-id="11mvstr.pe" tvg-name="GOL PERU" tvg-logo="http://oaktvpro.club:50003/images/5c50ac77841e46cead1c1236f472cd65.png" group-title="DEPORTES", GOL PERU
 http://higherpro.xyz:8080/live/56956478056/270924ztv/309.m3u8
@@ -192,7 +192,7 @@ http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/293745.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/26000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="DEPORTES", CLARO SPORTS
-http://199.127.63.143:8989/278556_.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278556.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo-thumbnail.png" group-title="DEPORTES", CLARO SPORTS 2
 http://45.5.119.43:4000/play/a0kz/index.m3u8
@@ -358,7 +358,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278496.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278495.m3u8
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES", HBO FAMILY 3
-http://45.5.119.43:4000/play/a0l5/89868796.m3u8
+http://45.5.119.43:4000/play/a0l5/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://puntoz.net/LOGOS/hbosignatureb.png" group-title="CINE Y SERIES", HBO SIGNATURE
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278505.m3u8
@@ -414,7 +414,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278483.m3u8
 http://45.184.87.142:8000/play/a04t
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/Sxd9XyY0/gplus.png" group-title="CINE Y SERIES", GOLDEN PLUS
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278484.m3u8
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/210669.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE Y SERIES", GOLDEN PREMIER
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278486.m3u8
@@ -483,7 +483,7 @@ http://45.5.119.43:4000/play/a0km/index.m3u8
 http://magiz.net:25461/live/12345678/12345678/63.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CINE Y SERIES", TCM
-http://38.41.8.1:8000/play/a04x tcm
+http://45.5.119.43:4000/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-id="OLD" tvg-name="OLD" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg" group-title="CINE Y SERIES", OLD
 http://45.184.87.142:8000/play/a03e
@@ -502,9 +502,6 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278452.m3u8
 
 #EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.pinimg.com/736x/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="CINE Y SERIES", STUDIO UNIVERSAL
 http://38.7.101.90:8000/play/a1em/index.m3u8
-
-#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-logo="https://www.vhv.rs/dpng/d/52-521621_showtime-logo-png-transparent-png.png" group-title="CINE Y SERIES", SHOWTIME
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/115.ts
 
 #EXTINF:-1 tvg-id="UNIVERSALTV" tvg-name="UNIVERSAL TV" tvg-logo="https://i.pinimg.com/564x/b9/e1/b5/b9e1b5ed78238f8700fdc1704287ba37.jpg" group-title="CINE Y SERIES", UNIVERSAL TV
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278449.m3u8
@@ -702,7 +699,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278636.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CSI Miami" tvg-logo="https://i.postimg.cc/XYN82cgj/Proyectox-Cinemax-27.png" group-title="24/7", CSI MIAMI
-http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94924
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/536047.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (OAK)" tvg-logo="http://oaktvpro.club:50003/images/802f56af1ab121f9344cb963ef5a384b.jpg" group-title="24/7", Los Picapiedra
 http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/110033
@@ -716,29 +713,8 @@ http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA (OAK)" tvg-logo="https://w7.pngwing.com/pngs/995/853/png-transparent-futurama-worlds-of-tomorrow-philip-j-fry-bender-futurama-season-2-the-lesser-of-two-evils-futurama-heroes-cartoon-fictional-character.png" group-title="24/7", FUTURAMA
 http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525856.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (OAK)" tvg-logo="http://oaktvpro.club:50003/images/79e01c9f17fa1cbc36383db3a9820b0d.jpg" group-title="24/7", Super Campeones
-http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525944.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (OAK)" tvg-logo="http://oaktvpro.club:50003/images/79e01c9f17fa1cbc36383db3a9820b0d.jpg" group-title="24/7", Super Campeones 2
-http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/94888
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Superagente 86 (1965) (OAK)" tvg-logo="http://oaktvpro.club:50003/images/db690694f7e26942e9c9feaf4427045c.jpg" group-title="24/7", El Superagente 86
-http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/96695
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Supersonicos (1962)" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/TheJetsons.jpg/revision/latest/scale-to-width-down/1200?cb=20230718010744&path-prefix=es" group-title="24/7", LOS SUPERSONICOS
-http://tv.masterplaytv.club:8080/p4u7a4r3na/483caa36995b/105643
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (OAK)" tvg-logo="http://oaktvpro.club:50003/images/d080f8b3d43978d6a311f0d019a1b4e7.png" group-title="24/7", The Big Bang Theory
-http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/94867
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory (e)" tvg-logo="https://i.postimg.cc/PrTpqN7t/Proyectox-24-7-series-Animacion3-28.png" group-title="24/7", The Big Bang Theory 2
-http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94867
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Mentalista (e)" tvg-logo="https://i.postimg.cc/Y0wNQ19w/Proyectox-Cinemax-31.png" group-title="24/7 SERIES", EL MENTALISTA 
-http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94937
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El mentalista" tvg-logo="https://i.postimg.cc/Y0wNQ19w/Proyectox-Cinemax-31.png" group-title="24/7", EL MENTALISTA 1
-http://newemma.xyz:8080/995243891/270223/250545
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525876.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EL MENTALISTA" tvg-logo="https://i.postimg.cc/Y0wNQ19w/Proyectox-Cinemax-31.png" group-title="24/7", EL MENTALISTA 2
 http://tvhomesmart.xyz:8080/951242681tv/s2vJW967/250545
@@ -755,20 +731,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007e
 #EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/1200px-Bob_esponja_logotipo.svg.png" group-title="24/7", BOB ESPONJA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinema (4K)" tvg-logo="https://i.postimg.cc/y8p0ZDhk/Proyectox-Cinema-7.png" group-title="24/7", Cinema 4K
-http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/95608
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Parodias (e)" tvg-logo="https://i.postimg.cc/BZFNfBTN/Proyectox-Cinema-20.png" group-title="24/7", Cinema - Parodias 
-http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94978
-
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://imgs.search.brave.com/fDsZ4jRets0bQnsgu_dCVTaa9wUKjUJkWQ-Rm0_HP58/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzg4L2Rl/L2MwLzg4ZGVjMGUy/YzZmM2YzMGJhNDE1/N2U5M2M3NWRmNzAx/LmpwZw" group-title="24/7", DRAGON BALL
 http://45.184.87.142:8000/play/a05k
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Two and a Half Men" tvg-logo="https://i.postimg.cc/yNgWGRDT/Proyectox-24-7-series-Animacion3-31.png" group-title="24/7", Two and a Half Men
-http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94870
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hawaii 5.0 (e)" tvg-logo="https://i.postimg.cc/d1GrQL9N/Proyectox-Cinemax2-8.png" group-title="24/7", HAWAI 5-0
-http://tv.proyectox.vip:8080/uribeclara1/f4CEEOQsR2/94929
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 DR.HOUSE" tvg-logo="" group-title="24/7", DR.HOUSE
 http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525959.m3u8
