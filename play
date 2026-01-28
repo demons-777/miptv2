@@ -31,7 +31,7 @@ https://cdn-live.mundogo.cl/tvp/tvp.mpd
 https://cdn-live.mundogo.cl/lared/lared.mpd
 
 #EXTINF:-1 tvg-id="rec-tv.cl" tvg-name="REC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_Rec_TV_%282014-2015%29.png" group-title="NACIONAL", REC TV
-http://higherpro.xyz:8080/live/56956478056/270924ztv/60.m3u8
+http://172.93.102.112:8080/get/u2MMOTivo8cQhX8HvQEWeWM1Y1NWbzB2RTV6a0kvcWMvaXVjSW9NTFRhM3pReGIwc25JYjFwTmJqMGxKeWQ4MWJLZHF5YjN1ck85OCtzSmZmOUFjRjZOVmxQejJMZXdTNWR5Z1NBPT0.m3u8
 
 #EXTINF:-1 tvg-id="CNN CHILE" tvg-name="CNN CHILE" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL", CNN CHILE
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278975.m3u8
@@ -148,7 +148,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278776.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPRTS PREMIUM AR" tvg-logo="data:image/png;base64,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" group-title="DEPORTES", TNT SPORTS PREMIUM ARGENTINA
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278777.m3u8
 
-#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN PREMIUM
+#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png" group-title="DEPORTES", ESPN PREMIUM
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278981.m3u8
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES", ESPN
@@ -186,13 +186,13 @@ http://higherpro.xyz:8080/live/56956478056/270924ztv/454.m3u8
 https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="DEPORTES", FOX SPORTS
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278766.m3u8
+http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch30_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="DEPORTES", FOX SPORTS 2
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278767.m3u8
+http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch31_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="DEPORTES", FOX SPORTS 3
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278768.m3u8
+http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch2_720.m3u8
 
 #EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png" group-title="DEPORTES", L1MAX
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278898.m3u8
@@ -208,6 +208,9 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278554.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="tvc deportes" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es" group-title="DEPORTES", TVC DEPORTES
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278564.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="tvc deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/TVC_Deportes_2_%282016-%29.png/revision/latest?cb=20160225011139" group-title="DEPORTES", TVC DEPORTES 2
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158566.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TUDN DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="DEPORTES", TUDN DEPORTES
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278570.m3u8
@@ -296,7 +299,7 @@ http://179.49.163.34:45000/play/a005/index.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278389.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES", AXN
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278386.m3u8
+http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch4_720.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158670.m3u8
@@ -332,7 +335,7 @@ https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/pl
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUp2JESps/278439.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR Channel" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES", STAR CHANNEL 2
-http://179.49.163.34:45000/play/a004/index.m3u8
+http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch21_720.m3u8
 
 #EXTINF:-1 tvg-id="THE FILM ZONE" tvg-name="THE FILM ZONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUW-131s33-_AfbXS_ryyuxaa3nqkLeJe0Ew&s" group-title="CINE Y SERIES", THE FILM ZONE
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/168599.m3u8
@@ -386,13 +389,13 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/298373.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278493.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 3" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO2 3
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/298505.m3u8
+http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch20_720.m3u8
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES", HBO FAMILY
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278496.m3u8
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES", HBO FAMILY 2
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278495.m3u8
+http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch22_720.m3u8
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES", HBO FAMILY 3
 http://45.5.119.43:4000/play/a0l5/index.m3u8
@@ -448,10 +451,10 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278427.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278483.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENEDGE" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE Y SERIES", GOLDEN EDGE
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278481.m3u8
+http://172.93.102.112:8080/ts/_syWzHqlkJKyssHfuBxaSDdqUmFxWG90VDdxMFBPRXJxWGt6a2k0VnhkZTdCNUhpQWxIREl0eWdUaWx5VWQ4V2U5akI0MW9Ebk14RHlPVzJxQ0pRY0dlQXdJTWdXTFMzNi9VRE94Ris4TDRhYXdEU0c2dVpTVnZTeTRGR3hBS1lkc1N4UEkvTmlWd3hVZGI1cVQrNklNYVEydGkwUmNGSWc0cFRGZz09.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/Sxd9XyY0/gplus.png" group-title="CINE Y SERIES", GOLDEN PLUS
-http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/210669.m3u8
+http://104.194.8.54:8080/get/4OCK9jLoRq8sv00YqqGbqW5YQmQxZEVQK1NvT2wwN1FPMGtoNVlmQWdlMW56VGdqR2dsMjZiOEt1aS8rUG8zM2h3eFkwUzdrd0E0dGZRYTFjTGNLZnIzRG9OMHduc0czd3pCZGhRPT0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE Y SERIES", GOLDEN PREMIER
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278486.m3u8
@@ -464,6 +467,9 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278509.m3u8
 
 #EXTINF:-1 tvg-id="MP" tvg-name="MP" tvg-logo="https://static.wikia.nocookie.net/logofan/images/7/79/Multipremier_%282012-2020%29.png/revision/latest?cb=20240116172218&path-prefix=es" group-title="CINE Y SERIES", MULTIPREMIER
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278510.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BOX CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Box-Cinema.jpg" group-title="CINE Y SERIES", BOX CINEMA
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/6BFCLOQ/m.m3u8
 
 #EXTINF:-1 tvg-id="FHHMOVIES" tvg-name="FMH MOVIES" tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="CINE Y SERIES", FMH MOVIES
 http://179.49.163.34:45000/play/a03j/index.m3u8
@@ -583,6 +589,12 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278982.m3u8
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e573e3704612374867e59_dreamworks.jpg" group-title="INFANTILES", DREAMWORKS
 http://newemma.xyz:8080/995243891/270223/61596
 
+#EXTINF:-1 tvg-id="" tvg-name="TOONKIDS" tvg-logo="https://toonkids.com/images/general/logo.png" group-title="INFANTILES", TOON KIDS
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/3c59dd63-ffed-42cb-8653-d78b861f112c/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TOONGOGGLES" tvg-logo="https://m.media-amazon.com/images/I/71ffizLpXcL.png" group-title="INFANTILES", TOON GOGGLES
+https://stream.ads.ottera.tv/cl/260127d5sk14265su5mt1n4nu0/1280x720_3071200_0_f.m3u8?i=475_6613
+
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES", CARTOON NETWORK
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278525.m3u8
 
@@ -625,15 +637,14 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" group-title="INFANTILES", ENERGEEK RETRO
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
 
-#EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="INFANTILES", ZTV ANIME
-https://mitv.zplay.cl/Ztv/index.m3u8
+#EXTINF:-1 tvg-id="1604" tvg-name="MAX Anime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI4gnw5Hy1KgV8aDids9qnrfuk0IJ_2CC6-w&s" group-title="INFANTILES", MAX ANIME
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1604" tvg-name="ULTRA KIDZ" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-kidz-Logo.png" group-title="INFANTILES", ULTRA KIDZ
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/180637.m3u8
 
 #EXTINF:-1 tvg-id="1604" tvg-name="PAKA PAKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="INFANTILES", PAKA PAKA
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278772.m3u8
-
 
 
 ----------CULTURA Y ENTRETENIMIENTO----------
@@ -709,7 +720,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278631.m3u8
 http://179.49.163.34:45000/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-name="LAS ESTRELLAS " tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Las-Estrellas-Logo.png?raw=true" group-title="CULTURA Y ENTRETENIMIENTO", LAS ESTRELLAS
-http://45.184.87.142:8000/play/a02e
+http://38.49.128.38:8000/play/a0le/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f693d4f95adf0c078506_tlc.png" group-title="CULTURA Y ENTRETENIMIENTO", TLC
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278413.m3u8
@@ -725,7 +736,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278636.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CSI Miami" tvg-logo="https://i.postimg.cc/XYN82cgj/Proyectox-Cinemax-27.png" group-title="24/7", CSI MIAMI
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/181401.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra (OAK)" tvg-logo="http://oaktvpro.club:50003/images/802f56af1ab121f9344cb963ef5a384b.jpg" group-title="24/7", Los Picapiedra
 http://tv.zapping.life:8080/estebanespino36/LDy5vR01l2/110033
@@ -740,10 +751,10 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/168756.m3u8
 http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525936.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA (OAK)" tvg-logo="https://w7.pngwing.com/pngs/995/853/png-transparent-futurama-worlds-of-tomorrow-philip-j-fry-bender-futurama-season-2-the-lesser-of-two-evils-futurama-heroes-cartoon-fictional-character.png" group-title="24/7", FUTURAMA
-http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525856.m3u8
+http://199.127.63.143:25461/ts/Kz_gwCfX9-f2FaZvCS8W50txNEZkWi90REVyUktTeW1QRkpSK3E4OGYyZ2FUa0ptSVpFZHhVa3hpaVY3N21kUUl1K0FXR0lRS1llZFZYK3QvOVMvT1ZjNXQxb29ESlREdTk4Nkh1bDY1U2ovb1Nqc09pajFBN082cU5UdEpTWDVhSWZaVThBYXQ1OTFYbVhSblQydlV4MG9FT0g4QkxHdGRQUDQrUT09.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSONS (OAK)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6e8sOmCgYVIBScHtIFyKJ0EIsXdmquI0FiA&s" group-title="24/7", LOS SIMPSONS
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279043.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/168753.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSONS (OAK)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6e8sOmCgYVIBScHtIFyKJ0EIsXdmquI0FiA&s" group-title="24/7", LOS SIMPSONS 2
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279042.m3u8
@@ -780,3 +791,15 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279024.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="https://i.pinimg.com/736x/b2/4e/dc/b24edc1615d2dc1bd2d558eebed79adb.jpg" group-title="24/7", DRAGON BALL SUPER
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279026.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Harry Potter" tvg-logo="https://resize.elle.fr/portrait/var/plain_site/storage/images/loisirs/cinema/news/harry-potter-7-pourquoi-il-faut-le-voir-1650636/18604350-1-fre-FR/Harry-Potter-7-pourquoi-il-faut-le-voir.jpg" group-title="24/7", Harry Potter
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/525906.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bluey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9p4pNoGcuyCfHcGWKNrTopqMWtq.jpg" group-title="24/7", Bluey
+http://latino777.xyz:8080/live/crplaytv2025/MNB638ahI56/638962.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DR HOUSE" tvg-logo="https://m.media-amazon.com/images/I/81PK8W+xJHL._AC_UF894,1000_QL80_.jpg" group-title="24/7", DR HOUSE
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279022.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DINOSAURIOS" tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2019/06/dinosaurios_disney.jpg" group-title="24/7", DINOSAURIOS
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279019.m3u8
