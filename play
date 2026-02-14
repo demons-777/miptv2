@@ -1,3 +1,8 @@
+
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Chile/chile1.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Chile/chile1.xml"
+
+
 ----------NACIONAL----------
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONAL", CANAL 13
