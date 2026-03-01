@@ -646,7 +646,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/180637.m3u8
 http://45.5.119.43:4000/play/a0gq/index.m3u8
 
 #EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg" group-title="CULTURA Y ENTRETENIMIENTO", COMEDY CENTRAL
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278410.m3u8
+http://152.231.29.139:8000/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="CULTURA Y ENTRETENIMIENTO", DISTRITO COMEDIA
 http://190.171.83.2:4000/play/a0pb/index.m3u8
@@ -694,7 +694,7 @@ https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/158612.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", CARACOL
-http://179.49.163.34:45000/play/a032/index.m3u8
+http://152.231.29.139:8000/play/a0ax/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", FOOD NETWORK
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/166446.m3u8
