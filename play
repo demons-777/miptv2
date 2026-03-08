@@ -155,10 +155,10 @@ http://38.224.73.146:8000/play/a191/index.m3u8
 https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="DEPORTES", FOX SPORTS
-http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch30_720.m3u8
+http://181.78.192.238:8000/play/a2eo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="DEPORTES", FOX SPORTS 2
-http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch31_720.m3u8
+http://181.78.192.238:8000/play/a2ep/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="DEPORTES", FOX SPORTS 3
 http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch2_720.m3u8
@@ -191,7 +191,7 @@ http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278573.m3u8
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ECDF" tvg-logo="https://www.xtrim.com.ec/wp-content/uploads/2024/09/ECDF.png" group-title="DEPORTES", ECDF
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/279319.m3u8
+http://181.78.192.238:8000/play/a1uy/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="https://wpapi.larepublica.net/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/07/20200720191227.20200709160812futv.jpg.webp" group-title="DEPORTES", FUTV
 http://181.78.192.238:8000/play/a2ae/index.m3u8
@@ -438,19 +438,19 @@ http://38.224.73.146:8000/play/a1g3/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSALTV" tvg-name="UNIVERSAL TV" tvg-logo="https://i.pinimg.com/564x/b9/e1/b5/b9e1b5ed78238f8700fdc1704287ba37.jpg" group-title="CINE Y SERIES", UNIVERSAL TV
 http://38.224.73.146:8000/play/a1bs/index.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSALCINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="CINE Y SERIES", UNIVERSAL CINEMA 2
+#EXTINF:-1 tvg-id="UNIVERSALCINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="CINE Y SERIES", UNIVERSAL CINEMA 
 http://38.52.208.106:8000/play/a050/index.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSALCOMEDY" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://thafd.bing.com/th/id/OIP.tQO5QH8KZO3CGvXhdxj63QHaEE?rs=1&pid=ImgDetMain" group-title="CINE Y SERIES", UNIVERSAL COMEDY 2
+#EXTINF:-1 tvg-id="UNIVERSALCOMEDY" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://thafd.bing.com/th/id/OIP.tQO5QH8KZO3CGvXhdxj63QHaEE?rs=1&pid=ImgDetMain" group-title="CINE Y SERIES", UNIVERSAL COMEDY 
 http://38.52.208.106:8000/play/a04m/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="http://puntoz.xyz/LOGOS/universalcrimeB.png" group-title="CINE Y SERIES", UNIVERSAL CRIME 2
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="http://puntoz.xyz/LOGOS/universalcrimeB.png" group-title="CINE Y SERIES", UNIVERSAL CRIME 
 http://181.78.192.238:8000/play/a2ab/index.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSALPREMIER" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE Y SERIES", UNIVERSAL PREMIER 2
+#EXTINF:-1 tvg-id="UNIVERSALPREMIER" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE Y SERIES", UNIVERSAL PREMIER 
 http://181.78.192.238:8000/play/a2a8/index.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSALREALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="CINE Y SERIES", UNIVERSAL REALITIE 2
+#EXTINF:-1 tvg-id="UNIVERSALREALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="CINE Y SERIES", UNIVERSAL REALITIE 
 http://181.78.192.238:8000/play/a2aa/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_k0gMVsgJqwTZFTZNuWSJN59KnY5Xg4HaWA&s" group-title="CINE Y SERIES", WARNER
@@ -538,7 +538,7 @@ http://152.231.29.139:8000/play/a09b/index.m3u8
 http://190.171.83.2:4000/play/a0pb/index.m3u8
 
 #EXTINF:-1 tvg-id="TLN" tvg-name="TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/2560px-Tlnovelas_2011_logo.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", TELENOVELAS
-http://38.224.73.146:8000/play/a1ew/index.m3u8
+http://181.78.211.244:8000/play/a09n/index.m3u8
 
 #EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", PASIONES
 http://38.224.73.146:8000/play/a196/index.m3u8
