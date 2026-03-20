@@ -282,7 +282,7 @@ http://38.226.210.46:8000/play/a031/index.m3u8
 http://38.226.210.46:8000/play/a05k/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="azcinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037" group-title="CINE Y SERIES", AZCINEMA
-http://200.115.120.1:8000/play/ca132/index.m3u8
+http://45.173.201.51:4000/play/a0rg/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="Cinecanal" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES", CINECANAL
 http://38.226.210.46:8000/play/a041/index.m3u8
@@ -369,7 +369,7 @@ http://38.224.73.146:8000/play/a1b8/index.m3u8
 http://152.231.29.139:8000/play/a0dp/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENEDGE" tvg-name="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE Y SERIES", GOLDEN EDGE
-http://45.167.2.138:8000/play/a0sb/index.m3u8
+http://45.173.201.51:4000/play/a0nw/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/Sxd9XyY0/gplus.png" group-title="CINE Y SERIES", GOLDEN PLUS
 http://45.173.201.51:4000/play/a0jx/index.m3u8
@@ -585,7 +585,7 @@ http://38.224.231.98:8000/play/a0m4/index.m3u8
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Az CORAZON" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="CULTURA Y ENTRETENIMIENTO", AZTECA CORAZON
-http://38.224.175.2:8000/play/a0ki/index.m3u8
+http://45.173.201.51:4000/play/a0rh/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", CARACOL
 http://152.231.29.139:8000/play/a0ax/index.m3u8
