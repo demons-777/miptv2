@@ -201,7 +201,7 @@ https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 http://177.10.184.193:8000/play/a0eh/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", TIGO SPORTS
-http://181.78.17.52:8000/play/a0rq/index.m3u8
+http://177.10.184.193:8000/play/a09k/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/32/Movistar_Deportes.svg/revision/latest?cb=20200116021952&path-prefix=es" group-title="DEPORTES", MOVISTAR DEPORTES
 http://38.224.175.2:8000/play/a04f/index.m3u8
@@ -217,7 +217,7 @@ http://38.224.231.47:8000/play/a01o/index.m3u8
 http://38.224.73.146:8000/play/a12w/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES", AXN
-http://181.78.17.52:8000/play/a0s7/index.m3u8
+http://38.226.210.46:8000/play/a044/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC
 http://38.226.210.46:8000/play/a031/index.m3u8
