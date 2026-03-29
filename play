@@ -205,8 +205,11 @@ http://45.173.201.51:4000/play/a0r8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AYM SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNkqyZg3t6OX8Cj5UzQpSdRn2Y-2-MQDBs-g&s" group-title="DEPORTES", AYM SPORTS
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="DEPORTES", SKY SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="VIX LA LIGA" tvg-logo="https://i.blogs.es/fdad4c/vix-toda-liga-mx/840_560.jpeg" group-title="DEPORTES", VIX LA LIGA
 http://177.10.184.193:8000/play/a0eh/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="DEPORTES", SKY SPORTS
+http://45.5.119.43:4000/play/a05r/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", TIGO SPORTS
 http://177.10.184.193:8000/play/a09k/index.m3u8
