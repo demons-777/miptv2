@@ -106,7 +106,7 @@ http://38.252.213.12:8000/play/a06w
 http://201.230.121.171:8000/play/a075/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 4" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 4
-http://38.224.175.2:8000/play/a0rb/index.m3u8
+http://181.205.130.194:4000/play/a0e4
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS PREMIUM 5" tvg-logo="https://i.ibb.co/vw4KkVP/TNTsport-P.png" group-title="DEPORTES", TNT SPORTS PREMIUM 5
 http://45.232.210.1:18000/play/a05l/index.m3u8
@@ -208,6 +208,9 @@ http://200.115.96.66:4000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AYM SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNkqyZg3t6OX8Cj5UzQpSdRn2Y-2-MQDBs-g&s" group-title="DEPORTES", AYM SPORTS
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ADRENALINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES", ADRENALINA
+http://45.173.201.51:4000/play/a0l5/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="DEPORTES", SKY SPORTS
 http://45.5.119.43:4000/play/a05r/index.m3u8
 
@@ -235,6 +238,9 @@ http://181.119.111.25:4000/play/a0cb/index.m3u8
 
 #EXTINF:-1 tvg-id="A3S" tvg-name="A3S" tvg-logo="https://i.ibb.co/TrgDzmc/int-a3series.png" group-title="CINE Y SERIES", A3S
 http://38.224.231.47:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Atrescine_logo.svg" group-title="CINE Y SERIES", A3CINE
+http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES", A&E
 http://38.224.231.47:8000/play/a02y/index.m3u8
@@ -552,7 +558,7 @@ http://38.224.231.98:8000/play/a03n/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6949d391879f262fe42_turbo.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY TURBO
-http://38.224.73.146:8000/play/a12k/index.m3u8
+http://181.118.153.15:8000/play/ht29/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryWorld" tvg-name="DISCOVERY WORLD" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d241ede080ce187953_d-world1.png" group-title="CULTURA Y ENTRETENIMIENTO", DISCOVERY WORLD
 http://38.224.231.98:8000/play/a02i/index.m3u8
