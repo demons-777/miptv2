@@ -318,7 +318,7 @@ https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/playlist/amg01024-olympusat
 http://38.224.231.47:8000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO 2
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
+http://45.5.151.147:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/FhWCVw7/hboplus.png" group-title="CINE Y SERIES", HBO PLUS
 http://45.5.116.228:8000/play/a0l4/index.m3u8
