@@ -239,11 +239,11 @@ http://181.119.111.25:4000/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-id="A3S" tvg-name="A3S" tvg-logo="https://i.ibb.co/TrgDzmc/int-a3series.png" group-title="CINE Y SERIES", A3S
 http://38.224.231.47:8000/play/a01o/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Atrescine_logo.svg" group-title="CINE Y SERIES", A3CINE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="CINE Y SERIES", A3CINE
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.ibb.co/Ld3vtST/a-e.png" group-title="CINE Y SERIES", A&E
-http://38.224.231.47:8000/play/a02y/index.m3u8
+http://38.224.231.98:8000/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.ibb.co/5jBfMj7/axn.png" group-title="CINE Y SERIES", AXN
 http://38.226.210.46:8000/play/a044/index.m3u8
@@ -296,11 +296,8 @@ http://38.252.213.12:8000/play/a06y
 #EXTINF:-1 tvg-id="" tvg-name="+CINE" tvg-logo="" group-title="CINE Y SERIES", +CINE WAR
 http://38.252.213.12:8000/play/a07n
 
-#EXTINF:-1 tvg-id="" tvg-name="+CINE" tvg-logo="" group-title="CINE Y SERIES", +CINE
-
-
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR Channel" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES", STAR CHANNEL
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+http://181.209.37.74:8001/play/a087/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STARZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="CINE Y SERIES", STARZ 
 http://181.114.57.246:4000/play/tyuptHZqYdP3wcU7/index.m3u8
