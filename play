@@ -194,7 +194,7 @@ http://181.78.192.238:8000/play/a1uy/index.m3u8
 http://181.78.192.238:8000/play/a2ae/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://i.ibb.co/fMh1j6W/610.png" group-title="DEPORTES", DIRECTV SPORTS 1
-http://217.26.190.76:8888/play/a0co/index.m3u8
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP | DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SPORTS +
 http://217.26.190.76:8888/play/a0jb/index.m3u8
@@ -214,8 +214,11 @@ http://45.173.201.51:4000/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="DEPORTES", SKY SPORTS
 http://45.5.119.43:4000/play/a05r/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://e7.pngegg.com/pngimages/809/867/png-clipart-fox-broadcasting-company-television-channel-logo-television-show-fox-logo-television-angle.png" group-title="DEPORTES", FOX DEPORTES
+https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", TIGO SPORTS
-http://177.10.184.193:8000/play/a09k/index.m3u8
+https://tigocloud.desdeparagauy.com.py-east-1.amazonaws.com@live.enhdtv.com:8081/8160/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/960px-Movistar_Deportes.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES
 http://181.176.155.7:8090/play/a1pw/index.m3u8
@@ -224,13 +227,14 @@ http://181.176.155.7:8090/play/a1pw/index.m3u8
 http://38.19.41.123:8000/play/a0cl/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://newyorktennismagazine.com/wp-content/uploads/2020/03/TennisChannel-logo_0.png" group-title="DEPORTES", TENNIS CHANNEL
-http://181.114.57.246:4000/play/CuhCF3z5UqBQAt54/index.m3u8
+https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMKHGeDkGIrrpwyUmTU3pVORNfUGE6JtR7A&s" group-title="DEPORTES", NBA
 http://212.102.60.231:80/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/250px-Golf_Channel_logo_2025.svg.png" group-title="DEPORTES", GOLF CHANNEL
 http://181.119.111.25:4000/play/a0cb/index.m3u8
+
 
 
 ----------CINE Y SERIES----------
