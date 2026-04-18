@@ -10,7 +10,7 @@ http://38.252.213.12:8000/play/a00h
 http://38.252.213.12:8000/play/a02i
 
 #EXTINF:-1 tvg-id="Canal 13" tvg-name="Canal 13" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONAL", CANAL 13
-http://38.224.231.47:8000/play/a02v/index.m3u8
+http://38.226.210.46:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="TV+ HD" tvg-name="TV+ HD" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONAL",TV+ HD
 https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream0/chunks.m3u8?dpssid=b2167097959369ab8bdc49c8c&sid=ba5t1l1xb2201238228269ab8bdccf8d1&ndvc=0
@@ -20,11 +20,8 @@ https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowo
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NfN9nS+I1XeyKcaR0bKb4w", "kid":"01LCA+KgVAeNp/FIMa/Klw" },{ "kty":"oct", "k":"9pedu2NSIid/gDddHTnXFA", "kid":"L3IxyNrvWA2zm4uNGMh1hQ" },{ "kty":"oct", "k":"q6rpZWDa2zZcOqzPRQDUdw", "kid":"pHIuTMasW6OVkGscTaTRmA" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/lared/lared.mpd
 
-#EXTINF:-1 tvg-id="rec-tv.cl" tvg-name="REC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_Rec_TV_%282014-2015%29.png" group-title="NACIONAL", REC TV
-http://38.224.231.47:8000/play/a03c/index.m3u8
-
 #EXTINF:-1 tvg-id="CNN CHILE" tvg-name="CNN CHILE" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL", CNN CHILE
-http://38.224.231.47:8000/play/a03p/index.m3u8
+http://38.226.210.46:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-id="24 Horas HD" tvg-name="24 Horas HD" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL", CANAL 24 HORAS
 http://38.252.213.12:8000/play/a02v
@@ -39,7 +36,7 @@ http://45.232.210.1:18000/play/a09h/index.m3u8
 http://45.232.210.1:18000/play/a092/index.m3u8
 
 #EXTINF:-1 tvg-id="13C" tVg-name="CANAL 13C" tvg-logo="https://e7.pngegg.com/pngimages/264/658/png-clipart-canal-13-logo-13c-television-chilevision-others-television-text.png" group-title="NACIONAL", CANAL 13C
-http://38.224.231.47:8000/play/a02o/index.m3u8
+http://38.7.101.90:8000/play/a1ko/index.m3u8
 
 #EXTINF:-1 tvg-id="TEVEX" tvg-name="TEVEX" tvg-logo="https://i.imgur.com/pjs5csg.png" group-title="NACIONAL", Tevex      
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
@@ -130,10 +127,10 @@ http://181.78.192.238:8000/play/a1ti/index.m3u8
 http://38.224.175.2:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN PREMIUM CH
-http://38.224.231.47:8000/play/a03w/index.m3u8
+http://38.224.231.98:8000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES", ESPN
-http://38.224.231.47:8000/play/a03s/index.m3u8
+http://38.224.231.98:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 Chile" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 2
 http://38.224.175.2:8000/play/a0t5/index.m3u8
@@ -144,16 +141,16 @@ http://38.224.175.2:8000/play/a0t5/index.m3u8
 https://cdn-live.mundogo.cl/espn3/espn3.mpd
 
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 4" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 4
-http://38.224.231.47:8000/play/a04h/index.m3u8
+http://38.224.231.98:8000/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5CHILE" tvg-name="ESPN 5 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 5
 http://38.224.175.2:8000/play/a0t2/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN6CHILE" tvg-name="ESPN 6 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 6
-http://38.224.231.47:8000/play/a02w/index.m3u8
+http://38.224.231.98:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN7CHILE" tvg-name="ESPN 7 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 7
-http://38.224.231.47:8000/play/a049/index.m3u8
+http://38.224.231.98:8000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-name="TYC SPORTS" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F57%2F6577079_6A66E5AB224CD2F5.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", TYC SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -240,7 +237,7 @@ http://181.119.111.25:4000/play/a0cb/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/TrgDzmc/int-a3series.png" group-title="CINE Y SERIES", A3S
-http://38.224.231.47:8000/play/a01o/index.m3u8
+http://38.224.231.98:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="CINE Y SERIES", A3CINE
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
@@ -356,7 +353,7 @@ http://45.173.201.51:4000/play/a0lu/index.m3u8
 http://38.224.231.98:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES", FX
-http://38.224.231.47:8000/play/a04i/index.m3u8
+http://38.224.231.98:8000/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" group-title="CINE Y SERIES", GOLDEN
 http://152.231.29.139:8000/play/a0dp/index.m3u8
@@ -392,6 +389,9 @@ https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 
 #EXTINF:-1 tvg-id="SONYCHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e153054c65152bddd6_sony.png" group-title="CINE Y SERIES", SONY CHANNEL
 http://152.231.29.139:8000/play/a0dj/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY" tvg-name="SONY ACCION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVnwxAJAHsn8hbw_ZXGvugo4e4xC7iRcdqw&s" group-title="CINE Y SERIES", SONY ACCION
+https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SONYCINE" tvg-name="SONY CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE Y SERIES", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
@@ -478,7 +478,7 @@ http://186.194.160.110:9002/play/a0o3/index.m3u8
 http://200.115.120.1:8000/play/ca005/index.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES", CARTOON NETWORK
-http://38.224.231.47:8000/play/a020/index.m3u8
+http://38.224.231.98:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e565f63c36e257bfbef92_cartoonito.png" group-title="INFANTILES", CARTOONITO
 http://181.78.8.199:8000/play/a09f/index.m3u8
@@ -487,13 +487,13 @@ http://181.78.8.199:8000/play/a09f/index.m3u8
 http://152.231.29.139:8000/play/a0ei/index.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/Lk9TH8f/disney-channel.png" group-title="INFANTILES", DISNEY CHANNEL
-http://38.224.231.47:8000/play/a04f/index.m3u8
+http://38.224.231.98:8000/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.ibb.co/MSXFY3T/disney-jr.png" group-title="INFANTILES", DISNEY JR
 http://38.224.175.2:8000/play/a0tg/index.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/Vjw3R8m/nick.png" group-title="INFANTILES", NICKELODEON
-http://38.224.231.47:8000/play/a03l/index.m3u8
+http://38.224.231.98:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/5j96nsY/nick-jr.png" group-title="INFANTILES", NICK JR
 http://38.224.231.98:8000/play/a01q/index.m3u8
@@ -526,11 +526,12 @@ http://38.252.213.12:8000/play/a02s
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
 
+
 ----------CULTURA Y ENTRETENIMIENTO----------
 
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL PLANET" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b658a4480033f155a0_animalplanet.png" group-title="CULTURA Y ENTRETENIMIENTO", ANIMAL PLANE
-http://38.224.231.47:8000/play/a043/index.m3u8
+http://38.224.231.98:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg" group-title="CULTURA Y ENTRETENIMIENTO", COMEDY CENTRAL
 http://152.231.29.139:8000/play/a09b/index.m3u8
@@ -572,7 +573,7 @@ http://38.224.231.98:8000/play/a02i/index.m3u8
 http://181.78.8.199:8000/play/a0hv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://preview.redd.it/the-e-logo-1990-2012-version-from-the-shock-jock-era-of-v0-qtaia5jx4nhf1.png?auto=webp&s=db7c8b2fa948b76b1e636e72966e3d570838a874" group-title="CULTURA Y ENTRETENIMIENTO", E!
-http://38.224.231.98:8000/play/a01t/index.m3u8
+http://177.10.184.193:8000/play/a0cx/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Azclick" tvg-logo="https://contenidostv.b-cdn.net/images/clic_color-02.png" group-title="CULTURA Y ENTRETENIMIENTO", AZTECA CLICK
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
@@ -631,4 +632,3 @@ http://ultrapremium.cloud:8080/live/21795972/349e8gyg8/778.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hSOUCdMVqf-bb5sHLm3e1LugGyha2PvdYQ&s" group-title="24/7", DRAGON BALL
 http://186.194.160.110:9002/play/a0gv/index.m3u8
-
