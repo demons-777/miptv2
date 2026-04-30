@@ -475,7 +475,7 @@ http://181.78.8.199:8000/play/a09o/index.m3u8
 http://38.44.109.41:8003/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="etctv" tvg-name="ETC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/640px-ETC_2016-actual.png" group-title="INFANTILES", ETC 
-http://186.194.160.110:9002/play/a0o3/index.m3u8
+http://45.181.122.46:8090/play/a00t
 
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e573e3704612374867e59_dreamworks.jpg" group-title="INFANTILES", DREAMWORKS
 http://200.229.147.142:8000/play/a05d/index.m3u8
