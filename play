@@ -93,6 +93,7 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 
+
 ----------DEPORTES----------
 
 
@@ -136,7 +137,7 @@ http://38.224.175.2:8000/play/a05g/index.m3u8
 http://38.224.175.2:8000/play/a02d/index.m3u8
 
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 Chile" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 2
-http://38.224.175.2:8000/play/a0t5/index.m3u8
+http://38.224.231.47:8000/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -144,10 +145,10 @@ http://38.224.175.2:8000/play/a0t5/index.m3u8
 https://cdn-live.mundogo.cl/espn3/espn3.mpd
 
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 4" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 4
-http://38.224.175.2:8000/play/a075/index.m3u8
+http://38.224.231.47:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5CHILE" tvg-name="ESPN 5 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 5
-http://38.224.175.2:8000/play/a0t2/index.m3u8
+http://181.79.87.130:8000/play/a0cg/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN6CHILE" tvg-name="ESPN 6 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 6
 http://38.224.175.2:8000/play/a07m/index.m3u8
@@ -198,6 +199,8 @@ http://38.224.175.2:8000/play/a0l4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DEP | DIRECTV SPORTS tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg" group-title="DEPORTES", DIRECTV SPORTS 2
 http://217.26.190.76:8888/play/a0jb/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTES", DIRECTV SPORTS +
 
 #EXTINF:-1 tvg-id="" tvg-name="PXSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png" group-title="DEPORTES", PXSPORTS
 http://217.26.190.76:8888/play/a0jr/index.m3u8
@@ -327,10 +330,10 @@ https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/playlist/amg01024-olympusat
 http://38.52.208.106:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO 2
-http://38.52.208.106:8000/play/a00l/index.m3u8
+http://181.78.17.52:8000/play/a0vh/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/FhWCVw7/hboplus.png" group-title="CINE Y SERIES", HBO PLUS
-http://38.52.208.106:8000/play/a00m/index.m3u8
+http://177.10.184.193:8000/play/a0gi/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES", HBO FAMILY
 http://38.226.49.253:8000/play/a07v/index.m3u8
@@ -339,7 +342,7 @@ http://38.226.49.253:8000/play/a07v/index.m3u8
 http://38.7.101.90:8000/play/a1of/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES", HBO POP
-http://38.252.213.12:8000/play/a07s
+http://190.60.40.165:1010/play/a0n1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" group-title="CINE Y SERIES", HBO MUNDI
 http://38.7.101.90:8000/play/a1og/index.m3u8
