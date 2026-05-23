@@ -21,7 +21,7 @@ https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowo
 https://cdn-live.mundogo.cl/lared/lared.mpd
 
 #EXTINF:-1 tvg-id="CNN CHILE" tvg-name="CNN CHILE" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL", CNN CHILE
-http://104.250.128.34/livehttpplay?channel_id=23557
+https://cl-a8-i-e-rv11.cdn.mdstrm.com/live-stream-gdai/631a1d95d3d77c082535e614/linear/hls/pa/event/1_f3W_akRkGQIM6-Xz3l3w/stream/7b183f3d-bebd-4100-af21-207efd3a6f7f:MRN2/variant/ebfbbaf52319c33a4ba32b35a34b0a19/bandwidth/5134800.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=9XfMTdbSCCau5RL4AtQTOde3aKX1yboi&sid=yIdJFY3i43rLmB9azduSKYAlfeO2cujy&pid=h5WsLSpElBVm8oaObTIUaRPGRtp8YZ6b&pid_dvr=g60Nven9MoMtRLCsCnaYyAWLc80ncGYM&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=PEkAHyK7J00SEJaBKpNVpsVfxicYWnusm2lWLJPRxesjH2jRJ87MNloemCK7QsB5alLwEVkBSDt&CMCD=cid%3D%22631a1d95d3d77c082535e614%22%2Cmtp%3D80500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22h5WsLSpElBVm8oaObTIUaRPGRtp8YZ6b%22&adInsertionGoogleStreamId=7b183f3d-bebd-4100-af21-207efd3a6f7f%3AMRN2&es=cl-a8-i-e-rv11.cdn.mdstrm.com&ote=1779639074627&ot=KXqeRhHY3GY-akU71Z-gaQ&proto=https&pz=cl
 
 #EXTINF:-1 tvg-id="24 Horas HD" tvg-name="24 Horas HD" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL", CANAL 24 HORAS
 http://104.250.128.34/livehttpplay?channel_id=23526
