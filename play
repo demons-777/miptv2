@@ -21,7 +21,6 @@ https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowo
 https://cdn-live.mundogo.cl/lared/lared.mpd
 
 #EXTINF:-1 tvg-id="MEGA2" tvg-name="MEGA 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Mega_2_2022.svg/revision/latest/scale-to-width-down/200?cb=20230120022851&path-prefix=es" group-title="NACIONAL", MEGA 2
-http://38.199.4.105:9999/play/a0t9/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN CHILE" tvg-name="CNN CHILE" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL", CNN CHILE
 http://38.224.175.2:8000/play/a02u/index.m3u8
@@ -184,23 +183,29 @@ http://45.5.118.152:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsg5Mhyv1ic0vowNu8DKcxwKvF0HrFRD2iqQ&s" group-title="DEPORTES", FOX +
 http://181.78.192.238:8000/play/a2hi/index.m3u8
 
-#EXTINF:-1 tvg-id="L1" tvg-name="L1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Liga_1_logo_2018.svg/revision/latest?cb=20240224045821&path-prefix=es" group-title="DEPORTES", L1
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://e7.pngegg.com/pngimages/809/867/png-clipart-fox-broadcasting-company-television-channel-logo-television-show-fox-logo-television-angle.png" group-title="DEPORTES", FOX DEPORTES USA
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 tvg-id="L1" tvg-name="L1" tvg-logo="https://tmssl.akamaized.net//images/logo/header/tdea.png?lm=1579456471" group-title="DEPORTES", L1
 http://38.226.49.253:8000/play/a0e2/index.m3u8
 
 #EXTINF:-1 tvg-id="L1MAX" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png" group-title="DEPORTES", L1MAX
 http://38.224.175.2:8000/play/a07e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s" group-title="DEPORTES", CLARO SPORTS 1
-http://38.52.208.106:8000/play/a064/index.m3u8
+http://38.224.22.252:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20180803141855" group-title="DEPORTES", CLARO SPORTS 2
-http://38.52.208.106:8000/play/a065/index.m3u8
+http://38.224.22.252:8000/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="tvc deportes" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es" group-title="DEPORTES", TVC DEPORTES
 http://38.49.128.38:8000/play/a0mj/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="tvc deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/TVC_Deportes_2_%282016-%29.png/revision/latest?cb=20160225011139" group-title="DEPORTES", TVC DEPORTES 2
+http://45.190.185.204:9000/play/a0bf/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="" tvg-name="TUDN DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="DEPORTES", TUDN DEPORTES
-http://45.186.106.207:8000/play/a099/index.m3u8
+http://24.152.53.3:8090/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/250px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES", BEIN SPORTS
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
@@ -209,19 +214,19 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 http://181.78.192.238:8000/play/a1uy/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="https://wpapi.larepublica.net/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/07/20200720191227.20200709160812futv.jpg.webp" group-title="DEPORTES", FUTV
-http://181.78.192.238:8000/play/a2ae/index.m3u8
+http://38.224.22.252:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778970916476" group-title="DEPORTES", DIRECTV SPORTS 
 http://38.224.175.2:8000/play/a0l4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778968513757" group-title="DEPORTES", DIRECTV SPORTS 2
-http://104.250.128.34/livehttpplay?channel_id=23538
+http://190.242.61.125:8000/play/a0lb/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS+" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778453799857" group-title="DEPORTES", DIRECTV SPORTS +
 http://104.250.128.34/livehttpplay?channel_id=23539
 
 #EXTINF:-1 tvg-id="" tvg-name="PXSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png" group-title="DEPORTES", PXSPORTS
-http://104.250.128.34/livehttpplay?channel_id=23543
+http://45.167.1.139:8000/play/a02m
 
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="DEPORTES", AZTECA DEPORTES  
 http://200.229.147.142:8000/play/a08v/index.m3u8
@@ -230,19 +235,19 @@ http://200.229.147.142:8000/play/a08v/index.m3u8
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ADRENALINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES", ADRENALINA
-http://45.173.201.51:4000/play/a0l5/index.m3u8
+http://138.36.253.106:8066/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="DEPORTES", SKY SPORTS LA LIGA
-http://45.5.119.43:4000/play/a05r/index.m3u8
+http://45.5.118.152:8000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://images.contentstack.io/v3/assets/blt4b099fa9cc3801a6/blt689a8ec21a8ba16e/68a31aaf6ea2cd2d8de77c49/Bun-MAIN.jpg" group-title="DEPORTES", SKY SPORTS BUNDESLIGA
-http://200.229.147.142:8000/play/a05b/index.m3u8
+http://190.61.101.11:7050/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", TIGO SPORTS
 http://45.5.118.152:8000/play/a08x/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/960px-Movistar_Deportes.svg.png" group-title="DEPORTES", MOVISTAR DEPORTES
-http://38.224.175.2:8000/play/a08o/index.m3u8
+http://38.210.4.182:8000/play/a0uk/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png" group-title="DEPORTES", WIN SPORTS 
 http://181.118.156.46:8000/play/a05w/index.m3u8
@@ -251,13 +256,16 @@ http://181.118.156.46:8000/play/a05w/index.m3u8
 http://38.19.41.123:8000/play/a0cl/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://newyorktennismagazine.com/wp-content/uploads/2020/03/TennisChannel-logo_0.png" group-title="DEPORTES", TENNIS CHANNEL
-https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMKHGeDkGIrrpwyUmTU3pVORNfUGE6JtR7A&s" group-title="DEPORTES", NBA
-http://nor1live.win/livehttpplay?channel_id=23128
+http://189.148.49.233:8000/play/a05r/index.m3u8u
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/250px-Golf_Channel_logo_2025.svg.png" group-title="DEPORTES", GOLF CHANNEL
-http://181.119.111.25:4000/play/a0cb/index.m3u8
+http://189.148.49.233:8000/play/a03j/index.m3u8u
+
+#EXTINF:-1 tvg-id="" tvg-name="ITV" tvg-logo="https://yt3.googleusercontent.com/hdd0DEFAdRpAM51UyOTfeB8wvH__2hTd4yZ0X8KoRkyR-nPEopxvgGXz57P1r8UQVx9_wPLURQ=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", ITV
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
 
 
 ----------CINE Y SERIES----------
@@ -267,13 +275,13 @@ http://181.119.111.25:4000/play/a0cb/index.m3u8
 http://38.226.49.253:8000/play/a0ck/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="CINE Y SERIES", A3CINE
-http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
+http://138.36.253.106:8066/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778916859663" group-title="CINE Y SERIES", A&E
 http://38.226.49.253:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDgwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778922614678" group-title="CINE Y SERIES", AXN
-http://38.226.210.46:8000/play/a044/index.m3u8
+http://138.36.253.106:8066/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778954710531" group-title="CINE Y SERIES", AMC
 http://38.226.210.46:8000/play/a031/index.m3u8
@@ -290,26 +298,29 @@ http://38.226.49.253:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778954708530" group-title="CINE Y SERIES", CINEMAX
 http://45.5.151.62:8000/play/a012/index.m3u8
 
-#EXTINF:-1 tvg-id="CINE " tvg-name="CINE PREMIUM" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="CINE Y SERIES", CINE PREMIUM
-http://200.229.147.142:8000/play/a082/index.m3u8
-
 #EXTINF:-1 tvg-id="CINE " tvg-name="CINE FAMILIAR" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-FAMILIAR.png" group-title="CINE Y SERIES", CINE FAMILIAR
 http://200.229.147.142:8000/play/a07v/index.m3u8
+
+#EXTINF:-1 tvg-id="CINE " tvg-name="CINE PREMIUM" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="CINE Y SERIES", CINE PREMIUM
+http://200.229.147.142:8000/play/a082/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE " tvg-name="CINE HISPANO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAdYEvj3vyNhRiUr_4yM8DerZLxSXGm6KPdg&s" group-title="CINE Y SERIES", CINE HISPANO
 http://200.229.147.142:8000/play/a07x/index.m3u8
 
 #EXTINF:-1 tvg-id="CLAROCINE" tvg-name="CLARO CINEMA" tvg-logo="https://uspto.report/TM/86830508/mark.png" group-title="CINE Y SERIES", CLARO CINEMA
-http://181.78.192.238:8000/play/a1sy/index.m3u8
+http://189.148.49.233:8000/play/a062/index.m3u8u
 
 #EXTINF:-1 tvg-id="" tvg-name="CLASSIC+" tvg-logo="https://yt3.googleusercontent.com/jyFIXzyRaqXNAEwmgcqXlBxstU1U1rBDjhcGJha6XirIWpeEzQUP2sImEy0n25E1WD6yXTSa=s900-c-k-c0x00ffffff-no-rj" group-title="CINE Y SERIES", CLASSIC
-http://45.173.201.51:4000/play/a0lo/index.m3u8
+http://138.36.253.106:8066/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://yt3.googleusercontent.com/NKN8usqtQbTO_GNLIgyHfU1MYfBnxkirUKXkpJER1ALWrp8HoeSKJt1MwdU-pshOCwvTsAwYAA=s900-c-k-c0x00ffffff-no-rj" group-title="CINE Y SERIES", CINE LATINO
 http://181.78.211.244:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE MEXICANO" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="CINE Y SERIES", CINE MEXICANO
 http://181.79.86.130:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MI PELICULA" tvg-logo="" group-title="CINE Y SERIES", MI PELICULA
+http://148.222.230.197:8000/play/a0nm/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="+CINE" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE Y SERIES", +CINE
 http://179.63.6.12:9000/play/a057
@@ -324,7 +335,7 @@ http://179.63.6.12:9000/play/a06y
 http://179.63.6.12:9000/play/a07n
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR Channel" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES", STAR CHANNEL
-http://181.78.17.52:8000/play/a0rm/index.m3u8
+http://138.36.253.106:8066/play/a021/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STARZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="CINE Y SERIES", STARZ 
 http://181.114.57.246:4000/play/tyuptHZqYdP3wcU7/index.m3u8
@@ -359,7 +370,7 @@ http://45.5.57.132:8000/play/a059/index.m3u8
 https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
 
 #EXTINF:-1 tvg-id="DEPELICULA" tvg-name="DE PELICULA +" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png" group-title="CINE Y SERIES", DE PELICULA PLUS
-http://45.173.201.51:4000/play/a0lu/index.m3u8
+http://201.151.118.136:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest?cb=20210514013226&path-prefix=es" group-title="CINE Y SERIES", DHE
 http://181.78.17.52:8000/play/a0qz/index.m3u8
@@ -389,7 +400,7 @@ http://45.173.201.51:4000/play/a0m4/index.m3u8
 http://181.78.67.171:8000/play/a0xo/index.m3u8
 
 #EXTINF:-1 tvg-id="MP" tvg-name="MP" tvg-logo="https://static.wikia.nocookie.net/logofan/images/7/79/Multipremier_%282012-2020%29.png/revision/latest?cb=20240116172218&path-prefix=es" group-title="CINE Y SERIES", MULTIPREMIER
-http://45.173.201.51:4000/play/a0mi/index.m3u8
+http://138.36.253.106:8066/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b3a567a9c9259721e3_space.png" group-title="CINE Y SERIES", SPACE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -629,7 +640,17 @@ http://38.224.175.2:8000/play/a06x/index.m3u8
 http://190.60.39.195:8000/play/a0wy/index.m3u8
 
 #EXTINF:-1 tvg-id="lifetime" tvg-name="LIFETIME" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/9/94/Lifetime_2020.png/revision/latest?cb=20220105140043&path-prefix=es" group-title="CULTURA Y ENTRETENIMIENTO", LIFETIME
-http://45.181.122.46:8090/play/a037
+http://45.167.2.101:8000/play/a0q4/index.m3u8
 
 #EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CULTURA Y ENTRETENIMIENTO", NATGEO
 http://45.173.201.51:4000/play/a0i7/index.m3u8
+
+
+----------24/7-----------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hSOUCdMVqf-bb5sHLm3e1LugGyha2PvdYQ&s" group-title="24/7", DRAGON BALL
+http://181.79.86.130:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GOKU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6hSOUCdMVqf-bb5sHLm3e1LugGyha2PvdYQ&s" group-title="24/7", GOKU TV
+http://138.36.253.106:8066/play/a00f/index.m3u8
