@@ -157,7 +157,7 @@ https://cdn-live.mundogo.cl/espn3/espn3.mpd
 http://38.224.231.47:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5CHILE" tvg-name="ESPN 5 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 5
-http://38.44.109.41:8003/play/a0hg/index.m3u8
+http://38.226.210.46:8000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN6CHILE" tvg-name="ESPN 6 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 6
 http://38.226.49.253:8000/play/a05p/index.m3u8
@@ -219,13 +219,13 @@ http://181.79.87.130:8000/play/a0ca/index.m3u8
 http://45.5.118.152:8000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778970916476" group-title="DEPORTES", DIRECTV SPORTS 
-http://190.7.19.197:232/play/a09i/index.m3u8
+http://38.226.210.46:8000/play/A008/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778968513757" group-title="DEPORTES", DIRECTV SPORTS 2
 http://190.7.19.197:232/play/a09h/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS+" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778453799857" group-title="DEPORTES", DIRECTV SPORTS +
-http://38.224.175.2:8000/play/a011/index.m3u8
+http://190.7.19.197:232/play/a09i/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PXSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png" group-title="DEPORTES", PXSPORTS
 http://45.167.1.139:8000/play/a02m
