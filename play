@@ -23,7 +23,6 @@ https://jireh-1-hls-video-cl-mundo.dps.live/hls-video/ey6283je82983je9823je8jowo
 https://cdn-live.mundogo.cl/lared/lared.mpd
 
 #EXTINF:-1 tvg-id="MEGA2" tvg-name="MEGA 2" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c4/Logomega2.png/revision/latest?cb=20240327172424&path-prefix=es" group-title="NACIONAL", MEGA 2
-http://45.4.1.201:8000/play/a17j/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN CHILE" tvg-name="CNN CHILE" tvg-logo="https://i.ibb.co/YWf6xcv/cnn-chile.png" group-title="NACIONAL", CNN CHILE
 http://38.226.49.253:8000/play/a04y/index.m3u8
@@ -135,7 +134,6 @@ http://45.181.122.46:8090/play/a00i
 http://38.44.109.41:8003/play/a0g4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778968513356" group-title="DEPORTES", TNT SPORTS 2
-http://45.4.1.201:8000/play/a11q/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN PREMIUM CH
 http://45.181.122.46:8090/play/a015
@@ -309,10 +307,10 @@ http://190.7.19.197:232/play/a052/index.m3u8
 http://45.173.201.51:4000/play/a0lb/index.m3u8
 
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="Cinecanal" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778940911589" group-title="CINE Y SERIES", CINECANAL
-http://45.4.1.201:8000/play/a0zh/index.m3u8
+http://24.152.42.29:8000/play/a067/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778954708530" group-title="CINE Y SERIES", CINEMAX
-http://24.152.42.29:8000/play/a07n/index.m3u8
+http://24.152.42.29:8000/play/a07n/index.m3u8 
 
 #EXTINF:-1 tvg-id="CINE " tvg-name="CINE FAMILIAR" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-FAMILIAR.png" group-title="CINE Y SERIES", CINE FAMILIAR
 http://24.152.42.29:8000/play/a05a/index.m3u8
@@ -351,19 +349,19 @@ http://177.10.184.193:8000/play/a0gh/index.m3u8
 http://45.167.1.136:8000/play/a00j
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/q7NKc9t/hbo-family.png" group-title="CINE Y SERIES", HBO FAMILY
-http://45.4.1.201:8000/play/a10x/index.m3u8
+http://38.226.49.253:8000/play/a07v/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/mCWryRp/logo-hbo-signature-small.gif" group-title="CINE Y SERIES", HBO SIGNATURE 
 http://38.44.109.41:8003/play/a0fw/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES", HBO POP
-http://45.4.1.201:8000/play/a0n5/index.m3u8
+http://38.226.210.46:8000/play/a05n/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" group-title="CINE Y SERIES", HBO MUNDI
 http://38.44.109.41:8003/play/a0fx/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXTREM" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES", HBO XTREME
-http://45.4.1.201:8000/play/a10y/index.m3u8
+http://38.226.210.46:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-id="DEPELICULA" tvg-name="DE PELICULA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE Y SERIES", DE PELICULA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -377,7 +375,7 @@ http://190.238.43.117:9000/play/a0in/index.m3u8
 http://45.167.1.136:8000/play/a05p
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES", FX
-http://45.4.1.201:8000/play/a0zq/index.m3u8
+http://38.226.210.46:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" group-title="CINE Y SERIES", GOLDEN
 http://45.173.201.51:4000/play/a0og/index.m3u8
@@ -429,7 +427,7 @@ http://177.10.184.193:8000/play/a0d4/index.m3u8
 https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
 
 #EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE Y SERIES", TNT SERIES
-http://45.4.1.201:8000/play/a11q/index.m3u8
+http://24.152.42.29:8000/play/a07o/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://pbs.twimg.com/media/Fo4or_BXsAAsJIL.png" group-title="CINE Y SERIES", TNT NOVELAS
 http://38.226.49.253:8000/play/a07f/index.m3u8
@@ -497,7 +495,7 @@ http://181.78.8.199:8000/play/a09o/index.m3u8
 http://38.44.109.41:8003/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="etctv" tvg-name="ETC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/640px-ETC_2016-actual.png" group-title="INFANTILES", ETC 
-http://45.4.1.201:8000/play/a11m/index.m3u8
+http://45.181.122.46:8090/play/a00t
 
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e573e3704612374867e59_dreamworks.jpg" group-title="INFANTILES", DREAMWORKS
 http://200.229.147.142:8000/play/a05d/index.m3u8
@@ -543,6 +541,7 @@ https://cdnlive.klicgo.net/maxanime/live/chunklist_w148190295_DVR.m3u8
 
 #EXTINF:-1 tvg-id="947" tvg-name="PLIM PLIM" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x139/Y2gwMTAwMDAwMDAwNDIxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x139.png?timestamp=1778916858834" group-title="INFANTILES", PLIM PLIM
 http://38.44.109.41:8003/play/a027/index.m3u8
+
 
 
 ----------CULTURA Y ENTRETENIMIENTO----------
