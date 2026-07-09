@@ -251,7 +251,7 @@ http://38.49.138.198:8000/play/a0bs/index.m3u8
 http://45.5.119.43:4000/play/a05r/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS" tvg-logo="https://images.contentstack.io/v3/assets/blt4b099fa9cc3801a6/blt689a8ec21a8ba16e/68a31aaf6ea2cd2d8de77c49/Bun-MAIN.jpg" group-title="DEPORTES", SKY SPORTS BUNDESLIGA
-http://190.61.101.11:7050/play/a08z/index.m3u8
+http://200.115.96.66:4000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A" group-title="DEPORTES", TIGO SPORTS
 http://45.5.118.152:8000/play/a08x/index.m3u8
@@ -310,7 +310,7 @@ http://45.173.201.51:4000/play/a0lb/index.m3u8
 http://24.152.42.29:8000/play/a067/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778954708530" group-title="CINE Y SERIES", CINEMAX
-http://38.44.109.41:8003/play/a0ek/index.m3u8
+http://38.226.49.253:8000/play/a05j/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE " tvg-name="CINE FAMILIAR" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-FAMILIAR.png" group-title="CINE Y SERIES", CINE FAMILIAR
 http://24.152.42.29:8000/play/a05a/index.m3u8
@@ -332,9 +332,6 @@ http://45.167.2.138:8000/play/a0rp/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE MEXICANO" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="CINE Y SERIES", CINE MEXICANO
 http://181.79.86.130:8000/play/a00p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MI PELICULA" tvg-logo="" group-title="CINE Y SERIES", MI PELICULA
-http://148.222.230.197:8000/play/a0nm/index.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR Channel" tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES", STAR CHANNEL
 http://190.7.19.197:232/play/a05w/index.m3u8
@@ -410,7 +407,7 @@ http://45.173.201.51:4000/play/a0mi/index.m3u8
 https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 
 #EXTINF:-1 tvg-id="SONYCHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e153054c65152bddd6_sony.png" group-title="CINE Y SERIES", SONY CHANNEL
-http://38.224.175.2:8000/play/a00q/index.m3u8
+http://45.167.2.101:8000/play/a0qc/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY" tvg-name="SONY ACCION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVnwxAJAHsn8hbw_ZXGvugo4e4xC7iRcdqw&s" group-title="CINE Y SERIES", SONY ACCION
 https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
@@ -445,7 +442,7 @@ https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/
 http://181.78.8.199:8000/play/a0cl/index.m3u8
 
 #EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.pinimg.com/736x/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg" group-title="CINE Y SERIES", STUDIO UNIVERSAL
-http://45.167.1.138:8000/play/a05f
+http://45.167.2.101:8000/play/a0ln/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALTV" tvg-name="UNIVERSAL TV" tvg-logo="https://i.pinimg.com/564x/b9/e1/b5/b9e1b5ed78238f8700fdc1704287ba37.jpg" group-title="CINE Y SERIES", UNIVERSAL TV
 http://45.173.201.51:4000/play/a0hp/index.m3u8
@@ -618,7 +615,9 @@ http://181.78.67.171:8000/play/a0xm/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HOLATV" tvg-name="HOLA TV" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F40%2F6402338_F2F85E917E131706.png&height=60&resize=RATIO&format=PNG" group-title="CULTURA Y ENTRETENIMIENTO", HOLA TV
-http://45.167.1.139:8000/play/a05z
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RXNtzRgSh6G1vO7gIhzHwQ", "kid":"e9kxLeGYVn26dbDqSGxHiA" },{ "kty":"oct", "k":"H29L6rw3UoQogAfJNr5RmQ", "kid":"O0SxWg+EXP+F9q6LQVdf0g" },{ "kty":"oct", "k":"36eZz+Ixq2hAbs5E8/HleA", "kid":"nVTyrVy3USOR8nkBna3hVg" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/holatv/holatv.mpd
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1280px-HGTV_2010.svg.png" group-title="CULTURA Y ENTRETENIMIENTO", HGTV
 http://181.78.8.199:8000/play/a0g0/index.m3u8
