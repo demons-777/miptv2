@@ -26,7 +26,7 @@ https://cdn-live.mundogo.cl/canal13/canal13.mpd
 https://cdn-live.mundogo.cl/tvp/tvp.mpd
 
 #EXTINF:-1 tvg-id="RED TELEVISION" tvg-name="RED TELEVISION HD" tvg-logo="https://i.ibb.co/VNdDky3/la-red.png" group-title="NACIONAL", LA RED
-https://ds5i0a12qngha.cloudfront.net/ts:abr.m3u8
+http://38.226.49.253:8000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-id="MEGA2" tvg-name="MEGA 2" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c4/Logomega2.png/revision/latest?cb=20240327172424&path-prefix=es" group-title="NACIONAL", MEGA 2
 http://181.119.93.83:8000/play/a15j
@@ -44,7 +44,7 @@ http://45.232.210.1:18000/play/a09h/index.m3u8
 http://45.232.210.1:18000/play/a092/index.m3u8
 
 #EXTINF:-1 tvg-id="13C" tVg-name="CANAL 13C" tvg-logo="https://e7.pngegg.com/pngimages/264/658/png-clipart-canal-13-logo-13c-television-chilevision-others-television-text.png" group-title="NACIONAL", CANAL 13C
-http://181.119.93.83:8000/play/a1no/index.m3u8
+http://38.44.109.41:8003/play/a0f1/index.m3u8
 
 #EXTINF:-1 tvg-id="rectv" tVg-name="RECTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/REC_%28Septiembre_2015%29.png/revision/latest?cb=20170712210509&path-prefix=es" group-title="NACIONAL", REC TV
 http://45.186.254.75:8000/play/a0fj/index.m3u8
@@ -79,24 +79,6 @@ https://freya.mivideo.pro/novatv/index.fmp4.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="78" tvg-name="RADIOVIDA" tvg-logo="https://www.radiovidacurico.cl/wp-content/uploads/2016/04/log-menu.png" group-title="NACIONAL", RADIO VIDA CURICO
 https://v2.tustreaming.cl/radiovidacurico/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="NACIONAL", 13 Internacional
-https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1683" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="NACIONAL", 13 Cocina
-https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1033" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title="NACIONAL", 13 Pop
-https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UC
-
-#EXTINF:-1 tvg-id="13FESTIVALES" tvg-name="CANAL 13 FESTIVALES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowo87mrhzwoe77DwRiHJud3e_OEVw19MUCQ&s" group-title="NACIONAL", CANAL 13 FESTIVALES
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-
-#EXTINF:-1 tvg-id="13REALITIES" tvg-name="CANAL 13 REALITIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Ol9uqNLFr1M8nkkpOlnkQ7O9u0QwqHOPQw&s" group-title="NACIONAL", CANAL 13 REALITIES
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-
-#EXTINF:-1 tvg-id="13TELESERIES" tvg-name="CANAL 13 TELESERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXPKA1lKIXYGWJ9EGYBOFdf7pp8DTsi1cbUq7iOBGSMsJbKSqMfCGr4PXcjiXcnYfFEM&usqp=CAU" group-title="NACIONAL", CANAL 13 TELESERIES
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-
 #EXTINF:-1 tvg-id="TVCHILE" tvg-name="TV CHILE" tvg-logo="https://i.imgur.com/Sgawacf.png" group-title="NACIONAL", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
@@ -111,6 +93,8 @@ https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 
 
 ----------DEPORTES----------
+
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="TNT SPORTS PREMIUM 1" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 1
 http://181.176.155.7:8090/play/a1xk/index.m3u8
@@ -183,10 +167,10 @@ http://158.172.155.130:8000/play/a0dt/index.m3u8
 http://138.59.227.20:8000/play/a06y/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://e7.pngegg.com/pngimages/809/867/png-clipart-fox-broadcasting-company-television-channel-logo-television-show-fox-logo-television-angle.png" group-title="DEPORTES", FOX DEPORTES
-http://45.5.118.152:8000/play/a08d/index.m3u8
+http://168.228.44.241:9997/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsg5Mhyv1ic0vowNu8DKcxwKvF0HrFRD2iqQ&s" group-title="DEPORTES", FOX +
-http://181.78.192.238:8000/play/a2hi/index.m3u8
+http://168.228.44.241:9997/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES" tvg-logo="https://e7.pngegg.com/pngimages/809/867/png-clipart-fox-broadcasting-company-television-channel-logo-television-show-fox-logo-television-angle.png" group-title="DEPORTES", FOX DEPORTES USA
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
@@ -208,6 +192,9 @@ http://45.5.118.152:8000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TUDN DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="DEPORTES", TUDN VIX
 http://38.68.134.207/live/ry6utrh/s.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Telemundo_Deportes_Logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="DEPORTES", TELEMUNDO DEPORTES
+http://168.228.44.241:9997/play/a07g/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/250px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES", BEIN SPORTS
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
@@ -379,6 +366,9 @@ http://45.186.254.75:8000/play/a07l/index.m3u8
 #EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.fmh.la/images/team/logo_rewind.png" group-title="CINE Y SERIES", REWIND
 http://45.186.254.75:8000/play/a07p/index.m3u8
 
+#EXTINF:-1 tvg-id="TODOCINE" tvg-name="TODOCINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedOIhw6vDnI16olnjST2eki5sOpc3fm-hAGnQeq1PNw&s=10" group-title="CINE Y SERIES", TODO CINE
+http://168.228.44.241:9997/play/a03n/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg" group-title="CINE Y SERIES", PARAMOUNT
 http://181.224.200.5:2277/play/a0df/index.m3u8
 
@@ -444,10 +434,10 @@ http://201.216.147.90:8729/play/a0ct
 http://201.216.147.90:8729/play/a0cs
 
 #EXTINF:-1 tvg-id="UNIVERSALPREMIER" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE Y SERIES", UNIVERSAL PREMIER 
-http://201.216.147.90:8729/play/a0cp
+http://168.228.44.241:9997/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALREALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="CINE Y SERIES", UNIVERSAL REALITIE 
-http://201.216.147.90:8729/play/a0cr
+http://168.228.44.241:9997/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNER TV" tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE Y SERIES", WARNER
 http://38.226.49.253:8000/play/a061/index.m3u8
@@ -463,7 +453,6 @@ https://jmp2.uk/stvp-ESBC2700002LO
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.cz3dWFe5nyXVR46GXjNdegHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CINE Y SERIES", Grjngo 2
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
-
 
 
 ----------INFANTILES----------
