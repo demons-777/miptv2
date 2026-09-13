@@ -112,8 +112,6 @@ https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 
 ----------DEPORTES----------
 
-
-
 #EXTINF:-1 tvg-id="2" tvg-name="TNT SPORTS PREMIUM 1" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778952907209" group-title="DEPORTES", TNT SPORTS PREMIUM 1
 http://181.176.155.7:8090/play/a1xk/index.m3u8
 
@@ -271,6 +269,8 @@ https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC NETWORKS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="DEPORTES", UFC 
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist_1920x1080.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="RALLYTV" tvg-logo="https://static-resources.redbull.tv/images/smarttv/rallytv/logos/logo-dark.svg" group-title="DEPORTES", RALLY TV
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 
 
 ----------CINE Y SERIES----------
