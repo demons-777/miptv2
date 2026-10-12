@@ -121,10 +121,10 @@ http://190.60.59.67:8000/play/a0ey
 http://190.108.83.69:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778968513356" group-title="DEPORTES", TNT SPORTS 1
-http://38.44.109.41:8003/play/a0gt/index.m3u8
+http://45.232.210.1:18000/play/a08x/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778968513356" group-title="DEPORTES", TNT SPORTS 2
-http://38.7.195.44:8000/play/a0a7
+http://8.242.175.210:8000/play/a0mo
 
 #EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN PREMIUM CH
 http://190.60.59.67:8000/play/a0fh
@@ -153,7 +153,7 @@ http://38.226.49.253:8000/play/a078/index.m3u8
 http://38.226.49.253:8000/play/a05p/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN7CHILE" tvg-name="ESPN 7 CHILE" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", ESPN 7
-http://38.44.109.41:8003/play/a0hx/index.m3u8
+http://38.187.7.252:8000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-id="TYCSPORTS" tvg-name="TYC SPORTS" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F57%2F6577079_6A66E5AB224CD2F5.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", TYC SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -221,7 +221,7 @@ http://181.119.93.83:8000/play/a15h
 http://45.5.117.188:8000/play/a039/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="DEPORTES", AZTECA DEPORTES  
-http://200.115.96.66:4000/play/a00h/index.m3u8
+http://147.75.122.125:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="tvc deportes" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es" group-title="DEPORTES", TVC DEPORTES
 http://138.59.177.78:9999/play/a002/index.m3u8
@@ -248,7 +248,7 @@ http://181.118.156.46:8000/play/a05w/index.m3u8
 http://181.79.87.130:8000/play/a0eu/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://newyorktennismagazine.com/wp-content/uploads/2020/03/TennisChannel-logo_0.png" group-title="DEPORTES", TENNIS CHANNEL
-http://168.228.44.241:9999/play/a04y/index.m3u8
+http://138.59.177.78:9999/play/a0gl/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/250px-Golf_Channel_logo_2025.svg.png" group-title="DEPORTES", GOLF CHANNEL
 http://45.5.116.228:8000/play/a0h1/index.m3u8
@@ -286,10 +286,10 @@ http://38.226.49.253:8000/play/a062/index.m3u8
 http://38.226.49.253:8000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC SERIES" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/884x202/Y2gwMTAwMDAwMDAwMjE2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_884x202.png?timestamp=1778916405945" group-title="CINE Y SERIES", AMC SERIES
-http://38.44.109.41:8003/play/a0ct/index.m3u8
+http://190.108..69:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="azcinema" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x180/Y2gwMTAwMDAwMDAwMDgxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x180.png?timestamp=1778915725134" group-title="CINE Y SERIES", AZCINEMA
-http://186.148.196.100:8000/play/a013
+http://190.14.248.42:8000/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-id="77" tvg-name="AVI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSveLVIjh4LUAzIZc6zMBbbkbsS-TjyvYJ4PcOguPs8ig&s=10" group-title="CINE Y SERIES", AVI CINE
 http://45.70.201.81:8000/play/a00z/index.m3u8
@@ -300,17 +300,20 @@ http://45.70.201.81:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="CINEMA" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778940911589" group-title="CINE Y SERIES", CINECANAL
 http://38.187.7.252:8000/play/a05z/index.m3u8
 
+#EXTINF:-1 tvg-id="CINECANAL" tvg-name="CINEMA PLATINO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Cinema_Platino_%282025%29.png/revision/latest/scale-to-width-down/608?cb=20251024020326" group-title="CINE Y SERIES", CINEMA PLATINO
+http://147.75.122.125:8000/play/a04b/index.m3u8
+
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTA3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1778954708530" group-title="CINE Y SERIES", CINEMAX
-http://38.44.109.41:8003/play/a0ek/index.m3u8
+http://181.79.87.130:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE " tvg-name="CINE FAMILIAR" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-FAMILIAR.png" group-title="CINE Y SERIES", CINE FAMILIAR
-http://181.78.8.199:8000/play/a09p/index.m3u8
+http://181.78.12.119:16123/play/ch52/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE " tvg-name="CINE PREMIUM" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="CINE Y SERIES", CINE PREMIUM
-http://38.7.195.44:8000/play/a0dk
+http://181.78.12.119:16123/play/ch49/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE " tvg-name="CINE HISPANO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAdYEvj3vyNhRiUr_4yM8DerZLxSXGm6KPdg&s" group-title="CINE Y SERIES", CINE HISPANO
-http://181.78.8.199:8000/play/a09n/index.m3u8
+http://181.78.12.119:16123/play/ch51/index.m3u8
 
 #EXTINF:-1 tvg-id="CLAROCINE" tvg-name="CLARO CINEMA" tvg-logo="https://uspto.report/TM/86830508/mark.png" group-title="CINE Y SERIES", CLARO CINEMA
 http://181.79.87.130:8000/play/a0bh/index.m3u8
@@ -331,7 +334,7 @@ http://38.187.7.252:8000/play/a065/index.m3u8
 http://38.187.7.252:8000/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/Rhmnzgk/hbo-2.png" group-title="CINE Y SERIES", HBO 2
-http://38.44.109.41:8003/play/a0hi/index.m3u8
+http://45.5.117.99:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="https://i.ibb.co/FhWCVw7/hboplus.png" group-title="CINE Y SERIES", HBO PLUS
 http://45.167.1.136:8000/play/a00j
@@ -340,13 +343,13 @@ http://45.167.1.136:8000/play/a00j
 http://38.187.7.252:8000/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/mCWryRp/logo-hbo-signature-small.gif" group-title="CINE Y SERIES", HBO SIGNATURE 
-http://181.119.93.83:8000/play/a1tu/index.m3u8
+http://190.108.83.69:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES", HBO POP
 http://38.187.7.252:8000/play/a06a/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://i.ibb.co/7YQtS3q/hbomundi.png" group-title="CINE Y SERIES", HBO MUNDI
-http://181.119.93.83:8000/play/a1tt/index.m3u8
+http://190.108.83.69:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXTREM" tvg-name="HBO XTREME" tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES", HBO XTREME
 http://38.187.7.252:8000/play/a04g/index.m3u8
@@ -363,13 +366,13 @@ http://190.238.43.117:9000/play/a0in/index.m3u8
 http://38.187.7.252:8000/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES", FX
-http://38.44.109.41:8003/play/a0i5/index.m3u8
+http://181.176.155.7:8090/play/a1k9/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDEN" tvg-name="GOLDEN" tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" group-title="CINE Y SERIES", GOLDEN
-http://38.44.109.41:8003/play/a001/index.m3u8
+http://38.187.7.252:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-id="GOLDENEDGE" tvg-name="GOLDEN EDGE" tvg-logo="https://i.ibb.co/Jp1TrGx/Golden-Edge-Logo.png" group-title="CINE Y SERIES", GOLDEN EDGE
-http://38.44.109.41:8003/play/a002/index.m3u8
+http://38.187.7.252:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Golden_Premier_2013.jpg/revision/latest?cb=20191216003210&path-prefix=es" group-title="CINE Y SERIES", GOLDEN PREMIER
 http://38.7.195.44:8000/play/a0dh
@@ -452,19 +455,19 @@ http://45.167.2.101:8000/play/a0ln/index.m3u8
 http://38.226.49.253:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALCINEMA" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg" group-title="CINE Y SERIES", UNIVERSAL CINEMA 
-http://201.216.147.90:8729/play/a0pc
+http://138.59.177.78:9999/play/a0nd/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALCOMEDY" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://thafd.bing.com/th/id/OIP.tQO5QH8KZO3CGvXhdxj63QHaEE?rs=1&pid=ImgDetMain" group-title="CINE Y SERIES", UNIVERSAL COMEDY 
-http://201.216.147.90:8729/play/a0ct
+http://138.59.177.78:9999/play/a0no/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME" tvg-logo="http://puntoz.xyz/LOGOS/universalcrimeB.png" group-title="CINE Y SERIES", UNIVERSAL CRIME 
-http://201.216.147.90:8729/play/a0cs
+http://138.59.177.78:9999/play/a0np/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALPREMIER" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CINE Y SERIES", UNIVERSAL PREMIER 
-http://168.228.44.241:9997/play/a011/index.m3u8
+http://138.59.177.78:9999/play/a0nr/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSALREALITY" tvg-name="UNIVERSAL REALITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="CINE Y SERIES", UNIVERSAL REALITIE 
-http://168.228.44.241:9997/play/a01x/index.m3u8
+http://138.59.177.78:9999/play/a0ns/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNERTV" tvg-name="WARNER TV" tvg-logo="https://i.ibb.co/T0jMb06/warner.png" group-title="CINE Y SERIES", WARNER
 http://38.226.49.253:8000/play/a061/index.m3u8
@@ -487,6 +490,8 @@ https://jmp2.uk/stvp-ESBC2700002LO
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th/id/OIP.cz3dWFe5nyXVR46GXjNdegHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="CINE Y SERIES", Grjngo 2
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tivify.es/wp-content/uploads/2024/02/Cine-western-1.png.webp" group-title="CINE Y SERIES", CINE WESTERN
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 
 
 ----------INFANTILES----------
@@ -521,7 +526,7 @@ http://38.52.208.106:8000/play/a00j/index.m3u8
 http://181.78.211.244:8000/play/a08x/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/PtKd97J/discovery-kids.png" group-title="INFANTILES", DISCOVERY KIDS
-http://38.44.109.41:8003/play/a0eg/index.m3u8
+http://181.78.197.59:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/Lk9TH8f/disney-channel.png" group-title="INFANTILES", DISNEY CHANNEL
 http://38.224.175.2:8000/play/a0sx/index.m3u8
@@ -554,7 +559,7 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
 https://cdnlive.klicgo.net/maxanime/live/chunklist_w148190295_DVR.m3u8
 
 #EXTINF:-1 tvg-id="947" tvg-name="PLIM PLIM" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x139/Y2gwMTAwMDAwMDAwNDIxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x139.png?timestamp=1778916858834" group-title="INFANTILES", PLIM PLIM
-http://38.44.109.41:8003/play/a027/index.m3u8
+http://45.70.168.162:12339/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-id="1112" tvg-name="ANIMASH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxEiEVQ2M1nlWE9LVjqMX51J9esTHJAIG44Llb0SVT4pUVTUc4FZjy0VY&s=10" group-title="INFANTILES", ANIMASH
 http://181.78.121.15:8000/play/a00h/index.m3u8
